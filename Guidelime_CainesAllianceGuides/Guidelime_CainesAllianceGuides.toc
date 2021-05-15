@@ -1,0 +1,57 @@
+## Title: Guidelime_CainesAllianceGuides
+## Author: Caine_Sulfuras
+## Version: 0.001-Beta
+## Interface: 25100
+## Dependencies: Guidelime
+## Notes: Caine's Alliance Guides
+
+Alterac Mountains and Arathi Highlands Alliance 38-40.lua
+Ashenvale Alliance 29-29.lua
+Azshara Alliance 50-51.lua
+Azshara and Plaguelands Alliance 57-58.lua
+Azuremyst Isle to Bloodmyst Isle Draenei 1-20.lua
+Badlands Alliance 42-43.lua
+Blackrock Depths and Finish Up Alliance 58-60.lua
+Blasted Lands Alliance 49-50.lua
+Blasted Lands Alliance 56-57.lua
+Burning Steppes and UnGoro Crater Alliance 52-53.lua
+Burning Steppes and Winterspring Alliance 57-57.lua
+Coldridge Valley Dwarf Gnome 1-5.lua
+Darkshore Alliance 12-16.lua
+Desolace Alliance 34-36.lua
+Dun Morogh to Loch Modan Dwarf Gnome 5-12.lua
+Duskwood Alliance 21-23.lua
+Duskwood Alliance 26-26.lua
+Duskwood Alliance 28-29.lua
+Duskwood Alliance 29-30.lua
+Dustwallow Marsh and Thousand Needles Alliance 33-34.lua
+Dustwallow Marsh Alliance 37-38.lua
+Elwynn Forest to Loch Modan Human 5-12.lua
+Felwood and Winterspring Alliance 53-55.lua
+Feralas Alliance 45-46.lua
+Feralas and Tanaris Alliance 49-49.lua
+Hillsbrad Foothills Alliance 31-32.lua
+Hillsbrad Foothills Alliance 36-36.lua
+Northshire Human 1-5.lua
+Redridge Mountains Alliance 19-21.lua
+Redridge Mountains Alliance 24-26.lua
+Searing Gorge Alliance 48-49.lua
+Searing Gorge and Arathi Highlands 43-43.lua
+Shadowglen Night Elf 1-6.lua
+Stranglethorn Vale Alliance 32-33.lua
+Stranglethorn Vale Alliance 36-37.lua
+Stranglethorn Vale Alliance 40-40.lua
+Swamp of Sorrows Alliance 40-41.lua
+Tanaris Alliance 44-45.lua
+Tanaris Alliance 47-48.lua
+Tanaris and Feralas Alliance 41-42.lua
+Teldrassil Night Elf 6-12.lua
+The Hinterlands Alliance 46-47.lua
+The Hinterlands and Stranglethorn Vale Alliance 43-44.lua
+UnGoro Crater Alliance 51-52.lua
+Western and Eastern Plaguelands Alliance 55-56.lua
+Western Plaguelands and Felwood Alliance 50-50.lua
+Westfall Alliance 16-19.lua
+Wetlands Alliance 23-24.lua
+Wetlands Alliance 26-28.lua
+Wetlands Alliance 30-31.lua
