@@ -133,7 +133,7 @@ While doing the next steps kill Crazed Wildkin for [QC9465 Call of Fire][O]
 Kill Crazed Wildkin for [QC9573,2 Chieftain Oomooroo] 
 Kill Crazed Wildkin for [QC9465 Call of Fire]
 Kill Chieftain Oomooroo for [QC9573,1 Chieftain Ooomooroo]
-Talk to High Chief Stillpine to turn in Blood Crystals
+Talk to High Chief Stillpine to turn in [QT9566 Blood Crystals]
 Talk to Stillpine the Younger to turn in [QT9573 Chieftain Oomooroo]
 Reach level [XP11]
 Talk to Kurz the Revelator to accept [QA9570 The Kurken is Lurkin']
