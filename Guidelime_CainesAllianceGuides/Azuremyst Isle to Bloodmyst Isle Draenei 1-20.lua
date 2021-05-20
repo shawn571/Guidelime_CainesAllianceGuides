@@ -143,7 +143,7 @@ Talk to High Chief Stillpine to accept [QA9622 Warn Your People]
 Talk to Moordo to turn in [QT9571 The Kurken's Hide]
 Kill Ravager Specimens for [QC9560 Beasts of the Apocalypse!]
 Talk to Temper to turn in [QT9465 Call of Fire] and accept [QA9467 Call of Fire] [A Shaman]
-Talk to Moordo to turn in [QT9560 Beast of the Apocalypse!]
+Talk to Moordo to turn in [QT9560 Beasts of the Apocalypse!]
 Talk to Exarch Menelaous to turn in [QT9622 Warn Your People]
 Talk to Ruada to turn in [QT9582 Strength of One] and accept [QA10350 Behomat][A Warrior]
 Talk to Torallius the Pack Handler to turn in [QT9623 Coming of Age] and accept [QA9625 Elekks Are Serious Business]
@@ -154,7 +154,7 @@ Kill Hauteur and loot for [QC9467 Call of Fire][A Shaman]
 Use the Orb of Returning in your bag. [A Shaman]
 Talk to Temper to turn in [QT9467 Call of Fire][A Shaman]
 Talk to Temper and accept Call of Fire [QA9468 Call of Fire][A Shaman]
-Hearth [A Shaman]
+Hearth [H][A Shaman]
 Talk to Tuluun to turn in [QT9468 Call of Fire] and accept [QA9461 Call of Fire][A Shaman]
 Talk to Prophet Velen to turn in [QT9461 Call of Fire] and accept [QA9555 Call of Fire][A Shaman]
 Talk to Farseer Nobundo to turn in [QT9555 Call of Fire][A Shaman]
@@ -189,11 +189,12 @@ Leave The Exodar and use the Symbol of Life on the Young Furbolg Shaman for [QC9
 Go back to the Exodar to turn in [QT9600 Redemption][A Paladin]
 Talk to Nurguni to turn in [QT9604 On the Wings of a Hippogryph] and accept [QA9605 Hippogryph Master Stephanos]
 Talk to Stephanos to turn in [QT9605 Hippogryph Master Stephanos] and accept [QA9606 Return to Topher Loaal]
+Fly to [F Blood Watch]
 Talk to Caregiver Topher Loaal to turn in [QT9606 Return to Topher Loaal]
 Talk to Exarch Admetius to turn in [QT9668 Report to Exarch Admetius] and accept [QA9693 What Argus Means to Me]
 Talk to Harbinger Mikolaas to accept [QA9581 Learning from the Crystals]
-Talk to Vindicator Boros to turn in [QT9693 What Argus Means to Me] and accept [QA9694 Blood Watch] and [QA9641 Irradiated Crystal Shards]
 Reach level [XP13]
+Talk to Vindicator Boros to turn in [QT9693 What Argus Means to Me] and accept [QA9694 Blood Watch] and [QA9641 Irradiated Crystal Shards]
 Talk to Prospector Nachlan to accept [QA10063 Explorers' League, Is That Something for Gnomes?]
 Talk to Vindicator Aalesia to accept [QA9567 Know Thine Enemy]
 Kill and loot creatures for [QC9641 Irradiated Crystal Shards][O] while doing the next steps
@@ -267,7 +268,7 @@ Talk to Captain Edward Hanes to turn in [QT9672 The Bloodcurse Legacy] and accep
 Kill Bloodcursed Naga for [QC9674 The Bloodcursed Naga]
 Talk to Captain Edward Hanes to turn in [QT9674 The Bloodcursed Naga] and accept [QA9682 The Hopeless Ones...]
 Kill Bloodcursed Voyagers for [QC9682 The Hopeless Ones...]
-Reache level [XP17]
+Reach level [XP17]
 Talk to Captain Edward Hanes and refresh the underwater breathing buff - mark this complete
 Talk to Captain Edward Hanes to turn in [QT9682 The Hopeless Ones...] and accept [QA9683 Ending the Bloodcurse]
 Pick up Ysera's Tears for [QC9649 Ysera's Tears]
@@ -282,7 +283,7 @@ Talk to Jessera of Mac'Aree to turn in [QT9649 Ysera's Tears]
 Kill Sunhawk enemies to loot or pick up Medical Supplies off the ground for [QC9703 The Cryo-Core]
 Click Galaen's Corpse to turn in [QT9578 Searching for Galaen] and accept [QA9579 Galaen's Fate]
 Click Galaen's Journal next to him to accept [QA9706 Galaen's Journal - The Fate of Vindicator Saruan]
-Kill Sunhawk enemies for Galaen's Fate [QC9579 Galaen's Fate] (perhaps go back to Blood Watch at this point)
+Kill Sunhawk enemies for Galaen's Fate [QC9579 Galaen's Fate]
 Talk to Scout Joril to turn in [QT10064 Talk to the Hand] and accept [QA10065 Cutting a Path]
 Talk to Scout Loryi to accept [QA9741 Critters of the Void] *****
 Kill Mutated Tanglers for [QC10066 Oh, the Tangled Webs They Weave] and ravagers for [QC10065 Cutting a Path]
@@ -312,13 +313,17 @@ Hearth [H]
 Talk to Achelus to turn in [QT9669 The Missing Expedition]
 Talk to Vindicator Aesom to turn in [QT9748 Don't Drink the Water]
 Talk to Vindicator Kuros to turn in [QT9711 Matis the Cruel]
+The rest of the quests are optional and either require a group or a lot of travel.
 Fly to [F The Exodar]
 [G20.41,54.17,1 Azuremyst Isle] Take the boat to Auberdine
+Talk to Thundris Windweaver to turn in [QT9633 The Way to Auberdine] and accept [QA10752 Onward to Ashenvale].
 [G36.35,45.57,1 Darkshore] Get Auberdine flight point[P]
 [G33.18,40.17,1 Darkshore] Take the boat to Darnassus
 [G58.39,93.99,1 Teldrassil] Get Darnassus flight point. [P]
+Fly to [F Auberdine]
 Head south to Ashenvale.[G42.83,93.11Darkshore]
 Talk to Daelyshia to get the flight point.[P][G34.4,47.99,1Ashenvale]
+Talk to Raene Wolfrunner to turn in [QT10752 Onward to Ashenvale].
 Go here to head to the Barrens and up the mountain.[G69.1,86.9,2Ashenvale][G49,5.3,2The Barrens][G49.3,12.3,2The Barrens][G52.3,6.7The Barrens].
 Destroy the Hearthstone in your bag, then go to Help -> Character Stuck -> Teleport to Graveyard, then resurrect at the spirit healer.
 Talk to Innkeeper Heather to get a Hearthstone and make this inn your home.[S][G52.86,53.69,1Westfall]
@@ -342,6 +347,7 @@ Click Glinting Mud underwater to complete [QC3741 Hilary's Necklace].
 Click Sunken Chest for [QC125 The Lost Tools].
 Kill Redridge Poachers and Redridge Mongrels for [QC246 Assessing the Threat].
 Talk to Guard Parker to turn in [QT129 A Free Lunch] and accept [QA130 Visit the Herbalist]
+Talk to Deputy Feldon to turn in [QT246 Assessing the Threat].
 Fly to [F Stormwind]
 Talk to Grimand Elmore to turn in [QT1097 Elmore's Task] and accept [QA353 Stormpike's Delivery].[A NightElf]
 Talk to Billibug Cogspinner to buy a Bronze Tube.[G55.2,7.1Stormwind City] If he doesn't have one get one from the auction house.
