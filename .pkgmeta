@@ -2,7 +2,7 @@ enable-nolib-creation: no
 package-as: Guidelime_CainesAllianceGuides
 
 move-folders:
-   CainesAllianceGuides/Guidelime_CainesAllianceGuides : Guidelime_CainesAllianceGuides
+   Guidelime_CainesAllianceGuides/Guidelime_CainesAllianceGuides : Guidelime_CainesAllianceGuides
 
 ignore:
    - Guidelime_CainesAllianceGuides.zip
