@@ -53,8 +53,7 @@ Talk to Angus Stern to accept and turn in [QA1271 Feast at the Blue Recluse][QT1
 Talk to Brohann Caskbelly to turn in [QT1448 In Search of the Temple] and accept [QA1449 To the Hinterlands].
 Fly to [F Ironforge].
 Talk to Prospector Stormpike and accept [QA707 Ironband Wants You!].
-Go to Dun Morogh and then to Loch Modan and talk to Thorgrum Borrelson to get the flight point.[P][A NightElf][G55.5,47.7Ironforge][G19.6,62.7Loch Modan][G33.9,51.0,2]
-Fly to [F Thelsamar].[A Human,Dwarf,Gnome]
+Fly to [F Thelsamar].
 Talk to Prospector Ironband to turn in [QT707 Ironband Wants You!] and accept [QA738 Find Agmond].
 Go to Badlands.[G47.4,82.5Loch Modan]
 ]], 'Caines Alliance Guides')

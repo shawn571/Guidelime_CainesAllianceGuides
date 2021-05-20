@@ -5,8 +5,7 @@ Talk to First Mate Fitzsimmons to accept [QA288 The Third Fleet] and [QA463 The 
 Talk to Innkeeper Helbrek to buy a Flagon of Dwarven Mead for [QC288 The Third Fleet].[G10.7,60.9,2Wetlands]
 Talk to First Mate Fitzsimmons to turn in [QT288 The Third Fleet].
 Talk to Sida to accept [QA470 Digging Through the Ooze].
-Talk to Valstag Ironjaw to accept [QA473 Report to Captain Stoutfist].
-Talk to Captain Stoutfist to turn in [QT473 Report to Captain Stoutfist] and accept [QA464 War Banners].
+Talk to Captain Stoutfist to accept [QA464 War Banners].
 Talk to Tarrel Rockweaver to accept [QA305 In Search of the Excavation Team].
 Kill Gobbler and Bluegill Murlocs for [QC279 Claws from the Deep].
 Talk to Einar Stonegrip to accept [QA469 Daily Delivery].
