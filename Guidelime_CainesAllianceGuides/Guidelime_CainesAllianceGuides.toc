@@ -1,7 +1,7 @@
 ## Title: Guidelime_CainesAllianceGuides
 ## Author: Caine_Sulfuras
 ## Version: 0.001-Beta
-## Interface: 25100
+## Interface: 20501
 ## Dependencies: Guidelime
 ## Notes: Caine's Alliance Guides
 
