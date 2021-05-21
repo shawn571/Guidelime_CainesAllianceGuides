@@ -20,7 +20,8 @@ Talk to Calor to turn in [QT173 Worgen in the Woods] and accept [QA221 Worgen in
 Talk to Clerk Daltry to turn in [QT265 The Shadowy Search Continues] and accept [QA266 Inquire at the Inn].
 Talk to Tavernkeep Smitts to turn in [QT266 Inquire at the Inn] and accept [QA453 Finding the Shadowy Figure].
 Talk to Jitters to turn in [QT240 Return to Jitters] and [QT453 Finding the Shadowy Figure]. Accept [QA268 Return to Sven].
-Kill skeletons around here for [QC156 Gather Rot Blossoms], [QC57 The Night Watch], [QC101,3 The Totem of Infliction] and [QC2746,1 Items of Some Consequence].[G20,47Duskwood]
+Kill skeletons around here for [QC156 Gather Rot Blossoms], [QC57 The Night Watch], [QC101,3 The Totem of Infliction][G20,47Duskwood]
+Kill skeletons for [QC2746,1 Items of Some Consequence] if you have the quest.[G20,47Duskwood]
 Talk to Sven Yorgen to turn in [QT268 Return to Sven] and accept [QA323 Proving Your Worth].
 Kill Skeletal Raiders, Healers and Warders for [QC323 Proving Your Worth].
 Talk to Sven Yorgen to turn in [QT323 Proving Your Worth] and accept [QA269 Seeking Wisdom].
