@@ -1,11 +1,6 @@
 Guidelime.registerGuide([[
 [GA Alliance][N29-29Ashenvale][NX29-30Duskwood]
 Talk to Shindrell Swiftfire to accept [QA4581 Kayneth Stillwind].
-Talk to Sentinel Melyria Frostshadow to accept [QA1022 The Howling Vale].
-Talk to Illiyana to accept [QA1021 Vile Satyr! Dryads in Danger!].
-Go up the path [G61.0,48.4,3Ashenvale][G53.6,32.8,3Ashenvale]to get the Tome of Mel'Thandris for [G50.5,39.1,2Ashenvale][QC1022 The Howling Vale].
-Go to Anilia to turn in [G63.9,43.8,3Ashenvale][G78.3,44.8,2Ashenvale][QT1021 Vile Satyr! Dryads in Danger!] and accept [QA1031 The Branch of Cenarius].
-Kill Geltharis to complete [QC1031 The Branch of Cenarius].
 Talk to Kayneth Stillwind to turn in [QT4581 Kayneth Stillwind].
 Talk to Kayneth Stillwind to accept [QA9519 The Lost Chalice] and [QA1011 Forsaken Diseases]
 [G85.0,43.4,1Ashenvale]Talk to Suralais Farwind to get the Forest Song flight point [P]
