@@ -1,4 +1,4 @@
-Guidelime.registerGuide([[
+Guidelime.registerGuide([[77777777777777777777777777777777777777777777777777/
 [GA Alliance][N29-29Ashenvale][NX29-30Duskwood]
 Talk to Shindrell Swiftfire to accept [QA4581 Kayneth Stillwind].
 Talk to Kayneth Stillwind to turn in [QT4581 Kayneth Stillwind].
@@ -10,7 +10,7 @@ Talk to Vindicator Vedaar to accept [QA9516 Destroy the Legion].
 Talk to Illiyana to accept [QA1021 Vile Satyr! Dryads in Danger!].
 Talk to Architect Nemos to accept [QA9517 A Shameful Waste]
 Talk to Gnarl to accept [QA9526 Reclaiming Felfire Hill]
-Go to Anilia to turn in [G63.9,43.8,3Ashenvale][G78.3,44.8,2Ashenvale][QT1021 Vile Satyr! Dryads in Danger!] and accept [QA1031 The Branch of Cenarius].
+Go to Anilia to turn in [QT1021 Vile Satyr! Dryads in Danger!] and accept [QA1031 The Branch of Cenarius].
 Kill Geltharis to complete [QC1031 The Branch of Cenarius].
 Get Satyrnaar Fel Wood for [QC9517,2 A Shameful Waste].
 Get the Chalice of Elune for [QC9519 The Lost Chalice]
@@ -21,6 +21,7 @@ Kill Mannoroc Lashers, Roaming Felguards and Searing Infernals for [QC9516 Destr
 When Diabolical Plans drop, accept [QA9520 Diabolical Plans] in your bags
 Get a Bottle of Disease for [QC1011 Forsaken Diseases]
 Talk to Sentinel Farsong to turn in [QT9521 Report from the Northern Front]
+Take the road past Raynewood retreat then go up the hill here and into the cave at the top. [G54.22,32.92,3Ashenvale]
 Click the Tome of Mel'Thandris for [QC1022 The Howling Vale]
 Talk to Kayneth Stillwind to turn in [QT1011 Forsaken Diseases] and accept [QA1012 Insane Druids]. Turn in [QT9519 The Lost Chalice]
 Talk to Sentinel Luciel Starwhisper to turn in [QT9518 Agents of Destruction].
@@ -39,13 +40,10 @@ Kill Gorgannon for [QC9522,1 Never Again!]
 Talk to Kayneth Stillwind to turn in [QT1012 Insane Druids]
 Talk to Vindicator Vedaar to turn in [QT9522 Never Again!]
 Go to Azshara and talk to Jarrodenus to get the flight point.[P][G95.4,48.5,3Ashenvale][G11.9,77.58,1Azshara]
-Fly to [F Astranaar].
-Talk to Sentinel Melyria Frostshadow to turn in [QT1022 The Howling Vale] and accept [QA1037 Velinde Starsong].
-Talk to Illiyana to turn in [QT1031 The Branch of Cenarius].
 Fly to [F Darkshore][A Shaman]
 [G30.74,41.00Darkshore] Take the boat to Azuremyst Isle [A Shaman]
-Talk to Sulaa to accept [QA9500 Call of Water][A Shaman]
-Talk to Farseer Nobundo to turn in [QT9500 Call of Water] and accept [QA9501 Call of Water][A Shaman]
+Talk to Sulaa to accept [QA9502 Call of Water][A Shaman]
+Talk to Farseer Nobundo to turn in [QT9502 Call of Water] and accept [QA9501 Call of Water][A Shaman]
 Fly to [F Bloodmyst Isle][A Shaman]
 Talk to Aqueous to turn in [QT9501 Call of Water] and accept [QA9503 Call of Water][A Shaman]
 Kill Fouled Water Spirits and loot them for [QC9503 Call of Water][A Shaman]
@@ -58,14 +56,16 @@ Fly to [F Auberdine].[A Shaman]
 [G30.74,41.00Darkshore] Take the boat to Azuremyst Isle [A Shaman]
 Fly to [F Bloodmyst Isle][A Shaman]
 Talk to Aqueous to turn in [QT9504 Call of Water] and accept [QA9508 Call of Water][A Shaman]
-[G25,41Bloodmyst Isle]Go to the camp and use the Skin of Purest Water in your bag to summon Tel'athion. Kill him for [QC9508 Call of Water][A Shaman]
+[G25,41Bloodmyst Isle]Go to the camp and use click the Barrel of Filth to summon Tel'athion. Kill him for [QC9508 Call of Water][A Shaman]
 Talk to Aqueous to turn in [QT9508 Call of Water] and accept [QA9509 Call of Water].[A Shaman]
 Fly to [F The Exodar][A Shaman]
 Talk to Farseer Nobundo to turn in [QT9509 Call of Water][A Shaman]
 Talk to Sulaa to accept [QA9551 Call of Air][A Shaman]
 Talk to Farseer Nobundo to turn in [QT9551 Call of Air] and accept [QA9552 Call of Air][A Shaman]
+Leave The Exodar and head this way and up the path to Wildwind Peak.[G32.69,27.06,3Azuremyst Isle][26.93,26.91,3Azuremyst Isle][A Shaman]
 Talk to Velaada to turn in [QT9552 Call of Air] and accept [QA9553 Call of Air][A Shaman]
 Talk to Susurrus to turn in [QT9553 Call of Air] and accept [QA9554 Call of Air][A Shaman]
+Talk to Susurrus again and tell him you're ready to be flown down to The Exodar. Mark this complete once you land.
 Talk to Farseer Nobundo to turn in [QT9554 Call of Air][A Shaman]
 [G20.41,54.17,1 Azuremyst Isle] Take the boat to Auberdine[A Shaman]
 Fly to [F Rut'theran Village].
@@ -77,7 +77,7 @@ Talk to Thyn'tel Bladeweaver to turn in [QT1038 Velinde's Effects] and accept [Q
 Talk to Innkeeper Saelienne to make this inn your home.[G67.4,15.6,2Darnassus].[A Mage]
 Teleport to Ironforge.[A Mage]
 Fly to [F Menethil Harbor].[A Mage]
-Hearth to Menethil Harbor.[H][A Druid,Hunter,Rogue,Priest,Warlock,Warrior,Paladin]
+Hearth to Menethil Harbor.[H][A Druid,Hunter,Rogue,Priest,Warlock,Warrior,Paladin,Shaman]
 Take the boat to Theramore.[G5.0,63.5,3Wetlands].
 Talk to Baldruc to get the flight point.[P][G67.5,51.3,2Dustwallow Marsh].
 Go to the Barrens to die and resurrect at the spirit healer.[G64.0,39.4,3Dustwallow Marsh][G59.4,13.0,3Dustwallow Marsh][G54.2,12.3,3Dustwallow Marsh][G54.8,8.0,3Dustwallow Marsh][G64.2,57.1,3The Barrens]
