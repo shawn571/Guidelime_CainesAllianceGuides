@@ -35,14 +35,6 @@ Click Sunken Chest for [QC125 The Lost Tools].
 Kill Redridge Poachers and Redridge Mongrels for [QC246 Assessing the Threat].
 Talk to Guard Parker to turn in [QT129 A Free Lunch] and accept [QA130 Visit the Herbalist]
 Reach level [XP17].
-#Put a point in Feral Aggression.[A Druid]
-#Put a point in Thick Hide.[A Hunter]
-#Put a point in Wand Specialization.[A Priest]
-#Put a point in Permafrost.[A Mage]
-#Put a point in Deflection.[A Rogue]
-#Put a point in Deflection.[A Paladin]
-#Put a point in Suppression.[A Warlock]
-#Put a point in Tactical Mastery.[A Warrior]
 Go south to Duskwood.[A Dwarf,Human,Gnome]
 Talk to Felicia Maline to get the flight point.[G77.48,44.3,1Duskwood][P][A Dwarf,Human,Gnome].
 Hearth to Sentinel Hill.[H]
@@ -91,14 +83,6 @@ Talk to Scout Galiaan to turn in [QT153 Red Leather Bandanas].
 Talk to Gryan Stoutmantle to turn in [QT13 The People's Militia] and [QT155 The Defias Brotherhood]. Accept [QA14 The People's Militia].
 OPTIONAL DEADMINES QUEST - Talk to Gryan Stoutmantle to accept [QA166 The Defias Brotherhood].
 Reach level [XP18].
-#Put a point in Feral Aggression.[A Druid]
-#Put a point in Thick Hide.[A Hunter]
-#Put a point in Wand Specialization.[A Priest]
-#Put a point in Permafrost.[A Mage]
-#Put a point in Deflection.[A Paladin]
-#Put a point in Deflection.[A Rogue]
-#Put a point in Suppression.[A Warlock]
-#Put a point in Tactical Mastery.[A Warrior]
 Kill Defias Highwaymen, Pathstalkers and Knuckledusters for [QC14 The People's Militia][O] while doing the next steps.
 Kill Harvest Watchers around here until you get 5 Hops and 5 Flasks of Oil. Mark this step complete.[G64.21,62.06Westfall]
 Talk to Grimbooze Thunderbrew to accept [QA117 Thunderbrew Lager]. This is repeatable so you will have to mark it complete.
@@ -121,32 +105,16 @@ Kill Murloc Coastrunners for [QC152,1 The Coast Isn't Clear].
 Finish [QC9 The Killing Fields].[G46.92,35.16Westfall]
 Talk to Farmer Saldean to turn in [QT9 The Killing Fields].
 Reach level [XP19].
-#Put a point in Feral Aggressin.[A Druid]
-#Put a point in Thick Hide.[A Hunter]
-#Put a point in Wand Specialization.[A Priest]
-#Put a point in Permafrost.[A Mage]
-#Put a point in Deflection.[A Paladin]
-#Put a point in Deflection.[A Rogue]
-#Put a point in Improved Drain Life.[A Warlock]
-#Put a point in Tactical Mastery.[A Warrior]
 Talk to Gryan Stoutmantle to turn in [QT14 The People's Militia].
 Talk to Captain Danuvin to turn in [QT102 Patrolling Westfall].
 Talk to Captain Grayson to turn in [QT104 The Coastal Menace] and [QT152 The Coast Isn't Clear].
 Teleport to Moonglade.[A Druid]
 Talk to Dendrite Starblaze to turn in [QT272 Trial of the Sea Lion] and accept [QA5061 Aquatic Form][A NightElf,Druid].
-#Talk to your trainer and train Faerie Fire, Hibernate, Maul (Rank 2). If healing, Regrowth (Rank 2).[A Druid]
 Fly to Rut'theran Village.[A Druid]
 Talk to Mathrengyl Bearwalker to turn in [QT5061 Aquatic Form][A NightElf,Druid].
 Hearth to Sentinel Hill.[A Druid]
 Fly to [F Stormwind]
 Talk to Baros Alexston to turn in [QT399 Humble Beginnings].
-#Talk to your trainer and train Aspect of the Hawk (Rank 2), Multi-Shot, Serpent Sting (Rank 3).[A Hunter]
-#Talk to your trainer and train Power Word: Shield (Rank 3), Shadow Word: Pain (Rank 3), Dispel Magic.[A Priest]
-#Talk to your trainer and train Remove Lesser Curse.[A Mage]
-#Talk to your trainer and train Blessing of Freedom, Seal of Righteousness (Rank 3).[A Paladin]
-#Talk to your trainer and train Curse of Agony (Rank 2), Create Soulstone (Minor).[A Warlock]
-#Talk to the demon trainer to buy a Grimoire of Firebolt (Rank 3) and learn it.[A Warlock]
-#Talk to your trainer and train Disarm.[A Warrior]
 Talk to Innkeeper Allison to make this inn your home.[G52.65,65.68,2Stormwind City][S]
 Talk to Roberto Pupellyverbos and buy a Cask of Merlot for [QC116,2 Dry Times].[G52.18,67.82,2Stormwind City]
 Go to Goldshire and talk to Barkeep Dobbins to buy a Skin of Sweet Rum for [QC116,4 Dry Times][G43.99,65.68,2Elwynn Forest]

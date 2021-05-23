@@ -25,18 +25,8 @@ Talk to Shandris Feathermoon to turn in [QT2867 Return to Feathermoon Stronghold
 Talk to Latronicus Moonspear to turn in [QT3130 Against the Hatecrest] and accept [QA2869 Against the Hatecrest] and [QA4124 The Missing Courier].
 Kill Hatescale naga for [QC2869 Against the Hatecrest].
 Reach level [XP42].
-#Put a point in Heart of the Wild.[A Druid]
-#Put a point in Improved Concussive Shot.[A Hunter]
-#Put a point in Darkness.[A Priest]
-#Put a point in Arcane Focus.[A Mage]
-#Put a point in Divine Strength.[A Paladin]
-#Put a point in Malice.[A Rogue]
-#Put a point in Suppression.[A Warlock]
-#Put a point in Cruelty.[A Warrior]
 Talk to Latronicus Moonspear to turn in [QT2869 Against the Hatecrest].
 Talk to Ginro Hearthkindle to turn in [QT4124 The Missing Courier].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Faerie Fire (Feral) Rank 3, Ravage (Rank 2). If tanking, Maul (Rank 5). If healing, Regrowth (Rank 6).[A Druid]
 Hearth to Booty Bay.
 Talk to Crank Fizzlebub to turn in [QT1118 Back to Booty Bay].
 Fly to [F Sentinel Hill].
@@ -44,12 +34,6 @@ Talk to Grimbooze Thunderbrew to accept [QA48 Sweet Amber].
 Fly to [F Stormwind].
 Go to the auction house and buy a Frost Oil, a Gyrochronatom, and a Patterned Bronze Bracers for a future quest in Badlands.
 Talk to Angus Stern to accept and turn in [QA1271 Feast at the Blue Recluse][QT1271 Feast at the Blue Recluse].
-#Talk to your trainer and train Optional Vanish (Rank 2), Kick (Rank 3).[A Rogue]
-#Talk to your trainer and train Arcane Intellect (Rank 4), Conjure Food (Rank 5), Cone of Cold (Rank 3).[A Mage]
-#Talk to your trainer and train Blessing of Might (Rank 5), Cleanse.[A Paladin]
-#Talk to your trainer and train Battle Shout (Rank 5).[A Warrior]
-#Talk to your trainer and train Multi-Shot (Rank 3), Serpent Sting (Rank 6).[A Hunter]
-#Talk to your trainer and train Power Word: Shield (Rank 7), Shadow Word: Pain (Rank 6).[A Priest]
 Talk to Brohann Caskbelly to turn in [QT1448 In Search of the Temple] and accept [QA1449 To the Hinterlands].
 Fly to [F Ironforge].
 Talk to Prospector Stormpike and accept [QA707 Ironband Wants You!].

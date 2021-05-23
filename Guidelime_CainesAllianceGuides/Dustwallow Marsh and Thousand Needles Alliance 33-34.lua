@@ -72,14 +72,6 @@ Talk to Adjutant Tesoran to turn in [QT1259 Lieutenant Paval Reethe] and accept 
 Talk to Caz Twosprocket to turn in [QT1319 The Black Shield] and accept [QA1320 The Black Shield].
 Talk to Captain Garran Vimes to turn in [QT1285 Daelin's Men] and [QT1320 The Black Shield]. Accept [QA1286 The Deserters].
 Reach level [XP34].
-#Put a point in Predatory Strikes.[A Druid]
-#Put a point in Bestial Discipline.[A Hunter]
-#Put a point in Shadow Weaving.[A Priest]
-#Put a point in Improved Cone of Cold.[A Mage]
-#Put a point in Improved Blessing of Might.[A Paladin]
-#Put a point in Dual Wield Specialization.[A Rogue]
-#Put a point in Suppression.[A Warlock]
-#Put a point in Axe Specialization.[A Warrior]
 Fly to [F Ratchet].
 Talk to Gazlowe to turn in [QT1178 Goblin Sponsorship] and accept [QA1180 Goblin Sponsorship].
 Talk to Wharfmaster Dizzywig to turn in [QT1111 Wharfmaster Dizzywig].

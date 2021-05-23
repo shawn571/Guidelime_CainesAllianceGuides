@@ -14,31 +14,16 @@ You can die and resurrect at the spirit healer or run back to Darkshire to talk 
 Talk to Jonathan Carevin to turn in  [QT223 Worgen in the Woods] and [QT1043 The Scythe of Elune].
 Talk to Viktori Prism'Antras to turn in [QT181 Look to the Stars].
 Reach level [XP30].
-#Put a point in Sharpened Claws.[A Druid]
-#Put a point in Intimidation.[A Hunter]
-#Put a point in Shadow Weaving.[A Priest]
-#Put a point in Ice Block.[A Mage]
-#Put a point in Sanctity Aura.[A Paladin]
-#Put a point in Blade Flurry.[A Rogue]
-#Put a point in Nightfall.[A Warlock]
-#Put a point in Sweeping Strikes.[A Warrior]
 Fly to [F Stormwind].[A Druid,Hunter,Rogue,Priest,Warlock,Warrior,Paladin,Shaman]
 Hearth to Darnassus.[A Mage]
 Talk to Elissa Dumas to train Teleport: Darnassus.[G40.6,82.1,2Darnassus][A Mage]
 Teleport to Stormwind.[A Mage]
-Talk to Jennea Cannon to accept [QA1947 Journey to the Marsh].[G38.5,79.3,2Stormwind City][A Mage]
-#Talk to your trainer and train Ice Armor, Arcane Explosion (Rank 3), Conjure Water (Rank 4).[A Mage]
+Talk to Jennea Cannon to accept [QA1947 Journey to the Marsh].[G38.5,79.3,2Stormwind City][A Mage]#Talk to your trainer and train Ice Armor, Arcane Explosion (Rank 3), Conjure Water (Rank 4).[A Mage]
 Talk to Wynne Larson to turn in [QT1940 Pristine Spider Silk].[A Mage]
 Talk to Wynne Larson to accept and turn in [QA1942 Astral Knot Garment][QT1942 Astral Knot Garment].[A Mage]
 If An Old History Book dropped, use it in your bag to accept [QA337 An Old History Book].
 Talk to Archmage Malin and accept [QA690 Malin's Request].
 Talk to Connor Rivers to accept [QA1301 James Hyal].
-#Talk to your trainer and train Faerie Fire (Feral) Rank 2, Mark of the Wild (Rank 4), Shred (Rank 2), Travel Form. If healing, Regrowth (Rank 4).[A Druid]
-#Talk to your trainer and train Feign Death.[A Hunter]
-#Talk to your trainer and train Devotion Aura (Rank 4), Seal of Command (Rank 2).[A Paladin]
-#Talk to your trainer and train Inner Fire (Rank 3), Shadow Protection, Power Word: Shield (Rank 5).[A Priest]
-#Talk to your trainer and train Garrote (Rank 3), Sinister Strike (Rank 4), Deadly Poison, Kidney Shot.[A Rogue]
-#Talk to your trainer and train Demon Armor (Rank 2), Drain Life (Rank 3), Immolate (Rank 4), Create Soulstone (Lesser).[A Warlock]
 Talk to Gakin the Darkbinder to turn in [QT1738 Heartswood] and accept [QA1739 The Binding].[A Warlock]
 Use the Heartswood Core in your bag at the summoning circle downstairs to summon a succubus. Defeat it to complete [QC1739 The Binding].[A Warlock]
 Talk to Gakin the Darkbinder to turn in [QT1739 The Binding] and accept [QA1798 Seeking Strahad].[A Warlock]

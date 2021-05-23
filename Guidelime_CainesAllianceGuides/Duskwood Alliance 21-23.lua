@@ -20,22 +20,6 @@ Talk to Shoni the Shilent to turn in [QT2040 Underground Assault].
 Talk to Baros Alexston to turn in [QT373 The Unsent Letter] and accept [QA389 Bazil Thredd].
 Talk to Watcher Thelwater to turn in [QT389 Bazil Thredd].
 Reach level [XP22].
-#Put a point in Furor.[A Druid]
-#Put a point in Bestial Swiftness.[A Hunter]
-#Put a point in Shadow Focus.[A Priest]
-#Put a point in Improved Blizzard.[A Mage]
-#Put a point in Seal of Command.[A Paladin]
-#Put a point in Endurance.[A Rogue]
-#Put a point in Improved Drain Life.[A Warlock]
-#Put a point in Deep Wounds.[A Warrior]
-#Talk to your trainer and train Shred. Rejuvenation (Rank 4) if healing.[A Druid]
-#Talk to your trainer and train Hunter's Mark (Rank 2).[A Hunter]
-#Talk to your trainer and train Mind Blast (Rank 3), Heal (Rank 2), Smite (Rank 4).[A Priest]
-#Talk to your trainer and train Arcane Explosion (Rank 2), Conjure Food (Rank 3).[A Mage]
-#Talk to your trainer and train Blessing of Might (Rank 3).[A Paladin]
-#Talk to your trainer and train Garrote (Rank 2), Sinister Strike (Rank 4). Optional Distract and Vanish.[A Rogue]
-#Talk to your trainer and train Create Healthstone (Lesser), Drain Life (Rank 2).[A Warlock]
-#Talk to your trainer and train Battle Shout (Rank 3), Intimidating Shout, Sunder Armor (Rank 2).[A Warrior]
 Go to Elwynn Forest and talk to Innkeeper Farley and make this inn your home.[G43.8,65.8,2Elwynn Forest]
 Talk to Brother Paxton to turn in [QT344 Brother Paxton] and accept [QA345 Ink Supplies].
 Go back to Stormwind and fly to [F Lakeshire].
@@ -71,14 +55,6 @@ Talk to Caretaker Folsom to turn in [QT70 The Legend of Stalvan] and accept [QA7
 Click the Sealed Crate to turn in [QT72 The Legend of Stalvan] and accept [QA74 The Legend of Stalvan].
 Talk to Brother Kristoff to turn in [QT346 Return to Kristoff].
 Reach level [XP23].
-#Put a point in Furor.[A Druid]
-#Put a point in Unleashed Fury.[A Hunter]
-#Put a point in Improved Shadow Word: Pain.[A Priest]
-#Put a point in Cold Snap.[A Mage]
-#Put a point in Conviction.[A Paladin]
-#Put a point in Improved Sprint.[A Rogue]
-#Put a point in Improved Drain Life.[A Warlock]
-#Put a point in Deep Wounds.[A Warrior]
 Fly to [F Ironforge].[A Mage]
 Talk to Milstaff Stormeye to learn Teleport: Ironforge.[G25.5,7.1,2Ironforge][A Mage]
 Fly to [F Menethil Harbor].[A Human,Dwarf,Gnome]

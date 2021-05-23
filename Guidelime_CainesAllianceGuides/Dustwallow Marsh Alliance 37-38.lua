@@ -31,14 +31,6 @@ Talk to Balos Jacken for [QC1286 The Deserters][G36.1,54.3,2Dustwallow Marsh]
 Talk to Balos Jacken to turn in [QT1286 The Deserters] and accept [QA1287 The Deserters].
 Talk to Tabetha to accept [QA1948 Items of Power][A Mage].
 Reach level [XP38].
-#Put a point in Savage Fury.[A Druid]
-#Put a point in Frenzy.[A Hunter]
-#Put a point in Shadow Reach.[A Priest]
-#Put a point in Ice Shards.[A Mage]
-#Put a point in Vengeance.[A Paladin]
-#Put a point in Aggression.[A Rogue]
-#Put a point in Shadow Master[A Warlock]
-#Put a point in Improved Hamstring.[A Warrior]
 [G42.8,72.4,1Dustwallow Marsh]Talk to Dyslix Silvergrub to get the flight point.[P]
 Click Wanted Poster to accept [QA11184 WANTED: Goreclaw the Ravenous]
 Talk to Gizzix Grimegurgle to accept [QA11217 Catch a Dragon by the Tail]
@@ -108,16 +100,8 @@ Talk to Magus Tirth to accept [QA1951 Rituals of Power][A Mage].
 Talk to Kravel Koalbeard to turn in [QT1112 Parts for Kravel] and accept [QA1114 Delivery to the Gnomes].
 Talk to Fizzle Brassbolts to turn in [QT1114 Delivery to the Gnomes].
 Talk to Kravel Koalbeard to accept [QA1115 The Rumormonger].
-Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Claw (Rank 3), Healing Touch (Rank 7).[A Druid]
+Teleport to Moonglade.[A Druid]#Talk to your trainer and train Claw (Rank 3), Healing Touch (Rank 7).[A Druid]
 Hearth to Ironforge.
-#Talk to your trainer and train Aspect of the Hawk (Rank 4).[A Hunter]
-#Talk to your trainer and train Flash Heal (Rank 4).[A Priest]
-#Talk to your trainer and train Arcane Explosion (Rank 4), Conjure Mana Jade, Frostbolt (Rank 7).[A Mage]
-#Talk to your trainer and train Garrote (Rank 4), Sinister Strike (Rank 6), Deadly Poison (Rank 2).[A Rogue]
-#Talk to your trainer and train Curse of Agony (Rank 4), Drain Life (Rank 4), Drain Soul (Rank 4), Siphon Life (Rank 2).[A Warlock]
-#Talk to the demon trainer and buy Grimoires of Blood Pact (Rank 4), Firebolt (Rank 5) and learn them.[A Warlock]
-#Talk to your trainer and train Pummel.[A Warrior]
 Buy a Jade from the Auction House.[A Mage]
 Fly to [F Southshore].
 ]], 'Caines Alliance Guides')

@@ -35,14 +35,6 @@ OPTIONAL ELITE - Talk to Skuerto to accept [QA694 Trelane's Defenses].
 OPTIONAL ELITE - Click the Wanted Board to accept [QA684 Wanted! Marez Cowl] and [QA685 Wanted! Otto and Falconcrest]
 Click Stone of West Binding for [QC651,1 Stones of Binding].
 Reach level [XP39].
-#Put a point in Improved Shred.[A Druid]
-#Put a point in Frenzy.[A Hunter]
-#Put a point in Silence.[A Priest]
-#Put a point in Ice Shards.[A Mage]
-#Put a point in Vengeance.[A Paladin]
-#Put a point in Weapon Expertise.[A Rogue]
-#Put a point in Shadow Mastery.[A Warlock]
-#Put a point in Two-Handed Weapon Specialization.[A Warrior]
 Click Stone of Inner Binding to turn in [QT651 Stones of Binding] and accept [QA652 Breaking the Keystone].
 Kill Marez Cowl for [QC684 Wanted!  Marez Cowl].
 Kill Otto and Falconcrest for [QC685 Wanted!  Otto and Falconcrest].
@@ -94,16 +86,6 @@ Kill Herod for [QC1053,3 In the Name of the Light].
 Run Scarlet Monastery - Cathedral.
 Kill High Inquisitor Whitemane and Scarlet Commander Mograine for [QC1053 In the Name of the Light].
 Reach level [XP40].
-#Put a point in Heart of the Wild.[A Druid]
-#Put a point in Bestial Wrath.[A Hunter]
-#Put a point in Ice Barrier.[A Mage]
-#Put a point in Darkness.[A Priest]
-#Put a point in Repentance.[A Paladin]
-#Put a point in Weapon Expertise.[A Rogue]
-#Put a point in Dark Pact.[A Warlock]
-#Put a point in Mortal Strike.[A Warrior]
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Ferocious Bite (Rank 2), Mark of the Wild (Rank 5). If tanking, Dire Bear Form. If healing, Innervate, Rejuvenation (Rank 7).[A Druid]
 Hearth to Southshore.
 Talk to Raleigh the Devout to turn in [QT1053 In the Name of the Light].
 Fly to [F Menethil Harbor].[A Mage]
@@ -115,15 +97,8 @@ Fly to [F Ironforge].[A Druid,Hunter,Paladin,Rogue,Warlock,Warrior,Priest,Shaman
 Talk to Prospector Stormpike to turn in [QT554 Stormpike's Deciphering].
 Talk to Librarian Mae Paledust to turn in [QT1050 Mythology of the Titans].
 Talk to Gerrig Bonegrip to turn in [QT653 Myzrael's Allies] and accept [QA687 Theldurin the Lost].
-#Talk to your trainer and train Hunter's Mark (Rank 3) and Mail Armor.[A Hunter]
-#Talk to your trainer and train Greater Heal, Mind Blast (Rank 6), Inner Fire (Rank 4).[A Priest]
-#Talk to your trainer and train Ice Armor (Rank 2), Conjure Water (Rank 5).[A Mage]
 Talk to the portal trainer and train the portal for Ironforge.[A Mage]
-#Talk to your trainer and train Devotion Aura (Rank 5), Seal of Command (Rank 3), Plate Mail.[A Paladin]
-#Talk to your trainer and train Eviscerate (Rank 6). Optional Feint (Rank 2), Wound Poison (Rank 2), Stealth (Rank 3).[A Rogue]
-#Talk to your trainer and train Demon Armor (Rank 3), Immolate (Rank 5), Create Soulstone.[A Warlock]
 Talk to Briarthorn to accept [QA4487 Summon Felsteed].
-#Talk to your trainer and train Heroic Strike (Rank 6), Execute (Rank 3), Plate Mail.[A Warrior]
 Go to the auction house and buy 4 Lesser Bloodstone Ore for a later quest in Booty Bay.
 Fly to [F Stormwind].
 Talk to Highlord Bolvar Fordragon to turn in [QT11222 Warn Bolvar!] and accept [QA11223 Return to Jaina].

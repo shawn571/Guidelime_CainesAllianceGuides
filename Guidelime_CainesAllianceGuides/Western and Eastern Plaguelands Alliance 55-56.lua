@@ -41,14 +41,6 @@ Talk to Nathaniel Dumah to turn in [QT5903 A Plague Upon Thee] and accept [QA590
 Talk to High Priestess MacDonnell to turn in [QT5223 Return to Chillwind Camp] and accept [QA5225 Target: Gahrron's Withering].
 Talk to Chromie to turn in [QT5153 A Strange Historian] and accept [QA5154 The Annals of Darrowshire]. Also accept [QA4971 A Matter of Time].
 Reach level [XP56].
-#Put a point in Omen of Clarity.[A Druid]
-#Put a point in Mortal Shots.[A Hunter]
-#Put a point in Improved Mind Blast.[A Priest]
-#Put a point in Arcane Meditation.[A Mage]
-#Put a point in Improved Blessing of Might.[A Paladin]
-#Put a point in Lethality.[A Rogue]
-#Put a point in Improved Drain Soul.[A Warlock]
-#Put a point in Enrage.[A Warrior]
 Use the Beacon Torch on Andorhal Tower One for [QC5097,1 All Along the Watchtowers].
 Click Musty Tome for [QC5154 The Annals of Darrowshire].
 Use the Beacon Torch on Andorhal Tower Two for [QC5097,2 All Along the Watchtowers].
@@ -89,18 +81,9 @@ Fly to [F Light's Hope Chapel].
 Talk to Carlin Redpath to turn in [QT5210 Brother Carlin]. Skip [QS5181 Villains of Darrowshire] for now.
 Talk to Caretaker Alen to turn in [QT6021 Zaeldarr the Outcast].
 Talk to Tirion Fordring to turn in [QT5781 Of Forgotten Memories] and accept [QA5845 Of Lost Honor].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Ferocious Bite (Rank 4), Healing Touch (Rank 10). If tanking, Frenzied Regeneration (Rank 3).[A Druid]
 Hearth to Menethil Harbor.[H] If you're a mage, teleport to Ironforge instead and skip this and the next step.
 Fly to [F Ironforge].
 Talk to Royal Historian Archesonus to accept [QA3702 The Smoldering Ruins of Thaurissan]. Talk to him to complete [QC3702 The Smoldering Ruins of Thaurissan]. Turn in [QT3702 The Smoldering Ruins of Thaurissan] and accept [QA3701 The Smoldering Ruins of Thaurissan].
-#Talk to your trainer and train Flash Heal (Rank 7).[A Priest]
-#Talk to your trainer and train Arcane Intellect (Rank 5), Frostbolt (Rank 10).[A Mage]
-#Talk to your trainer and train Blessing of Wisdom (Rank 5) and Retribution Aura (Rank 5).[A Paladin]
-#Talk to your trainer and train Corruption (Rank 6), Drain Life (Rank 6), Life Tap (Rank 6).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Fire Shield (Rank 5) and learn it.[A Warlock]
-#Talk to your trainer and train Heroic Strike (Rank 8), Execute.[A Warrior]
-#Talk to your trainer and train Eviscerate (Rank 8), Wound Poison (Rank 4).[A Rogue]
 Fly to [F Stormwind].
 Talk to Highlord Bolvar Fordragon to accept [QA4186 The True Masters] and [QA6182 The First and the Last].
 Talk to Master Mathias Shaw to turn in [QT6182 The First and the Last] and accept [QA6183 Honor the Dead]. Turn in [QT6183 Honor the Dead] and accept [QA6184 Flint Shadowmore].

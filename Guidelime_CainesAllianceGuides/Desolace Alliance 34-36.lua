@@ -13,20 +13,11 @@ Talk to Lord Ello Ebonlocke to turn in [QT253 Bride of the Embalmer].
 Talk to Watcher Ladimore to turn in [QT229 The Daughter Who Lived] and accept [QA231 A Daughter's Love].
 Fly to [F Sentinel Hill].
 Go back into Duskwood and click A Weathered Grave to turn in [QT231 A Daughter's Love].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Thorns (Rank 4). If tanking, Maul (Rank 4), Swipe (Rank 3). If healing, Rejuvenation (Rank 6).[A Druid]
 Hearth to Ironforge.
 Fly to [F Southshore].[A Warlock]
 Click Tome of the Cabal for [QC1802,1 Tome of the Cabal].[A Warlock]
 Fly to [F Ironforge].[A Warlock]
-#Talk to your trainer and train Serpent Sting (Rank 5).[A Hunter]
-#Talk to your trainer and train Heal (Rank 5), Mind Blast (Rank 5), Shadow Word: Pain (Rank 5).[A Priest]
-#Talk to your trainer and train Cone of Cold (Rank 2).[A Mage]
-#Talk to your trainer and train Blessing of Wisdom (Rank 3), Divine Shield.[A Paladin]
-#Talk to your trainer and train Sprint (Rank 2), Blinding Powder, Blind.[A Rogue]
-#Talk to your trainer and train Corruption (Rank 4), Create Healthstone.[A Warlock]
-Talk to Krom Stoutarm to turn in [QT1802 Tome of the Cabal] and accept [QA1804 Tome of the Cabal].[A Warlock]
-#Talk to your trainer and train Sunder Armor (Rank 3).[A Warrior]
+Talk to Krom Stoutarm to turn in [QT1802 Tome of the Cabal] and accept [QA1804 Tome of the Cabal].[A Warlock]#Talk to your trainer and train Sunder Armor (Rank 3).[A Warrior]
 Talk to Roetten Stonehammer to accept [QA1453 Reclaimers' Business in Desolace].
 Buy an Advanced Target Dummy at the auction house. If there isn't one or you don't want to do this, you can just skip the quest this is for later.
 Teleport to Darnassus.[A Mage]
@@ -40,7 +31,6 @@ Talk to Strahad Farsan to turn in [QT1804 Tome of the Cabal] and accept [QA1795 
 Go inside the tower and use the Tome of the Cabal to summon a felhunter. Defeat it for [QC1795 The Binding].[A Warlock]
 Talk to Strahad Farsan to turn in [QT1795 The Binding].
 Fly to [F Astranaar].
-#Talk to Teloren to get the flight point.
 [G37.3,59.3,3Ashenvale][G42.2,71.4,3Ashenvale][G78.3,42.4,3Stonetalon Mountains][G29.7,78.0,3Stonetalon Mountains][G53.5,7.3Desolace][G67.4,15.6,3Desolace][G66.4,11.8,2Desolace]Go to Desolace and talk to Vahlarriel Demonslayer to accept [QA1437 Vahlarriel's Search].
 Talk to Captain Pentigast to accept [QA1385 Brutal Politics].
 Talk to Corporal Melkins to accept [QA1387 Centaur Bounty].
@@ -64,14 +54,6 @@ Finish up [QC1459 Reagents for Reclaimers Inc.].
 Talk to Vahlarriel Demonslayer to turn in [QT1440 Return to Vahlarriel].
 Talk to Kreldig Ungor to turn in [QT1459 Reagents for Reclaimers Inc.] and accept [QA1466 Reagents for Reclaimers Inc.].
 Reach level [XP35].
-#Put a point in Predatory Strikes.[A Druid]
-#Put a point in Frenzy.[A Hunter]
-#Put a point in Vampiric Embrace.[A Priest]
-#Put a point in Improved Cone of Cold.[A Mage]
-#Put a point in Vengeance.[A Paladin]
-#Put a point in Dual Wield Specialization.[A Rogue]
-#Put a point in Shadow Mastery.[A Warlock]
-#Put a point in Axe Specialization.[A Warrior]
 Talk to Azore Aldamort to turn in [QT5741 Sceptre of Light] and accept [QA6027 Book of the Ancients].
 Talk to Bibbly F'utzbuckle to accept [QA5501 Bone Collector].
 Kill centaurs until you reach Friendly with Magram Clan Centaur for [QC1385 Brutal Politics].[G37,82Desolace]
@@ -100,28 +82,11 @@ Escort the caravan to safety for [QC5943 Gizelton Caravan].
 Talk to Smeed Scrabblescrew to turn in [QT5943 Gizelton Caravan].
 Talk to Warug to turn in [QT1369 Broken Tears]. If you bought the Advanced Target Dummy, accept and turn in [QA1371 Gizmo for Warug][QT1371 Gizmo for Warug].
 Grind to level [XP36].
-#Put a point in Faerie Fire (Feral).[A Druid]
-#Put a point in Frenzy.[A Hunter]
-#Put a point in Shadow Reach.[A Priest]
-#Put a point in Ice Shards.[A Mage]
-#Put a point in Vengeance.[A Paladin]
-#Put a point in Aggression.[A Rogue]
-#Put a point in Shadow Mastery.[A Warlock]
-#Put a point in Improved Hamstring.[A Warrior]
 Kill Undead Ravagers for [QC261 Down the Scarlet Path].
 Finish up [QC1466 Reagents for Reclaimers Inc.].
 Talk to Kreldig Ungor to turn in [QT1466 Reagents for Reclaimers Inc.] and accept [QA1467 Reagents for Reclaimers Inc.].
 Talk to Brother Anton to turn in [QT261 Down the Scarlet Path] and accept [QA1052 Down the Scarlet Path].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Tiger's Fury (Rank 2). If tanking, Frezied Regeneration. If healing, Regrowth (Rank 5).[A Druid]
 Hearth to Ironforge.
 Talk to Roetten Stonehammer to turn in [QT1467 Reagents for Reclaimers Inc.] and [QT1457 The Karnitol Shipwreck].
-#Talk to your trainer and train Aimed Shot (Rank 3), Mend Pet (Rank 4).[A Hunter]
-#Talk to your trainer and train Mind Flay (Rank 3), Power Word: Fortitude (Rank 4), Power Word: Shield (Rank 6).[A Priest]
-#Talk to your trainer and train Mana Shield (Rank 3), Blizzard (Rank 3).[A Mage]
-#Talk to your trainer and train Retribution Aura (Rank 3).[A Paladin]
-#Talk to your trainer and train Instant Poison (Rank 3).[A Rogue]
-#Talk to your trainer and train Life Tap (Rank 4), Shadow Bolt (Rank 6).[A Warlock]
-#Talk to your trainer and train Whirlwind.[A Warrior]
 Fly to [F Southshore].
 ]], 'Caines Alliance Guides')

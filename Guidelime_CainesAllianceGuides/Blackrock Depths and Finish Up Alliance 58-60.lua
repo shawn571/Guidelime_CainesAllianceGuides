@@ -19,14 +19,6 @@ Kill Bael'gar for [QC4024 A Taste of Flame].
 Click Relic Coffer Door for [QC4123 The Heart of the Mountain].
 Click Monument of Franclorn Forgewright to turn in [QT3802 Dark Iron Legacy].
 Reach level [XP59].
-#Put a point in Natural Shapeshifter.[A Druid]
-#Put a point in Mortal Shots.[A Hunter]
-#Put a point in Improved Mind Blast.[A Priest]
-#Put a point in Ice Shards.[A Mage]
-#Put a point in Improved Lay on Hands.[A Paladin]
-#Put a point in Ruthlessness.[A Rogue]
-#Put a point in Improved Curse of Agony.[A Warlock]
-#Put a point in Enrage.[A Warrior]
 Hearth to Menethil Harbor.[H]
 Fly to [F Ironforge].
 Talk to Innkeeper Firebrew to set your hearth here.[G18.2,51.4Ironforge]
@@ -73,8 +65,7 @@ Talk to Haleh to turn in [QT6501 The Dragon's Eye] and accept [QA6502 Drakefire 
 Fly to [F Moonglade].
 Talk to Umber to turn in [QT6844 Umber, Archivist] and accept [QA6845 Uncovering Past Secrets].
 Talk to Rabine Saturna to turn in [QT6845 Uncovering Past Secrets].
-Talk to Umber to accept and turn in [QA1185 Under the Chitin Was...][QT1185 Under the Chitin Was...].
-#Fly to [F Talonbranch Glade].
+Talk to Umber to accept and turn in [QA1185 Under the Chitin Was...][QT1185 Under the Chitin Was...].#Fly to [F Talonbranch Glade].
 Fly to [F Emerald Sanctuary]
 Talk to Kalek Skykeeper to turn in [QT5128 Words of the High Chief].
 Talk to Eridan Bluewind to turn in [QT3942 Linken's Memory] and accept [QA4084 Silver Heart].
@@ -86,13 +77,5 @@ Talk to Eridan Bluewind to turn in [QT4084 Silver Heart] and accept [QA4005 Aque
 Fly to [F Talrendis Point].
 Talk to Duke Hydraxis to turn in [QT6804 Poisoned Water] and [QT6805 Stormers and Rumblers]. Accept [QA6821 Eye of the Emberseer.]
 Reach level [XP60].
-#Put a point in Natural Shapeshifter.[A Druid]
-#Put a point in Mortal Shots.[A Hunter]
-#Put a point in Silent Resolve.[A Priest]
-#Put a point in Wand Specialization.[A Mage]
-#Put a point in Improved Lay on Hands.[A Paladin]
-#Put a point in Ruthlessness.[A Rogue]
-#Put a point in Nightfall.[A Warlock]
-#Put a point in Enrage.[A Warrior]
 Congratulations on 60!
 ]], 'Caines Alliance Guides')

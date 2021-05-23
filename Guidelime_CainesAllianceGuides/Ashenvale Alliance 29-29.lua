@@ -1,4 +1,4 @@
-Guidelime.registerGuide([[77777777777777777777777777777777777777777777777777/
+Guidelime.registerGuide([[
 [GA Alliance][N29-29Ashenvale][NX29-30Duskwood]
 Talk to Shindrell Swiftfire to accept [QA4581 Kayneth Stillwind].
 Talk to Kayneth Stillwind to turn in [QT4581 Kayneth Stillwind].

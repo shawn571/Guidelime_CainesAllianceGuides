@@ -11,14 +11,6 @@ Talk to Watcher Biggs to turn in [QT1396 Encroaching Wildlife] and pick up [QA14
 Talk to Magtoor to turn in [QT1392 Noboru the Cudgel] and accept [QA1389 Draenethyst Crystals].
 Talk to Anchorite Avuun and accept [QA9448 Mercy for the Cursed]
 Reach level [XP41].
-#Put a point in Heart of the Wild.[A Druid]
-#Put a point in Improved Concussive Shot.[A Hunter]
-#Put a point in Darkness.[A Priest]
-#Put a point in Arcane Focus.[A Mage]
-#Put a point in Divine Strength.[A Paladin]
-#Put a point in Adrenaline Rush.[A Rogue]
-#Put a point in Suppression.[A Warlock]
-#Put a point in Cruelty.[A Warrior]
 Click Draenethyst Crystals for [QC1389 Draenethyst Crystals].
 Click Caravan Chest for [QC1421 The Lost Caravan].
 Talk to Galen Goodward to accept [QA1393 Galen's Escape].

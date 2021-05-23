@@ -32,15 +32,6 @@ Talk to Verner Osgood to turn in [QT124 A Baying of Gnolls] and accept [QA126 Ho
 Talk to Dockmaster Baren to turn in [QT127 Selling Fish]. Accept [QA150 Murloc Poachers] and turn it right back in.[QT150 Murloc Poachers].
 Talk to Lucius to turn in [QT2282 Alther's Mill][A Rogue].
 Reach level [XP20].
-#Put a point in Feline Swiftness.[A Druid]
-#Put a point in Pathfinding.[A Hunter]
-#Put a point in Shadow Focus.[A Priest]
-#Put a point in Improved Blizzard.[A Mage]
-#Put a point in Pursuit of Justice.[A Paladin]
-#Put a point in Riposte.[A Rogue]
-#Put a point in Two Handed Axes and Maces.[A Shaman]
-#Put a point in Improved Drain Life.[A Warlock]
-#Put a point in Improved Overpower.[A Warrior]
 Talk to Chef Breanna to turn in [QT92 Redridge Goulash].
 Talk to Martie Jainrose to accept [QA34 An Unwelcome Guest].
 Kill Bellygrub for [QC34 An Unwelcome Guest].
@@ -51,24 +42,16 @@ Talk to Madame Eva to accept [QA101 The Totem of Infliction].
 Talk to Commander Althea Ebonlocke to accept [QA56 The Night Watch].
 Talk to Watcher Dodds to accept [QA245 Eight-Legged Menaces].
 Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Cat Form, Claw, Healing Touch (Rank 4), Mark of the Wild (Rank 3), Prowl, Rebirth, Rip.[A Druid]
 Hearth to Stormwind.
-#Talk to your trainer and train Blink, Conjure Water (Rank 3), Evocation, Mana Shield, Blizzard, Frostbolt (Rank 4), Frost Armor (Rank 3).[A Mage]
 Talk to the portal trainer and train the portal for Stormwind.[A Mage]
-#Talk to your trainer and train Demon Armor, Immolate (Rank 3), Shadow Bolt (Rank 4). Optional Ritual of Summoning.[A Warlock]
 Talk to Gakin the Darkbinder to accept [QA1716 Devourer of Souls][A Warlock].
 Talk to Brother Kristoff to accept [QA343 Speaking of Fortitude].
-#Talk to your trainer and train Aspect of the Cheetah, Mend Pet (Rank 2).[A Hunter]
-#Talk to your trainer and train Devotion Aura (Rank 3).[A Paladin]
 Talk to Gazin Tenorm to turn in [QT1787 The Tome of Divinity] and accept [QA1788 The Tome of Divinity][A Paladin].
 Talk to Duthorian Rall to turn in [QT1788 The Tome of Divinity][A Paladin].
 Talk to Duthorian Rall to accept and turn in [QA1793 The Tome of Valor][QT1793 The Tome of Valor][A Paladin].
 Click the Tome of Valor in your bag to accept [QA1649 The Tome of Valor][A Paladin].
 Talk to Duthorian Rall to turn in [QT1649 The Tome of Valor][A Paladin]. Skip the rest of the chain.
-#Talk to your trainer and train Flash Heal, Inner Fire (Rank 2).[A Priest]
 Talk to Milton Sheaf to turn in [QT343 Speaking of Fortitude] and accept [QA344 Brother Paxton].
-#Talk to your trainer and train Rend (Rank 3), Cleave, Retaliation.[A Warrior]
-#Talk to your trainer and train Backstab (Rank 3), Stealth (Rank 2), Crippling Poison, Instant Poison.[A Rogue]
 Talk to Felicia Gump to buy Stormwind Seasoning Herbs for a later quest.[G64.2,60.6Stormwind City]
 Fly to [F Sentinel Hill]
 Talk to Gryan Stoutmantle to turn in [QT143 Messenger to Westfall] and accept [QA144 Messenger to Westfall].
@@ -83,13 +66,5 @@ Hearth to Sentinel Hill.
 Talk to Gryan Stoutmantle to turn in [QT166 The Defias Brotherhood].
 Talk to Scout Riell to turn in [QT214 Red Silk Bandanas].
 Reach level [XP21].
-#Put a point in Feline Swiftness.[A Druid]
-#Put a point in Pathfinding.[A Hunter]
-#Put a point in Shadow Focus.[A Priest]
-#Put a point in Improved Blizzard.[A Mage]
-#Put a point in Pursuit of Justice.[A Paladin]
-#Put a point in Endurance.[A Rogue]
-#Put a point in Improved Drain Life.[A Warlock]
-#Put a point in Improved Overpower.[A Warrior]
 Go to Duskwood.[G64,41.9Westfall]
 ]], 'Caines Alliance Guides')

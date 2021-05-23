@@ -13,14 +13,6 @@ Kill Kirith the Damned for [QC2721 Kirith].
 Talk to Spirit of Kirith to turn in [QT2721 Kirith] and accept [QA2743 The Cover of Darkness].[G65,34Blasted Lands]
 Talk to Fallen Hero of the Horde to trun in [QT2743 The Cover of Darkness] and accept [QA2744 The Demon Hunter].
 Reach level [XP57].
-#Put a point in Improved Shred.[A Druid]
-#Put a point in Mortal Shots.[A Hunter]
-#Put a point in Improved Mind Blast.[A Priest]
-#Put a point in Arcane Meditation.[A Mage]
-#Put a point in Improved Blessing of Might.[A Paladin]
-#Put a point in Lethality.[A Rogue]
-#Put a point in Improved Curse of Agony.[A Warlock]
-#Put a point in Enrage.[A Warrior]
 Fly to [F Lakeshire].
 Talk to Magistrate Solomon to turn in [QT4186 The True Masters] and accept [QA4223 The True Masters].
 Fly to [F Morgan's Vigil].

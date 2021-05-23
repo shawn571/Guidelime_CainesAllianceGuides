@@ -31,12 +31,6 @@ Talk to Harlan Bagley to accept [QA333 Harlan Needs a Resupply].
 Talk to Rema Schneider to turn in [QT333 Harlan Needs a Resupply] and accept [QA334 Package for Thurman].
 Talk to Suzetta Gallina to turn in [QT332 Wine Shop Advert].
 Talk to Thurman Schneider to turn in [QT334 Package for Thurman].
-##Talk to your trainer and train Sinister Strike (Rank 2), Gouge.[A Rogue]
-##Talk to your trainer and train Power Word: Shield, Smite (Rank 2).[A Priest]
-#Talk to your trainer and train Conjure Food.[A Mage]
-#Talk to your trainer and train Divine Protection, Holy Light, Seal of the Crusader.[A Paladin]
-#Talk to your trainer and train Life Tap, Shadow Bolt (Rank 2).[A Warlock]
-#Talk to your trainer and train Parry.[A Warrior]
 Hearth to Goldshire.[H]
 Kill murlocs around here and loot them for [QC112 Collecting Kelp].[G51,69Elwynn Forest]
 Run into the mine to this spot to complete [QC76 The Jasperlode Mine].[G61.8,54.1,1Elwynn Forest]
@@ -52,13 +46,6 @@ Kill Goldtooth and loot him for [QC87 Goldtooth].
 Grind kobolds until you reach level [XP8].
 Die on purpose and resurrect at the spirit healer.
 Talk to Andrew Krighton to repair and vendor unneeded items.[V][G41.7,65.8,1Elwynn Forest]
-#Talk to your trainer and train Renew and Fade.[A Priest]
-#Talk to your trainer and train Polymorph, Frostbolt (Rank 2).[A Mage]
-#Talk to your trainer and train Hammer of Justice, Purify.[A Paladin]
-#Talk to your trainer and train Evasion, Eviscerate (Rank 2).[A Rogue]
-#Talk to your trainer and train Curse of Agony, Fear.[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Firebolt (Rank 2) and learn it.[A Warlock]
-#Talk to your trainer and train Heroic Strike (Rank 2), Hamstring.[A Warrior]
 Talk to Guard Thomas to turn in [QT35 Further Concerns] and accept [QA37 Find the Lost Guards] and [QA52 Protect the Frontier].
 Click the half-eaten body to turn in [QT37 Find the Lost Guards] and accept [QA45 Discover Rolf's Fate].
 Click Rolf's corpse to turn in [QT45 Discover Rolf's Fate] and accept [QA71 Report to Thomas].
@@ -91,20 +78,8 @@ When Gold Pickup Schedule drops, click it in your bag to accept [QA123 The Colle
 If you reach [XP11-3800 halfway to level 11], forget trying to get the schedule.
 Talk to Deputy Rainer to turn in [QT11 Riverpaw Gnoll Bounty]
 Reach level [XP10].
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Elemental Precision.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Sinister Strike.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Improved Rend.[A Warrior]
 Die on purpose and resurrect at the spirit healer.
 Talk to Marshal Dughan to turn in [QT123 The Collector] and [QT176 Wanted: Hogger]. Accept [QA147 Manhunt].
-#Talk to your trainer and train Mind Blast, Shadow Word: Pain (Rank 2), Lesser Heal (Rank 3), Resurrection.[A Priest]
-#Talk to your trainer and train Frost Armor (Rank 2), Conjure Water (Rank 2), Frost Nova.[A Mage]
-#Talk to your trainer and train Blessing of Protection, Devotion Aura (Rank 2), Lay on Hands, Seal of Righteousness.[A Paladin]
-#Talk to your trainer and train Slice and Dice, Sprint, Sap.[A Rogue]
-#Talk to your trainer and train Create Healthstone (Minor), Demon Skin (Rank 2), Drain Soul, Immolate (Rank 2).[A Warlock]
-#Talk to your trainer and train Rend (Rank 2), Bloodrage.[A Warrior]
 Talk to Keryn Sylvius to accept [QA2205 Seek Out SI: 7].[A Rogue]
 Talk to Lyria Du Lac to accept [QA1638 A Warrior's Training].[G41.0,65.8,1Elwynn Forest][A Warrior]
 Talk to Priestess Josetta to accept [QA5635 Desperate Prayer].[G43.4,65.6,1Elwynn Forest][A Priest]
@@ -162,12 +137,6 @@ Talk to Senator Mehr Stonehallow to accept [QA433 The Public Servant].
 Talk to Foreman Stonebrow to accept [QA432 Those Blasted Troggs!].
 Kill Rockjaw Skullthumpers and Bonesnappers for [QC432 Those Blasted Troggs!] and [QC433 The Public Servant].[G70.31,57.04Dun Morogh]
 Grind troggs until you reach level [XP11].
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Elemental Precision.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Sinister Strike.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Improved Rend.[A Warrior]
 Talk to Senator Mehr Stonehallow to turn in [QT433 The Public Servant].
 Talk to Foreman Stonebrow to turn in [QT432 Those Blasted Troggs!].
 Talk to Pilot Hammerfoot to accept [QA419 The Lost Pilot].
@@ -175,12 +144,6 @@ Click A Dwarven Corpse to turn in [QT419 The Lost Pilot] and accept [QA417 A Pil
 Kill Mangeclaw and loot him to complete [QC417 A Pilot's Revenge].
 Talk to Pilot Hammerfoot to turn in [QT417 A Pilot's Revenge].
 Reach level [XP12].
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Elemental Precision.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Gouge.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Improved Rend.[A Warrior]
 Head to Loch Modan.[G78.52,50.08Dun Morogh][G82.24,53.44Dun Morogh][G86.17,51.28Dun Morogh]
 Talk to Mountaineer Cobbleflint to accept [QA224 In Defense of the King's Lands].
 Talk to Captain Rugelfuss to accept [QA267 The Trogg Threat],
@@ -194,13 +157,6 @@ Kill Tunnel Rat enemies and loot them for [QC416 Rat Catching].
 Die on purpose and resurrect at the spirit healer.
 Talk to Mountaineer Kadrell to turn in [QT416 Rat Catching].
 Hearth to Ironforge.[H]
-#Talk to your trainer and train Inner Fire, Power Word: Fortitude (Rank 2), Power Word: Shield (Rank 2).[A Priest]
-#Talk to your trainer and train Conjure Food (Rank 2), Slow Fall.[A Mage]
-#Talk to your trainer and train Blessing of Might (Rank 2).[A Paladin]
-#Talk to your trainer and train Backstab (Rank 2), Kick.[A Rogue]
-#Talk to your trainer and train Shadow Bolt (Rank 3).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Phase Shift and learn it.[A Warlock]
-#Talk to your trainer and train Battle Shout (Rank 2), Overpower, Shield Bash.[A Warrior]
 Leave Ironforge and climb the mountain to Wetlands.[G30.9,32.6,1Dun Morogh][G32.8.29.1,1Dun Morogh][G32.19,29.06,1Dun Morogh] [G33.5,26.0,1Dun Morogh]. When it says you're in Wetlands, jump off the mountain and die and then resurrect at the spirit healer.
 Talk to Naela Trance to vendor and repair.[V][G11.29,58.29,1Wetlands]
 Talk to Shellei Brondir to get the flight point.[P][G9.48,59.69,1Wetlands]

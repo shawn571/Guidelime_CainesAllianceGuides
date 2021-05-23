@@ -50,14 +50,6 @@ Click Hoard of the Black Dragonflight to accept and turn in [QA3481 Trinkets...]
 OPTIONAL ELITE - Talk to Dying Archaeologist to accept [QA3566 Rise, Obsidion!].
 Kill Lathoric the Black and Obsidion for [QC3566 Rise, Obsidion!].
 Grind until level [XP49].
-#Put a point in Improved Nature's Grasp.[A Druid]
-#Put a point in Lethal Shots.[A Hunter]
-#Put a point in Improved Power Word: Fortitude.[A Priest]
-#Put a point in Arcane Concentration.[A Mage]
-#Put a point in Improved Seal of Righteousness.[A Paladin]
-#Put a point in Improved Slice and Dice.[A Rogue]
-#Put a point in Fel Intellect.[A Warlock]
-#Put a point in Booming Voice.[A Warrior]
 Fly to [F Menethil Harbor].
 Take the boat to Auberdine.[G4.6,57.1Wetlands]
 Fly to [F Rut'theran Village].

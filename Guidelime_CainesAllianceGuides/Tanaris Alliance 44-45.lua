@@ -30,14 +30,6 @@ Click Stolen Cargo for [QC2873 Stoley's Shipment].
 Click Pirate's Footlocker to get Ship Schedule and use it in your bag to accept [QA2876 Ship Schedules][G75,46Tanaris]
 Finish up [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy!].
 Reach level [XP45].
-#Put a point in Leader of the Pack.[A Druid]
-#Put a point in Improve Concussive Shot.[A Hunter]
-#Put a point in Shadowform.[A Priest]
-#Put a point in Arcane Focus.[A Mage]
-#Put a point in Malice.[A Rogue]
-#Put a point in Demonic Embrace.[A Warlock]
-#Put a point in Cruelty.[A Warrior]
-#Put a point in Divine Strenght.[A Paladin]
 Talk to Security Chief Bilgewhizzle to turn in [QT2875 WANTED: Andre Firebeard], [QT2876 Ship Schedules], and [QT8366 Southsea Shakedown].
 Talk to Stoley to turn in [QT2873 Stoley's Shipment].
 Talk to Haughty Modiste to turn in [QT8365 Pirate Hats Ahoy!].

@@ -33,14 +33,6 @@ Talk to Sir S. J. Elgadin to turn in [QT191 Panther Mastery].
 Talk to Ajeck Rouack to turn in [QT186 Tiger Mastery].
 Talk to Hemet Nesingwary to turn in [QT194 Raptor Mastery].
 Reach level [XP33].
-#Put a point in Predatory Strikes.[A Druid]
-#Put a point in Ferocity.[A Hunter]
-#Put a point in Shadow Weaving.[A Priest]
-#Put a point in Improved Cone of Cold.[A Mage]
-#Put a point in Two-Handed Weapon Specialization.[A Paladin]
-#Put a point in Dual Wield Specialization.[A Rogue]
-#Put a point in Siphon Life.[A Warlock]
-#Put a point in Axe Specialization.[A Warrior]
 Hearth to Ironforge.
 Fly to [F Menethil Harbor].
 Talk to Mikhail to accept [QA1249 The Missing Diplomat].

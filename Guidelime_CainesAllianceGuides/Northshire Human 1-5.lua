@@ -18,17 +18,11 @@ Talk to Marshal McBride to accept [QA3103 Hallowed Letter].[A Priest]
 Talk to Marshal McBride to accept [QA3100 Simple Letter].[A Warrior]
 Talk to Marshal McBride to accept [QA3105 Tainted Letter].[A Warlock]
 Talk to Brother Sammuel to turn in [QT3101 Consecrated Letter].[A Paladin]
-#Talk to him again to train Devotion Aura.[A Paladin]
 Talk to Jorik Kerridan to turn in [QT3102 Encrypted Letter].[A Rogue]
-#Talk to him again to train Stealth.[A Rogue]
 Talk to Khelden Bremen to turn in [QT3104 Glyphic Letter].[A Mage]
-#Talk to him again to train Arcane Intellect.[A Mage]
 Talk to Priestess Anetta to turn in [QT3103 Hallowed Letter].[A Priest]
-#Talk to her again to train Power Word: Fortitude.[A Priest]
 Talk to Llane Beshere to turn in [QT3100 Simple Letter].[A Warrior]
-#Talk to him again to train Battle Shout.[A Warrior]
 Talk to Drusilla La Salle to turn in [QT3105 Tainted Letter] and accept [QA1598 The Stolen Tome].[A Warlock]
-#Talk to her again to train Immolate.[A Warlock]
 Kill Kobold Workers for [QC15 Investigate Echo Ridge].
 Talk to Marshal McBride to turn in [QT15 Investigate Echo Ridge] and accept [QA21 Skirmish at Echo Ridge].
 Go into the mine and kill Kobold Laborers for [QC21 Skirmish at Echo Ridge].
@@ -41,13 +35,6 @@ Talk to Marshal McBride to turn in [QT21 Skirmish at Echo Ridge] and accept [QA5
 Reach level [XP5]
 Sell unneeded items at Brother Danil.[G47.6,41.6,1Elwynn Forest]
 Talk to Priestess Anetta to accept [QA5623 In Favor of the Light].[A Priest]
-#Talk to her again to train Lesser Heal (Rank 2) and Shadow Word: Pain.[A Priest]
-#Talk to your trainer and train Conjure Water and Frostbolt.[A Mage]
-#Talk to your trainer and train Blessing of Might and Judgement.[A Paladin]
-#Talk to your trainer and train Backstab and Pick Pocket.[A Rogue]
-#Talk to your trainer and train Corruption.[A Warlock]
-#Talk to the demon trainer to buy a Grimoire of Blood Pact (Rank 1) and learn it.[A Warlock]
-#Talk to your trainer and train Charge and Rend.[A Warrior]
 Talk to Milly Osworth to turn in [QT3903 Milly Osworth] and accept [QA3904 Milly's Harvest].
 Kill Garrick Padfoot and loot him to complete [QC6 Bounty on Garrick Padfoot].
 Click Milly's Harvest to complete [QC3904 Milly's Harvest].

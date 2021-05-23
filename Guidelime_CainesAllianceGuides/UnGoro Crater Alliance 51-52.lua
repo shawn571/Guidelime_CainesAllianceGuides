@@ -60,27 +60,10 @@ Kill Morphaz for [QC8232 The Green Drake][A Hunter].
 Kill Morphaz for [QC8236 The Azure Key][A Rogue].
 Use the egg to complete [QC3528 The God Hakkar].
 Reach level [XP52].
-#Put a point in Natural Weapons.[A Druid]
-#Put a point in Hawk Eye.[A Hunter]
-#Put a point in Meditation.[A Priest]
-#Put a point in Improved Arcane Explosion.[A Mage]
-#Put a point in Healing Light.[A Paladin]
-#Put a point in Relentless Strikes.[A Rogue]
-#Put a point in Fel Intellect.[A Warlock]
-#Put a point in Blood Craze.[A Warrior]
 Kill Jammal'an the Prophet for [QC1446 Jammal'an the Prophet].
 Kill Shade of Eranikus and loot the Essence of Eranikus. Use it to accept [QA3373 The Essence of Eranikus].
 Click Essence Font to turn in [QT3373 The Essence of Eranikus].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train if tanking, Demoralizing Roar (Rank 5). If healing, Rejuvenation (Rank 9).[A Druid]
 Hearth to Stormwind.
-#Talk to your trainer and train Aimed Shot (Rank 5), Mend Pet (Rank 6).[A Hunter]
-#Talk to your trainer and train Mind Blast (Rank 8), Greater Heal (Rank 3), Mind Flay (Rank 5).[A Priest]
-#Talk to your trainer and train Conjure Food (Rank 6), Mana Shield (Rank 5), Blizzard (Rank 5), Ice Barrier (Rank 3).[A Mage]
-#Talk to your trainer and train Blessing of Might (Rank 6), Hammer of Wrath (Rank 2).[A Paladin]
-#Talk to your trainer and train Instant Poison (Rank 5).[A Rogue]
-#Talk to your trainer and train Drain Soul (Rank 4), Shadow Bolt (Rank 8).[A Warlock]
-#Talk to your trainer and train Battle Shout (Rank 6).[A Warrior]
 Fly to [F Lakeshire].
 Go to Burning Steppes.[G46.8,13.7Redridge Mountains]
 ]], 'Caines Alliance Guides')

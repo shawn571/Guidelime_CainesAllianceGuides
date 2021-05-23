@@ -51,14 +51,6 @@ Kill Mokk the Savage to complete [QC348 Stranglethorn Fever].
 Kill Captain Keelhaul for [QC608,2 The Bloodsail Buccaneers].
 Kill Bloodsail enemies for [QC576 Keep an Eye Out][O] while doing the next steps.
 Reach level [XP44].
-#Put a point in Heart of the Wild.[A Druid]
-#Put a point in Improved Concussive Shot.[A Hunter]
-#Put a point in Darkness.[A Priest]
-#Put a point in Arcane Subtlety.[A Mage]
-#Put a point in Divine Strength.[A Paladin]
-#Put a point in Malice.[A Rogue]
-#Put a point in Demonic Embrace.[A Warlock]
-#Put a point in Cruelty.[A Warrior]
 Kill Fleet Master Firallon for [QC608,3 The Bloodsail Buccaneers].
 Kill Captain Stillwater for [QC608,1 The Bloodsail Buccaneers].
 Click Cortello's Riddle at the bottom of one of the ships and use it in your bag to accept [QA624 Cortello's Riddle].
@@ -82,14 +74,6 @@ Kill Jarquia for [QC4450,4 Ledger from Tanaris].
 [G52.3,9.3Blasted Lands][G66.9,19.5,2Blasted Lands]Talk to Thadius Grimshade to turn in [QT2990 Thadius Grimshade].
 OPTIONAL ZUL'FARRAK QUEST - Accept [QA2991 Nekrum's Medallion].
 Fly to [F Stormwind].
-#Talk to your trainer and train Healing Touch (Rank 8), Thorns (Rank 5). If tanking, Barkskin, Swipe (Rank 4).[A Druid]
-#Talk to your trainer and train Aimed Shot (Rank 4), Mend Pet (Rank 5).[A Hunter]
-#Talk to your trainer and train Mind Flay (Rank 4), Flash Heal (Rank 5).[A Priest]
-#Talk to your trainer and train Mana Shield (Rank 4), Blizzard (Rank 4), Frostbolt (Rank 8).[A Mage]
-#Talk to your trainer and train Hammer of Wrath.[A Paladin]
-#Talk to your trainer and train Instant Poison (Rank 4).[A Rogue]
-#Talk to your trainer and train Corruption (Rank 5), Shadow Bolt (Rank 7).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Fire Shield (Rank 4) and learn it.[A Warlock]
 Talk to Angus Stern to accept [QA212 A Meal Served Cold].
 Hearth to Booty Bay.
 Talk to "Sea Wolf" MacKinley to turn in [QT613 Cracking Maury's Foot].

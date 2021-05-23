@@ -33,20 +33,10 @@ If OOX-22/FE Distress Beacon drops, use it in your bag to accept [QA2766 Find OO
 Click Homing Robot OOX-22/FE to turn in [QT2766 Find OOX-22/FE!] and accept [QA2767 Rescue OOX-22/FE!].
 Escort the robot to safety for [QC2767 Rescue OOX-22/FE!].
 Reach level [XP46].
-#Put a point in Nature's Grasp.[A Druid]
-#Put a point in Lethal Shots.[A Hunter]
-#Put a point in Improved Power Word: Shield.[A Priest]
-#Put a point in Arcane Concentration.[A Mage]
-#Put a point in Improved Seal of Righteousness.[A Paladin]
-#Put a point in Malice.[A Rogue]
-#Put a point in Demonic Embrace.[A Warlock]
-#Put a point in Booming Voice.[A Warrior]
 Talk to Pratt McGrubben to turn in [QT2821 The Mark of Quality].
 Talk to Angelas Moonbreeze to turn in [QT2982 The High Wilderness]. Accept [QA3445 The Sunken Temple].
 Talk to Ginro Hearthkindle to turn in [QT4265 Freed from the Hive] and accept [QA4266 A Hero's Welcome].
 Talk to Shandris Feathermoon to turn in [QT4266 A Hero's Welcome] and accept [QA4267 Rise of the Silithid].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Dash (Rank 2), If tanking, Frenzied Regeneration (Rank 2). If healing, Rejuvenation (Rank 8).[A Druid]
 Teleport to Darnassus.[A Mage]
 Fly to [F Rut'theran Village].[A Druid,Hunter,Priest,Paladin,Rogue,Warlock,Warrior,Shaman]
 Talk to Erelas Ambersky to turn in [QT3022 Handle with Care] and accept [QA3661 Favored of Elune?].
@@ -56,10 +46,6 @@ Talk to Daryn Lightwind to turn in [QT2940 Feralas: A History] and accept [QA294
 Talk to Gracina Spiritmight to turn in [QT4267 Rise of the Silithid].
 Talk to Tyrande Whisperwind to turn in [QT2972 Doling Justice].
 Teleport to Stormwind.[A Mage]
-#Talk to your trainer and train Arcane Explosion (Rank 5), Ice Barrier (Rank 2).[A Mage]
-#Talk to your trainer and train Mind Blast (Rank 7), Greater Heal (Rank 2).[A Priest]
-#Talk to your trainer and train Charge (Rank 3), Sunder Armor (Rank 4).[A Warrior]
-#Talk to your trainer and train Garrote (Rank 5), Sinister Strike (Rank 7), Deadly Poison (Rank 3).[A Rogue]
 Buy a Truesilver Bar on the Auction House for a later quest.
 Hearth to Gadgetzan.
 OPTIONAL ZUL'FARRAK QUEST - Talk to Chief Engineer Bilgewhizzle to accept [QA2768 Divino-Matic Rod].

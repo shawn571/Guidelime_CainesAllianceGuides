@@ -40,14 +40,6 @@ Talk to High Priest Rohan to accept and turn in [QA5641 A Lack of Fear][QT5641 A
 Click the Waterlogged Envelope that you picked up a while ago in your bag to accept [QA637 Sully Balloo's Letter].
 Talk to Sara Balloo to turn in [QT637 Sully Balloo's Letter] and accept [QA683 Sara Balloo's Plea].
 Reach level [XP29].
-#Put a point in Sharpened Claws.[A Druid]
-#Put a point in Ferocity.[A Hunter]
-#Put a point in Improved Psychic Scream.[A Priest]
-#Put a point in Arctic Reach.[A Mage]
-#Put a point in Deflection.[A Paladin]
-#Put a point in Precision.[A Rogue]
-#Put a point in Fel Concentration.[A Warlock]
-#Put a point in Two-Handed Weapon Specialization.[A Warrior]
 Talk to Tinkmaster Overspark to turn in [QT2923 Tinkmaster Overspark].
 Talk to King Magni Bronzebeard to turn in [QT683 Sara Balloo's Plea] and accept [QA686 A King's Tribute].
 Talk to Grand Mason Marblesten to turn in [QT686 A King's Tribute] and accept [QA689 A King's Tribute].

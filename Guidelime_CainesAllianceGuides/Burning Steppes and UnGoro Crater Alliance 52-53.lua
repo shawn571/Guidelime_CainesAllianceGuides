@@ -58,14 +58,6 @@ Use the Preserved Threshadon Meat and then the Preserved Pheramone Mixture at Un
 Talk to Torwa Pathfinder to turn in [QT4292 The Bait for Lar’korwi] and [QT4301 The Mighty U’cha].
 Talk to Torwa Pathfinder to turn in [QT9053 A Better Ingredient].[A Druid]
 Reach level [XP53].
-#Put a point in Natural Weapons.[A Druid]
-#Put a point in Hawk Eye.[A Hunter]
-#Put a point in Meditation.[A Priest]
-#Put a point in Arcane Explosion.[A Mage]
-#Put a point in Healing Light.[A Paladin]
-#Put a point in Lethality.[A Rogue]
-#Put a point in Improved Healthstone.[A Warlock]
-#Put a point in Blood Craze.[A Warrior]
 [G49.9,81.6Un'Goro Crater][G48.7,85.3,2Un'Goro Crater]Use Unused Scraping Vial at the Gorishi Hive Hatchery to complete [QC3883 Alien Ecology].
 [G43.5,81.1,2Un'Goro Crater]Use the Gorishi Queen Lure at the Gorishi Silithid Crystal to summon Gorishi Hive Queen. Kill it to complete [QC4507 Pawn Captures Queen]. Certain classes may need a group to complete this. Pull the enemies into the hallway to give yourself time to rest between waves.
 Click Research Equipment for [QC3881,2 Expedition Salvation].

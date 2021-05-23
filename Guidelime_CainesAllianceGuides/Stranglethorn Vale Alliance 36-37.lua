@@ -5,14 +5,6 @@ Talk to Sergeant Yohwa to accept [QA574 Special Forces].
 Click Bookie Herod's Records to accept [QA328 The Hidden Key].
 Kill Kurzen enemies for [QC574 Special Forces].
 Reach level [XP37].
-#Put a point in Savage Fury.[A Druid]
-#Put a point in Frenzy.[A Hunter]
-#Put a point in Shadow Reach.[A Priest]
-#Put a point in Ice Shards.[A Mage]
-#Put a point in Vengeance.[A Paladin]
-#Put a point in Aggression.[A Rogue]
-#Put a point in Shadow Mastery.[A Warlock]
-#Put a point in Improved Hamstring.[A Warrior]
 Click Bookie Herod's Strongbox to turn in [QT328 The Hidden Key] and accept [QA329 The Spy Revealed!].
 Talk to Lieutenant Doren to turn in [QT329 The Spy Revealed!] and [QT574 Special Forces]. Accept [QA330 Patrol Schedules] and [QA202 Colonel Kurzen].
 Talk to Corporal Sethman to turn in [QT330 Patrol Schedules] and accept [QA331 Report to Doren].

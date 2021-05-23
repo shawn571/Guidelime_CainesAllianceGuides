@@ -32,14 +32,6 @@ Talk to Wynd Nightchaser to turn in [QT5249 To Winterspring!] and accept [QA5244
 Talk to Jaron Stoneshaper to turn in [QT5244 The Ruins of Kel’Theril] and accept [QA5245 Troubled Spirits of Kel’Theril]. Turn in [QT6604 Enraged Wildkin] and accept [QA4861 Enraged Wildkin].
 Talk to Donova Snowden to turn in [QT6603 Trouble in Winterspring!] and accept [QA5082 Threat of the Winterfall].
 Reach level [XP54]
-#Put a point in Natural Weapons.[A Druid]
-#Put a point in Hawk Eye.[A Hunter]
-#Put a point in Meditation.[A Priest]
-#Put a point in Arcane Explosion.[A Mage]
-#Put a point in Healing Light.[A Paladin]
-#Put a point in Lethality.[A Rogue]
-#Put a point in Improved Healthstone.[A Warlock]
-#Put a point in Blood Craze.[A Warrior]
 While doing the next steps work on [QC5082 Threat of the Winterfall][O], [QC8464 Winterfall Activity][O], [QC3783 Are We There, Yeti?][O], [QC4809 Chillwind Horns][O], and [QC978 Moontouched Wildkin][O].
 Kill furlbogs until Empty Firewater Flask drops. Use it to accept [QA5083 Winterfall Firewater].[G41,43Winterspring]
 Click Highborne Relic Fragment for [QC5245,2 Troubled Spirits of Kel’Theril].
@@ -51,11 +43,9 @@ Finish up [QC5082 Threat of the Winterfall] and [QC8464 Winterfall Activity].[G6
 Talk to Donova Snowden to turn in [QT5082 Threat of the Winterfall] and [QT5083 Winterfall Firewater]. Accept [QA5084 Falling to Corruption].
 Talk to Salfa to turn in [QT8464 Winterfall Activity].
 Go to Felwood and click Deadwood Cauldron to turn in [QT5084 Falling to Corruption] and accept [QA5085 Mystery Goo].
-Teleport to Stormwind.[A Mage]
-#Talk to your trainer and train Arcane Explosion (Rank 6).[A Mage]
+Teleport to Stormwind.[A Mage]#Talk to your trainer and train Arcane Explosion (Rank 6).[A Mage]
 Teleport to Darnassus.[A Mage]
-Fly to [F Rut’theran Village].[A Druid,Hunter,Rogue,Priest,Paladin,Warlock,Warrior]
-#Talk to your trainer and train Power Word: Shield (Rank 9).[A Priest]
+Fly to [F Rut’theran Village].[A Druid,Hunter,Rogue,Priest,Paladin,Warlock,Warrior]#Talk to your trainer and train Power Word: Shield (Rank 9).[A Priest]
 Talk to Gracina Spiritmight to turn in [QT4508 Calm Before the Storm] and accept [QA4510 Calm Before the Storm].
 Use Eridan’s Vial in the Temple of the Moon to complete [QC4441 Felbound Ancients].[G39.2,85.4,2Darnassus]
 Talk to Idriana to turn in [QT4510 Calm Before the Storm].
@@ -66,11 +56,6 @@ Talk to Jenal to turn in [QT3764 Un’Goro Soil].
 Talk to Arch Druid Fandral Staghelm to accept [QA3781 Morrowgrain Research].
 Talk to Mathrengyl Bearwalker to turn in [QT3781 Morrowgrain Research] and accept [QA3785 Morrowgrain Research].
 Talk to Mathrengyl Bearwalker to turn in [QT6761 The New Frontier] and accept [QA6762 Rabine Saturna].
-#Talk to your trainer and train Garrote (Rank 5), Sinister Strike (Rank 8), Deadly Poison (Rank 4).[A Rogue]
-#Talk to your trainer and train Faerie Fire (Feral), Thorns (Rank 6). If tanking, Swipe (Rank 5). If healing, Regrowth (Rank 8).[A Druid]
-#Talk to your trainer and train Multi-Shot (Rank 4).[A Hunter]
-#Talk to your trainer and train Hamstring (Rank 3), Mortal Strike (Rank 3).[A Warrior]
---Warlock and Paladin still need training for 54 skills
 Talk to Erelas Ambersky to turn in [QT978 Moontouched Wildkin].
 Fly to [F Talonbranch Glade].
 Go to Winterspring and talk to Donova Snowden to turn in [QT5085 Mystery Goo] and accept [QA5086 Toxic Horrors].
@@ -101,14 +86,6 @@ Fly to [F Talonbranch Glade]
 [G50,30Felwood]Use Flute of the Ancients to summon Arei. Talk to him to accept [QA4261 Ancient Spirit].
 Escort Arei to safety to complete [QC4261 Ancient Spirit].
 Reach level [XP55]
-#Put a point in Natural Weapons.[A Druid]
-#Put a point in Efficiency.[A Hunter]
-#Put a point in Improved Mind Blast.[A Priest]
-#Put a point in Wand Specialization.[A Mage]
-#Put a point in Improved Blessing of Might.[A Paladin]
-#Put a point in Lethality.[A Rogue]
-#Put a point in Improved Drain Soul.[A Warlock]
-#Put a point in Improved Battle Shout.[A Warrior]
 Fly to [F Talrendis Point].[A Hunter,Mage]
 Talk to Ogtinc to turn in [QT8232 The Green Drake][A Hunter].
 Talk to Archmage Xylem to turn in [QT8253 Destroy Morphaz][A Mage].

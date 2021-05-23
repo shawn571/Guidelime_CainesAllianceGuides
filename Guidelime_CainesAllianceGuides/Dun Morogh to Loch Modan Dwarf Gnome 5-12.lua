@@ -4,12 +4,6 @@ Kill enemies around here until level [XP6],[G36.17,61.63Dun Morogh]
 Talk to Senir Whitebeard to turn in [QT420 Senir's Observations].
 Talk to Tannok Frosthammer to turn in [QT2160 Supplies to Tannok].
 Talk to Innkeeper Belm to buy a Rhapsody Malt and to set this inn as your home.[S][G47.4,52.5,1Dun Morogh]
-#Talk to your trainer and train Arcane Shot, Hunter's Mark.[A Hunter]
-#Talk to your trainer and train Power Word: Shield, Smite (Rank 2).[A Priest]
-#Talk to your trainer and train Conjure Food.[A Mage]
-#Talk to your trainer and train Divine Protection, Holy Light, Seal of the Crusader.[A Paladin]
-#Talk to your trainer and train Sinister Strike (Rank 2), Gouge.[A Rogue]
-#Talk to your trainer and train Life Tap, Shadow Bolt (Rank 2).[A Warlock]
 Talk to Maxan Anvol to turn in [QT5626 In Favor of the Light] and accept [QA5625 Garments of the Light][A Priest].
 Talk to Ragnar Thunderbrew to accept [QA384 Beer Basted Boar Ribs].
 Kill boars for [QC384,1 Beer Basted Boar Ribs].
@@ -43,14 +37,6 @@ Talk to Innkeeper Belm to buy a Thunder Ale.[G47.36,52.48,1Dun Morogh][V]
 Click the Guarded Thunderbrew Barrel to accept and turn in [QA403 Guarded Thunderbrew Barrel][QT403 Guarded Thunderbrew Barrel]. Note that you don't actually have to do this, it's just in the guide to make the next step show up. So mark this step complete and talk to Jarven to complete the next step.
 Talk to Jarven Thunderbrew to accept and turn in [QA308 Distracting Jarven][QT308 Distracting Jarven].
 Click the Unguarded Thunder Ale Barrel to turn in [QT310 Bitter Rivals] and accept [QA311 Return to Marleth].
-#Talk to your trainer and train Concussive Shot, Raptor Strike.[A Hunter]
-#Talk to your trainer and train Renew. Fade if you will run dungeons.[A Priest]
-#Talk to your trainer and train Polymorph, Frostbolt (Rank 2).[A Mage]
-#Talk to your trainer and train Hammer of Justice, Purify.[A Paladin]
-#Talk to your trainer and train Evasion, Eviscerate (Rank 2).[A Rogue]
-#Talk to your trainer and train Curse of Agony, Fear.[A Warlock]
-#Talk to the demon trainer to buy a Grimoire of Firebolt (Rank 2) and learn it.[A Warlock]
-#Talk to your trainer and train Heroic Strike (Rank 2), Hamstring.[A Warrior]
 Talk to Razzle Sprysprocket to accept [QA412 Operation Recombobulation].
 Pick up Kill Frostmane Seers and click Shimmerweed Baskets and loot them to complete [QC315 The Perfect Stout][G42.5,45,2Dun Morogh][G41,44,2Dun Morogh].
 Talk to Rejold Barleybrew to turn in [QT315 The Perfect Stout] and accept [QA413 Shimmer Stout].
@@ -73,13 +59,6 @@ Grind troggs until you are at least [XP10-1250 1250 XP to level 10].
 Talk to Senator Mehr Stonehallow to turn in [QT433 The Public Servant].
 Talk to Foreman Stonebrow to turn in [QT432 Those Blasted Troggs!].
 Reach level [XP10].
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Elemental Precision.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Sinister Strike.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Improved Rend.[A Warrior]
 Talk to Pilot Hammerfoot and accept [QA419 The Lost Pilot].
 Click A Dwarven Corpse to turn in [QT419 The Lost Pilot] and accept [QA417 A Pilot's Revenge].
 Kill Mangeclaw and loot to complete [QC417 A Pilot's Revenge].
@@ -100,12 +79,8 @@ Talk to Senator Barin Redstone to turn in [QT291 The Reports].
 Talk to Golnir Bouldertoe to turn in [QT6391 Ride to Ironforge] and accept [QA6388 Gryth Thurden].
 Talk to Gryth Thurden to turn in [QT6388 Gryth Thurden] and accept [QA6392 Return to Brock].
 Talk to Lago Blackwrench to accept [QA1715 The Slaughtered Lamb][A Warlock].
-#Talk to your trainer and train Create Healthstone (Minor), Demon Skin (Rank 2), Drain Soul, Immolate (Rank 2).[A Warlock]
-#Talk to your trainer and train Blessing of Protection, Devotion Aura (Rank 2), Lay on Hands, Seal of Righteousness.[A Paladin]
 Talk to High Priest Rohan to accept [QA5639 Desperate Prayer][A Dwarf,Human,Priest].
-#Talk to your trainer and train Mind Blast, Shadow Word: Pain (Rank 2), Lesser Heal (Rank 3), Resurrection.[A Priest]
 Talk to Olmin Burningbeard to accept [QA6074 The Hunter's Path][A Dwarf,Hunter].
-#Talk to your trainer and train Aspect of the Hawk, Serpent Sting (Rank 2).[A Hunter]
 Leave Ironforge and talk to Grif Wildheart to turn in [QT6074 The Hunter's Path] and accept [QA6064 Taming the Beast][A Dwarf,Hunter].
 Use the Taming Rod in your bag on a Large Crag Boar around here to complete [QC6064 Taming the Beast][A Dwarf,Hunter].[G48,56Dun Morogh]
 Talk to Grif Wildheart to turn in [QT6064 Taming the Beast] and accept [QA6084 Taming the Beast][A Dwarf,Hunter].
@@ -114,13 +89,10 @@ Talk to Grif Wildheart to turn in [QT6084 Taming the Beast] and accept [QA6085 T
 Use the Taming Rod in your bag on an Ice Claw Bear around here to complete [QC6085 Taming the Beast][A Dwarf,Hunter].[G47,63Dun Morogh]
 Talk to Grif Wildheart to turn in [QT6085 Taming the Beast] and accept [QA6086 Training the Beast][A Dwarf,Hunter].
 Talk to Belia Thundergranit to turn in [QT6086 Training the Beast][A Dwarf,Hunter].
-#Talk to your trainer and train Rend (Rank 2), Bloodrage.[A Warrior]
 Leave Ironforge and talk to Hogral Bakkan to accept [QA2218 Road to Salvation][A Rogue].
-#Talk to your trainer and train Slice and Dice, Sprint, Sap.[A Rogue]
 Go to Ironforge and talk to Hulfdan Blackbeard to turn in [QT2218 Road to Salvation] and accept [QA2238 Simple Subterfugin'][A Rogue].
 Talk to Onin MacHammer to turn in [QT2238 Simple Subterfugin'] and accept [QA2239 Onin's Report][A Rogue].
 Talk to Hulfdan Blackbeard to turn in [QT2239 Onin's Report][A Rogue].
-#Talk to your trainer and train Frost Armor (Rank 2), Conjure Water (Rank 2), Frost Nova.[A Mage]
 Talk to Bixi Wobblebonk to train Daggers and Crossbows.[A Hunter][G62,89.6Ironforge]
 Talk to Bixi Wobblebonk to train Daggers.[A Mage,Priest][G62,89.6Ironforge]
 Talk to Buliwyf Stonehand to train One-Handed Axes.[A Paladin][G62,89.6Ironforge]
@@ -152,13 +124,6 @@ Talk to Billy Maclure to turn in [QT85 Lost Necklace] and accept [QA86 Pie for B
 Talk to Maybell Maclure to accept [QA106 Young Lovers].
 Kill Princess to complete [QC88 Princess Must Die!].
 Reach level [XP11].
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Elemental Precision.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Sinister Strike.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Improved Rend.[A Warrior]
 Kill Surena Caledon and loot her to complete [QC1688 Surena Caledon][A Warlock].
 Talk to Guard Thomas to turn in [QT35 Further Concerns]. Accept [QA37 Find the Lost Guards], [QA52 Protect the Frontier], and [QA109 Report to Gryan Stoutmantle].
 Kill Prowlers and Young Forest Bears for [QC52 Protect the Frontier][O] while doing the next steps.
@@ -192,27 +157,12 @@ Go into the mine and to this location to complete [QC62 The Fargodeep Mine].[G40
 Talk to Marshal Dughan to turn in [QT62 The Fargodeep Mine] and [QT39 Deliver Thomas' Report].
 Talk to William Pestle to turn in [QT107 Note to William].
 Reach level [XP12].
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Elemental Precision.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Gouge.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Improved Rend.[A Warrior]
 Talk to Jennea Cannon to turn in [QT1861 Mirror Lake][A Mage]
 Hearth to Thelsamar.[H]
 Talk to Brock Stoneseeker to turn in [QT6392 Return to Brock].
 Talk to Mountaineer Stormpike to turn in [QT353 Stormpike's Delivery].
 Die on purpose and resurrect at the spirit healer.
 Fly to [F Ironforge].
-#Talk to your trainer and train Arcane Shot (Rank 2), Mend Pet.[A Hunter]
-#Talk to your trainer and train Inner Fire, Power Word: Fortitude (Rank 2), Power Word: Shield (Rank 2).[A Priest]
-#Talk to your trainer and train Conjure Food (Rank 2), Slow Fall.[A Mage]
-#Talk to your trainer and train Blessing of Might (Rank 2).[A Paladin]
-#Talk to your trainer and train Backstab (Rank 2), Kick.[A Rogue]
-#Talk to your trainer and train Shadow Bolt (Rank 3).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Phase Shift and learn it.[A Warlock]
-#Talk to your trainer and train Battle Shout (Rank 2), Overpower, Shield Bash.[A Warrior]
 Talk to Tiza Battleforge to accept and turn in [QA1645 The Tome of Divinity][QT1645 The Tome of Divinity][A Dwarf,Paladin].
 Use the Tome of Divinity in your bag to accept [QA1646 The Tome of Divinity][A Paladin].
 Talk to Tiza Battleforge to turn in [QT1646 The Tome of Divinity] and accept [QA1647 The Tome of Divinity][A Paladin]

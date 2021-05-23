@@ -11,14 +11,6 @@ When OOX-09/HL Distress Beacon drops use it in your bag to accept [QA485 Find OO
 Click Homing Robot OOX-09/HL to turn in [QT485 Find OOX-09/HL!] and accept [QA836 Rescue OOX-09/HL!].
 Escort the robot to safety to complete [QC836 Rescue OOX-09/HL!].
 Reach level [XP47].
-#Put a point in Improved Nature's Grasp.[A Druid]
-#Put a point in Lethal Shots.[A Hunter]
-#Put a point in Improved Power Word: Shield.[A Priest]
-#Put a point in Arcane Concentration.[A Mage]
-#Put a point in Improved Seal of Righteousness.[A Paladin]
-#Put a point in Improved Slice and Dice.[A Rogue]
-#Put a point in Demonic Embrace.[A Warlock]
-#Put a point in Booming Voice.[A Warrior]
 Pick up Pupellyverbos Port for [QC580 Whiskey Slim's Lost Grog][OC] while doing the next step.
 Take a picture of Gammerita with the Super Snapper FX in your bag for [QC2944 The Super Snapper FX].
 Finish up [QC580 Whiskey Slim's Lost Grog].

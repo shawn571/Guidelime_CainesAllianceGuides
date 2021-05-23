@@ -9,14 +9,6 @@ Talk to Prospector Whelgar to accept [QA299 Uncovering the Past].
 You are looking for Ancient Relics that look like a large vase, a small urn, a big container, and then Loose Dirt. Loot all of those for [QC299 Uncovering the Past].
 Kill Mottled Syctheclaws and Razormaws for [QC295 Ormer's Revenge].
 Reach level [XP27].
-#Put a point in Feral Charge.[A Druid]
-#Put a point in Unleashed Fury.[A Hunter]
-#Put a point in Shadow Focus.[A Priest]
-#Put a point in Frost Channeling.[A Mage]
-#Put a point in Conviction.[A Paladin]
-#Put a point in Precision.[A Rogue]
-#Put a point in Fel Concentration.[A Warlock]
-#Put a point in Anger Management.[A Warrior]
 Talk to Ormer Ironbraid to turn in [QT295 Ormer's Revenge] and accept [QA296 Ormer's Revenge].
 Talk to Prospector Whelgar to turn in [QT299 Uncovering the Past].
 Kill Sarltooth for [QC296 Ormer's Revenge].[G31.5,48.6,3Wetlands][G33.3,51.5,3Wetlands]
@@ -37,30 +29,14 @@ Kill Nek'rosh for [QC474 Defeat Nek'rosh].
 Grind on orcs until you are [XP28-1000 1000 XP from level 28].
 Talk to Longbraid the Grim to turn in [QT472 Fall of Dun Modr].
 Reach level [XP28].
-#Put a point in Sharpened Claws.[A Druid]
-#Put a point in Ferocity.[A Hunter]
-#Put a point in Improved Psychic Scream.[A Priest]
-#Put a point in Arctic Reach.[A Mage]
-#Put a point in Deflection.[A Paladin]
-#Put a point in Precision.[A Rogue]
-#Put a point in Fel Concentration.[A Warlock]
-#Put a point in Two-Handed Weapon Specialization.[A Warrior]
 Dive down and click the Waterlogged Letter to get the Waterlogged Envelope.[G50.6,8.6,2Wetlands]
 Hearth to Stormwind.[H]
-#Talk to your trainer and train Claw (Rank 2), Rip (Rank 2). Challenging Roar if tanking. Rejuvenation (Rank 5) if healing.[A Druid]
-#Talk to your trainer and train Arcane Intellect (Rank 3), Conjure Mana Agate, Mana Shield (Rank 2), Blizzard (Rank 2).[A Mage]
-#Talk to your trainer and train Curse of Agony (Rank 3), Shadow Bolt (Rank 5).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Firebolt (Rank 4) and learn it.[A Warlock]
 OPTIONAL GNOMEREGAN QUEST - Talk to Brother Sarno to accept [QA2923 Tinkmaster Overspark].
 Talk to Thomas to accept [QA1274 The Missing Diplomat].
-Talk to Archbishop Benedictus to turn in [QT293 Cleansing the Eye].
-#Talk to your trainer and train Mind Blast (Rank 4), Heal (Rank 3), Mind Flay (Rank 2).[A Priest]
+Talk to Archbishop Benedictus to turn in [QT293 Cleansing the Eye].#Talk to your trainer and train Mind Blast (Rank 4), Heal (Rank 3), Mind Flay (Rank 2).[A Priest]
 Talk to Grimand Elmore to turn in [QT322 Blessed Arm] and accept [QA325 Armed and Ready].
-OPTIONAL GNOMEREGAN QUEST - Talk to Shoni the Shilent to accept [QA2928 Gyrodrillmatic Excavationators].
-#Talk to your trainer and train Aimed Shot (Rank 2), Aspect of the Hawk (Rank 3), Mend Pet (Rank 3).[A Hunter]
+OPTIONAL GNOMEREGAN QUEST - Talk to Shoni the Shilent to accept [QA2928 Gyrodrillmatic Excavationators].#Talk to your trainer and train Aimed Shot (Rank 2), Aspect of the Hawk (Rank 3), Mend Pet (Rank 3).[A Hunter]
 Talk to Bishop DeLavey to turn in [QT1274 The Missing Diplomat] and accept [QA1241 The Missing Diplomat].
-#Talk to your trainer and train Shield Wall.[A Warrior]
-#Talk to your trainer and train Instant Poison (Rank 2).[A Rogue]
 Talk to Jorgen to turn in [QT1241 The Missing Diplomat] and accept [QA1242 The Missing Diplomat].
 Talk to Elling Trias to turn in [QT1242 The Missing Diplomat] and accept [QA1243 The Missing Diplomat].
 Fly to [F Lakeshire].

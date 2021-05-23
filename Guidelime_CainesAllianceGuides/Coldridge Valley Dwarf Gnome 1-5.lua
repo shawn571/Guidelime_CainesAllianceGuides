@@ -19,21 +19,14 @@ Reach level [XP3].
 Talk to Balin Frosthammer and turn in [QT170 A New Threat]
 Talk to Felix Whindlebolt and accept [QA3361 A Refugee's Quandary]
 Talk to Branstock Khalder to turn in [QT3110 Hallowed Rune][A Dwarf,Priest].
-#Talk to Branstock Khalder and train Power Word: Fortitude (Rank 1).[A Priest]
 Talk to Bromos Grummner to turn in [QT3107 Consecrated Rune][A Dwarf,Paladin].
-#Talk to Bromos Grummner to train Devotion Aura.[A Paladin]
 Talk to Solm Hargrin to turn in [QT3113 Encrypted Memorandum][A Gnome,Rogue].
 Talk to Solm Hargrin to turn in [QT3109 Encrypted Rune][A Dwarf,Rogue]
-#Talk to Solm Hargrin to train Stealth.[A Rogue]
 Talk to Marryk Nurribit to turn in [QT3114 Glyphic Memorandum][A Gnome,Mage].
-#Talk to Marryk Nurribit to train Arcane Intellect.[A Mage]
 Talk to Thorgas Grimson to turn in [QT3108 Etched Rune][A Dwarf,Hunter].
-#Talk to Thorgas Grimson to train Track Beasts.[A Hunter]
 Talk to Thran Khorman to turn in [QT3112 Simple Memorandum][A Gnome,Warrior].
 Talk to Thran Khorman to turn in [QT3106 Simple Rune][A Dwarf,Warrior].
-#Talk to Thran Khorman to train Battle Shout.[A Warrior]
 Talk to Alamar Grimm to turn in [QT3115 Tainted Memorandum] and accept [QA1599 Beginnings][A Warlock].
-#Talk to Alamar Grimm to train Immolate.[A Warlock]
 Talk to Talin Keeneye and turn in [QA233 Coldridge Valley Mail Delivery]. Accept [QA234 Coldridge Valley Mail Delivery] and [QA183 The Boar Hunter].
 Kill boars for [QC183 The Boar Hunter].
 Talk to Talin Keeneye and turn in [QT183 The Boar Hunter].
@@ -46,12 +39,6 @@ Talk to Felix Whindlebolt and turn in [QT3361 A Refugee's Quandary].
 Reach level [XP4].
 Talk to Rybrad Coldbank right next to you and sell junk. Make sure you have at least 2 silver.
 Talk to Durnan Furcutter and turn in [QT3364 Scalding Mornbrew Delivery]. Accept [QA3365 Bring Back the Mug].
-#Talk to your trainer and train Lesser Heal (Rank 2) and Shadow Word: Pain (Rank 1).[A Priest]
-#Talk to your trainer and train Aspect of the Monkey, Serpent Sting.[A Hunter]
-#Talk to your trainer and train Conjure Water, Frostbolt.[A Mage]
-#Talk to your trainer and train Blessing of Might, Judgement.[A Paladin]
-#Talk to your trainer and train Backstab, Pick Pocket.[A Rogue]
-#Talk to your trainer and train Corruption.[A Warlock]
 Talk to Nori Pridedrift and turn in [QT3365 Bring Back the Mug].
 Kill trolls for [QC182 The Troll Cave].
 Kill trolls until you are level [XP5].

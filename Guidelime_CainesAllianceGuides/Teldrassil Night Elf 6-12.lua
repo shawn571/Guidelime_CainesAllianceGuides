@@ -24,11 +24,6 @@ Talk to Corithas Moonrage to turn in [QT929 Crown of the Earth] and accept [QA93
 Talk to Sentinel Kyra Starsong to accept [QA489 Seek Redemption!].
 Talk to Athridas Bearmantle to turn in [QT476 Gnarlpine Corruption] and accept [QA483 The Relics of Wakening].
 Reach level [XP8].
-#Talk to your trainer and train Entangling Roots, Healing Touch (Rank 2).[A Druid]
-#Talk to your trainer and train Concussive Shot, Raptor Strike.[A Hunter]
-#Talk to your trainer and train Renew. Fade if you will run dungeons.[A Priest]
-#Talk to your trainer and train Evasion, Eviscerate (Rank 2).[A Rogue]
-#Talk to your trainer and train Heroic Strike (Rank 2), Hamstring.[A Warrior]
 Talk to Laurna Morninglight to turn in [QT5621 Garments of the Moon][A Priest].
 Talk to Tallonkai Swiftroot to turn in [QT2438 The Emerald Dreamcatcher] and accept [QA2459 Ferocitas the Dream Eater].
 Go here to head to Lord Melenas.[G54.6,52.6Teldrassil].
@@ -56,21 +51,11 @@ Kill Gnarlpine enemies around here until you are [XP10-625 625 XP from level 10]
 Hearth to Dolanaar.[H]
 Talk to Tallonkai Swiftroot to turn in [QT2459 Ferocitas the Dream Eater] and [QT932 Twisted Hatred].
 Reach level [XP10].
-#Put a point in Ferocity.[A Druid]
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Improved Sinister Strike.[A Rogue]
-#Put a point in Improved Rend.[A Warrior]
-Talk to Kal to accept [QA5925 Heeding the Call][A Druid].
-#Talk to your trainer and train Mark of the Wild (Rank 2), Moonfire (Rank 2). If tanking, Demoralizing Roar. If healing, Rejuvenation (Rank 2).[A Druid]
-Talk to Dazalar to accept [QA6063 Taming the Beast][A NightElf,Hunter].
-#Talk to your trainer and train Aspect of the Hawk, Serpent Sting (Rank 2).[A Hunter]
-Talk to Jannok Breezesong to accept [QA2241 The Apple Falls][A Rogue].
-#Talk to your trainer and train Slice and Dice, Sprint, Sap.[A Rogue]
-Talk to Kyra Windblade to accept [QA1684 Elanaria][A Warrior].
-#Talk to your trainer and train Rend (Rank 2), Bloodrage.[A Warrior]
-Talk to Laurna Morninglight to accept [QA5628 Returning Home][A NightElf,Priest].
-#Talk to your trainer and train Mind Blast, Shadow Word: Pain (Rank 2), Lesser Heal (Rank 3), Resurrection.[A Priest]
+Talk to Kal to accept [QA5925 Heeding the Call][A Druid].#Talk to your trainer and train Mark of the Wild (Rank 2), Moonfire (Rank 2). If tanking, Demoralizing Roar. If healing, Rejuvenation (Rank 2).[A Druid]
+Talk to Dazalar to accept [QA6063 Taming the Beast][A NightElf,Hunter].#Talk to your trainer and train Aspect of the Hawk, Serpent Sting (Rank 2).[A Hunter]
+Talk to Jannok Breezesong to accept [QA2241 The Apple Falls][A Rogue].#Talk to your trainer and train Slice and Dice, Sprint, Sap.[A Rogue]
+Talk to Kyra Windblade to accept [QA1684 Elanaria][A Warrior].#Talk to your trainer and train Rend (Rank 2), Bloodrage.[A Warrior]
+Talk to Laurna Morninglight to accept [QA5628 Returning Home][A NightElf,Priest].#Talk to your trainer and train Mind Blast, Shadow Word: Pain (Rank 2), Lesser Heal (Rank 3), Resurrection.[A Priest]
 Talk to Moon Priestess Amara to turn in [QT487 The Road to Darnassus].
 Use the Taming Rod in your bag on a Webwood Lurker to complete [QC6063 Taming the Beast][A NightElf,Hunter].[G54.07,60.53Teldrassil]
 Talk to Dazalar to turn in [QT6063 Taming the Beast] and accept [QA6101 Taming the Beast][A NightElf,Hunter].
@@ -102,11 +87,6 @@ Talk to Sentinel Arynia Cloudsbreak to accept [QA937 The Enchanted Glade].
 Stand in the moonwell here and use the Amethyst Phial in your bag to complete [QC7383 Crown of the Earth].
 Kill Bloodfeather enemies to complete [QC937 The Enchanted Glade].
 Kill Bloodfeather enemies until you reach level [XP11].
-#Put a point in Ferocity.[A Druid]
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Improved Sinister Strike.[A Rogue]
-#Put a point in Improved Rend.[A Warrior]
 Click Mist to accept [QA938 Mist].
 Click Strange Fronded Plant to accept [QA931 The Shimmering Frond].
 Go to this location to complete [QC938 Mist].[G38.28,34.24,1Teldrassil]
@@ -134,16 +114,6 @@ Use the Sathrah's Sacrifice in your bag at the fountain to complete [QC2520 Sath
 Talk to Priestess A'moora to turn in [QT2520 Sathrah's Sacrifice].
 Talk to Elanaria to turn in [QT1683 Vorlus Vilehoof] and accept [QA1686 The Shade of Elura][A Warrior]
 Reach level [XP12].
-#Put a point in Ferocity.[A Druid]
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Improved Gouge.[A Rogue]
-#Put a point in Improved Rend.[A Warrior]
-#Talk to your trainer and train Enrage. If healing also train Regrowth.[A Druid]
-#Talk to your trainer and train Arcane Shot (Rank 2), Mend Pet.[A Hunter]
-#Talk to your trainer and train Inner Fire, Power Word: Fortitude (Rank 2), Power Word: Shield (Rank 2).[A Priest]
-#Talk to your trainer and train Backstab (Rank 2), Kick.[A Rogue]
-#Talk to your trainer and train Battle Shout (Rank 2), Overpower, Shield Bash.[A Warrior]
 Go through the portal.[G30.91,41.47Darnassus]
 Talk to Nessa Shadowsong to turn in [QT6344 Nessa Shadowsong] and accept [QA6341 The Bounty of Teldrassil].
 Talk to Vesprystus to turn in [QT6341 The Bounty of Teldrassil] and accept [QA6342 Flight to Auberdine].

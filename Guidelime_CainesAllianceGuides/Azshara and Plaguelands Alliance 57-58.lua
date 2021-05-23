@@ -8,29 +8,12 @@ Talk to Loramus Thalipedes to turn in [QT3141 Loramus] and accept [QA3508 Breaki
 Talk to Loramus Thalipedes to turn in [QT3508 Breaking the Ward] and accept [QA3509 The Name of the Beast].
 Talk to Lord Arkkoroc to turn in [QT3509 The Name of the Beast]. Skip [QS3510 The Name of the Beast].
 Reach level [XP58].
-#Put a point in Natural Shapeshifter.[A Druid]
-#Put a point in Mortal Shots.[A Hunter]
-#Put a point in Improved Mind Blast.[A Priest]
-#Put a point in Arcane Meditation.[A Mage]
-#Put a point in Improved Blessing of Might.[A Paladin]
-#Put a point in Ruthlessness.[A Rogue]
-#Put a point in Improved Curse of Agony.[A Warlock]
-#Put a point in Enrage.[A Warrior]
 Talk to Duke Hyrdraxis to accept [QA6804 Poisoned Water] and [QA6805 Stormers and Rumblers].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Claw (Rank 5), Ravage (Rank 4). If tanking, Maul (Rank 7). If healing, Rejuvenation (Rank 10).[A Druid]
 Hearth to Menethil Harbor.[H] If you're a mage just teleport to Ironforge and skip this and the next step.
 Fly to [F Ironforge].
-#Talk to your trainer and train Conjure Mana Ruby, Cone of Cold (Rank 5), Ice Barrier (Rank 4).[A Mage]
 Talk to Royal Historian Archesonus to turn in [QT3701 The Smoldering Ruins of Thaurissan].
 Talk to King Magni Bronzebeard to accept [QA4341 Kharan Mighthammer].
 Buy 2 Thorium Bars on the Auction House for a later quest.
-#Talk to your trainer and train Aspect of the Hawk (Rank 6), Hunter's Mark (Rank 4).[A Hunter]
-#Talk to your trainer and train Mind Blast (Rank 9), Shadow Word: Pain (Rank 8), Greater Heal (Rank 4).[A Priest]
-#Talk to your trainer and train Sprint (Rank 3). Optional Kick (Rank 4).[A Rogue]
-#Talk to your trainer and train Create Healthstone (Major), Curse of Agony (Rank 6). Siphon Life (Rank 4).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Firebolt (Rank 7) and learn it.[A Warlock]
-#Talk to your trainer and train Sunder Armor (Rank 5).[A Warrior]
 Fly to [F Menethil Harbor].
 Take the boat to Theramore.[G5,63.5Wetlands].
 Fly to [F Gadgetzan].

@@ -41,14 +41,6 @@ Click Mysterious Red Crystal to complete [QC4811 The Red Crystal].[G47.3,48.7,2D
 Talk to Asterion to turn in [QT954 Bashal'Aran] and accept [QA955 Bashal'Aran].
 Kill Wild Grells and Vile Sprites for [QC955 Bashal'Aran].
 Grind to level [XP13].
-#Put a point in Ferocity.[A Druid]
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Improved Frost Bolt.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Gouge.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Deflection.[A Warrior]
 Talk to Asterion to turn in [QT955 Bashal'Aran] and accept [QA956 Bashal'Aran].
 Kill Deth'ryll Satyrs around here for [QC956 Bashal'Aran].
 Talk to Asterion to turn in [QT956 Bashal'Aran] and accept [QA957 Bashal'Aran].
@@ -69,14 +61,6 @@ Click Ancient Flame to complete [QC957 Bashal'Aran].
 Read the Fall of Ameth'Aran for [QC953,2 The Fall of Ameth'Aran].
 Kill Highborne enemies and loot them for [QC958 Tools of the Highborne].
 Grind to level [XP14].
-#Put a point in Ferocity.[A Druid]
-#Put a point in Improved Aspect of the Hawk.[A Hunter]
-#Put a point in Spirit Tap.[A Priest]
-#Put a point in Improved Frost Bolt.[A Mage]
-#Put a point in Benediction.[A Paladin]
-#Put a point in Improved Gouge.[A Rogue]
-#Put a point in Improved Corruption.[A Warlock]
-#Put a point in Deflection.[A Warrior]
 Click Beached Sea Creature for [QA4728 Beached Sea Creature].
 Click Beached Sea Turtle for [QA4722 Beached Sea Turtle].
 Talk to Sentinel Tysha Moonblade to turn in [QT953 The Fall of Ameth'Aran].
@@ -91,36 +75,20 @@ Talk to Cerellean Whiteclaw to turn in [QT963 For Love Eternal].
 Talk to Gwennyth Bly'Leggonde to turn in [QT4722 Beached Sea Turtle] and [QT4728 Beached Sea Creature].
 Fly to [F Rut'theran Village].[A NightElf]
 Take the boat to Rut'theran Village.[A Dwarf,Human,Gnome][G33.17,40.16,1Darkshore]
-Talk to Nessa to turn in [QT6343 Return to Nessa].[A NightElf]
-#Talk to your trainer and train Thorns (Rank 2), Bash, Healing Touch (Rank 3).[A Druid]
+Talk to Nessa to turn in [QT6343 Return to Nessa].[A NightElf]#Talk to your trainer and train Thorns (Rank 2), Bash, Healing Touch (Rank 3).[A Druid]
 Talk to Mathrengyl Bearwalker to accept [QA6121 Lessons Anew][A Druid].
 Teleport to Moonglade.[A Druid]
 Talk to Dendrite Starblaze to turn in [QT6121 Lessons Anew] and accept [QA6122 The Principal Source][A Druid]
 Fly to Teldrassil.[A Druid]
-#Talk to your trainer and train Psychic Scream, Smite (Rank 3).[A Priest]
-#Talk to your trainer and train Sinister Strike (Rank 3), Garrote.[A Rogue]
-#Talk to your trainer and train Demoralizing Shout, Revenge.[A Warrior]
 Talk to Vesprystys to get the flight point.[P][G58.38,94,1Teldrassil][A Dwarf,Human,Gnome]
 Buy 5 Earthroot from the Auction House.[A Druid]
 Fly to [F Auberdine].
 Take the boat to Menethil Harbor.[A Mage,Warlock,Paladin]
 Fly to [F Ironforge].[A Mage,Warlock,Paladin]
-#Talk to your trainer and train Arcane Explosion, Arcane Intellect (Rank 2), Frostbolt (Rank 3).[A Mage]
-#Talk to your trainer and train Blessing of Wisdom, Holy Light (Rank 3).[A Paladin]
-#Talk to your trainer and train Corruption (Rank 2), Drain Life.[A Warlock]
-#Talk to the demon trainer and buy Grimoires of Blood Pact (Rank 2), Fire Shield and learn them.[A Warlock]
 Fly to [F Menethil Harbor].[A Mage,Warlock,Paladin].
 Take the boat to Auberdine.[A Mage,Warlock,Paladin]
 Talk to Asterion to turn in [QT957 Bashal'Aran].
 Reach level [XP15].
-#Put a point in Feral Aggression.[A Druid]
-#Put a point in Improved Revive Pet.[A Hunter]
-#Put a point in Wand Specialization.[A Priest]
-#Put a point in Improved Frost Nova.[A Mage]
-#Put a point in Improved Judgement.[A Paladin]
-#Put a point in Deflection.[A Rogue]
-#Put a point in Improved Life Tap.[A Warlock]
-#Put a point in Improved Charge.[A Warrior]
 Click Beached Sea Turtle to accept [QA4725 Beached Sea Turtle].
 Finish killing Moonstalkers for [QC1002 Buzzbox 323].[G49,27Darkshore]
 Kill Den Mother for [QC2139 Tharnariun's Hope]. You may need help with this, or you can skip it.
@@ -141,14 +109,6 @@ Talk to Tharnariun Treetender to turn in [QT2139 Tharnariun's Hope].
 Talk to Barithras Moonshade to turn in [QT947 Cave Mushrooms] and accept [QA948 Onu].
 Talk to Gwennyth Bly'Leggonde to turn in [QT4725 Beached Sea Turtle] and [QT4727 Beached Sea Turtle].
 Reach level [XP16].
-#Put a point in Feral Aggression.[A Druid]
-#Put a point in Improved Revive Pet.[A Hunter]
-#Put a point in Wand Specialization.[A Priest]
-#Put a point in Improved Frost Nova.[A Mage]
-#Put a point in Improved Judgement.[A Paladin]
-#Put a point in Deflection.[A Rogue]
-#Put a point in Improved Life Tap.[A Warlock]
-#Put a point in Improved Charge.[A Warrior]
 Click Lunar Fungal Blooms for [QC6123,2 Gathering the Cure][A Druid].
 Talk to Alanndaraian Nightsong to turn in [QT6123 Gathering the Cure] and accept [QA6124 Curing the Sick][A Druid].
 Use the Curative Animal Salve in your bag on Sickly Deer that are all around Darkshore to complete [QC6124 Curing the Sick][A Druid].
@@ -156,21 +116,15 @@ Teleport to Moonglade.[A Druid]
 Talk to Alanndarian Nightsong to turn in [QT6124 Curing the Sick] and accept [QA6125 Power over Poison][A Druid].
 Take the boat to Menethil Harbor.[A Warlock,Paladin].
 Fly to [F Ironforge].[A Warlock,Paladin]
-#Talk to your trainer and train Retribution Aura.[A Paladin]
-#Talk to your trainer and train Life Tap (Rank 2), Unending Breath.[A Warlock]
 Fly to [F Menethil Harbor].[A Warlock,Paladin].
 Take the boat to Auberdine.[A Warlock,Paladin]
 Fly to [F Rut'theran Village].[A Warrior,Rogue,Priest,Druid]
-Talk to Mathrengyl Bearwalker to turn in [QT6125 Power over Poison] and accept [QA26 A Lesson to Learn][A NightElf,Druid].
-#Talk to your trainer and train Swipe. If healing, Rejuvenation (Rank 3).[A Druid]
+Talk to Mathrengyl Bearwalker to turn in [QT6125 Power over Poison] and accept [QA26 A Lesson to Learn][A NightElf,Druid].]
 Teleport to Moonglade.[A Druid]
 Talk to Dendrite Starblaze to turn in [QT26 A Lesson to Learn] and accept [QA29 Trial of the Lake][A NightElf,Druid].
 Go underwater and click Bauble Container for [QC29 Trial of the Lake][A NightElf,Druid].[G54.1,50.1Moonglade]
 Talk to Tajarri to turn in [QT29 Trial of the Lake] and accept [QA272 Trial of the Sea Lion][A NightElf,Druid].
 Fly to Teldrassil.[A Druid]
-#Talk to your trainer and train Mind Blast (Rank 2), Heal.[A Priest]
-#Talk to your trainer and train Eviscerate (Rank 3), Feint.[A Rogue]
-#Talk to your trainer and train Heroic Strike (Rank 3), Mocking Blow, Shield Block.[A Warrior]
 Fly to [F Auberdine].[A Warrior,Rogue,Priest,Druid]
 Go underwater here and open the Strange Lockbox to get the Half Pendant of Aquatic Agility.[G48.9,11.3,2Darkshore][A Druid]
 Talk to Onu to turn in [QT948 Onu] and accept [QA944 The Master's Glaive].

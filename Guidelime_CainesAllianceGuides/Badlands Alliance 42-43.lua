@@ -41,13 +41,5 @@ Talk to Lotwil Veriatus to turn in [QT777 This Is Going to Be Hard] and accept [
 Kill Fam'retor Guardian for [QC778 This Is Going to Be Hard].
 Talk to Lotwil Veriatus to turn in [QT778 This Is Going to Be Hard].
 Reach level [XP43].
-#Put a point in Heart of the Wild.[A Druid]
-#Put a point in Improved Concussive Shot.[A Hunter]
-#Put a point in Darkness.[A Priest]
-#Put a point in Arcane Subtlety.[A Mage]
-#Put a point in Divine Strength.[A Paladin]
-#Put a point in Malice.[A Rogue]
-#Put a point in Demonic Embrace.[A Warlock]
-#Put a point in Cruelty.[A Warrior]
 Head to Searing Gorge.[G2,62.4Badlands]
 ]], 'Caines Alliance Guides')

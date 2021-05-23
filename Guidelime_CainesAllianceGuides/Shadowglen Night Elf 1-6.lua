@@ -13,15 +13,10 @@ Talk to Conservator Ilthalaine to accept [QA3119 Hallowed Sigil][A Priest].
 Talk to Conservator Ilthalaine to accept [QA3116 Simple Sigil][A Warrior].
 Talk to Conservator Ilthalaine to accept [QA3120 Verdant Sigil][A Druid].
 Talk to Frahun Shadewhisper to turn in [QT3118 Encrypted Sigil][A Rogue].
-#Talk to Frahun Shadewhisper again to train Stealth.[A Rogue]
 Talk to Ayanna Everstride to turn in [QT3117 Etched Sigil][A Hunter].
-#Talk to Ayanna Everstride again to train Track Beasts.[A Hunter]
 Talk to Shanda to turn in [QT3119 Hallowed Sigil][A Priest].
-#Talk to Shanda again to train Power Word: Fortitude.[A Priest]
 Talk to Alyissia to turn in [QT3116 Simple Sigil][A Warrior].
-#Talk to Alyissia again to train Battle Shout.[A Warrior]
 Talk to Mardant Strongoak to turn in [QT3120 Verdant Sigil][A Druid].
-#Talk to Mardant Strongoak again to train Mark of the Wild.[A Druid]
 Talk to Tarindrella to turn in [QT458 The Woodland Protector] and accept [QA459 The Woodland Protector].
 Kill Grell enemies and loot them for [QC459 The Woodland Protector].
 Reach level [XP3].
@@ -50,10 +45,6 @@ Grind until you are [XP6-340 340 XP until level 6].[G59,32.77Teldrassil]
 Die on purpose and resurrect at the spirit healer.
 Talk to Tenaron Stonegrip to turn in [QT921 Crown of the Earth] and accept [QA928 Crown of the Earth].
 Reach level [XP6].
-#Talk to your trainer and train Moonfire, Rejuvenation, Thorns, Wrath (Rank 2).[A Druid]
-#Talk to your trainer and train Aspect of the Monkey, Serpent Sting, Arcane Shot, Hunter's Mark.[A Hunter]
-#Talk to your trainer and train Power Word: Shield, Smite (Rank 2), Shadow Word: Pain (Rank 1), and Lesser Heal (Rank 2).[A Priest]
 Talk to Shanda to accept [QA5622 In Favor of Elune].
-#Talk to your trainer and train Backstab, Pick Pocket, Sinister Strike (Rank 2), Gouge.[A Rogue]
 Talk to Porthannius to accept [QA2159 Dolanaar Delivery].
 ]], 'Caines Alliance Guides')

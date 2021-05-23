@@ -33,23 +33,6 @@ Talk to Grimbooze Thunderbrew to turn in [QT49 Sweet Amber] and accept and turn 
 Fly to [F Stormwind].
 Talk to Brohann Caskbelly to turn in [QT1469 Rhapsody's Tale] and accept [QA1475 Into The Temple of Atal'Hakkar].
 Reach level [XP48].
-#Put a point in Improved Nature's Grasp.[A Druid]
-#Put a point in Lethal Shots.[A Hunter]
-#Put a point in Improved Power Word: Shield.[A Priest]
-#Put a point in Arcane Concentration.[A Mage]
-#Put a point in Improved Seal of Righteousness.[A Paladin]
-#Put a point in Improved Slice and Dice.[A Rogue]
-#Put a point in Fel Intellect.[A Warlock]
-#Put a point in Booming Voice.[A Warrior]
-#Talk to your trainer and train Heroic Strike (Rank 7), Mortal Strike (Rank 2), Execute (Rank 4).[A Warrior]
-#Talk to your trainer and train Create Healthstone (Greater), Drain Life (Rank 5), Life Tap (Rank 5), Curse of Agony (Rank 5), Siphon Life (Rank 3).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Firebolt (Rank 6) and learn it.[A Warlock]
-#Talk to your trainer and train Retribution Aura (Rank 4).[A Paladin]
-#Talk to your trainer and train Eviscerate (Rank 7). Optional Wound Poison (Rank 3).[A Rogue]
-#Talk to your trainer and train Conjure Mana Citrine.[A Mage]
-#Talk to your trainer and train Power Word: Fortitude (Rank 5), Power Word: Shield (Rank 8).[A Priest]
-#Talk to your trainer and train Aspect of the Hawk (Rank 5).[A Hunter]
-#Talk to your trainer and train Claw (Rank 4), Ferocious Bite (Rank 3), Tiger's Fury (Rank 3). If healing, Regrowth (Rank 7).[A Druid]
 Talk to Innkeeper Allison to accept [QA3789 Assisting Arch Druid Staghelm].
 Talk to her again to make this inn your home.[S]
 Fly to [F Ironforge].

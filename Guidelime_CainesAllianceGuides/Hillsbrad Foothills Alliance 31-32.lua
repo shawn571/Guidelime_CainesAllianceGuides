@@ -37,29 +37,14 @@ Talk to Master Mechanic Castpipe to turn in [QT2930 Data Rescue].
 Talk to High Tinker Mekkatorque to turn in [QT2929 The Grand Betrayal].
 Talk to Tinkmaster Overspark to turn in [QT2922 Save Techbot's Brain!]
 Reach level [XP32].
-#Put a point in Blood Frenzy.[A Druid]
-#Put a point in Ferocity.[A Hunter]
-#Put a point in Shadow Weaving.[A Priest]
-#Put a point in Piercing Ice.[A Mage]
-#Put a point in Two-Handed Weapon Specialization.[A Paladin]
-#Put a point in Dual Wield Specialization.[A Rogue]
-#Put a point in Grim Reach.[A Warlock]
-#Put a point in Axe Specialization.[A Warrior]
-#Talk to your trainer and train Hamstring (Rank 2), Heroic Strike (Rank 5), Battle Shout (Rank 4), Execute (Rank 2), Berserker Rage.[A Warrior]
 Talk to Pilot Longbeard to accept [QA1179 The Brassbolts Brothers].
 Talk to Grand Mason Marblesten to turn in [QT689 A King's Tribute] and accept [QA700 A King's Tribute].
 Go to the auction house and buy a Moss Agate and a Silver Bar for a future quest.
 Talk to King Magni Bronzebeard to turn in [QT700 A King's Tribute].
 Talk to Talvash del Kissel to turn in [QT2947 Return of the Ring]. Accept and turn in [QA2948 Gnome Improvement][QT2948 Gnome Improvement].
-#Talk to your trainer and train Flash Heal (Rank 3).[A Priest]
-#Talk to your trainer and train Eviscerate (Rank 5). Optional Wound Poison.[A Rogue]
-#Talk to your trainer and train Conjure Food (Rank 4), Frostbolt (Rank 6).[A Mage]
-#Talk to your trainer and train Blessing of Might (Rank 4).[A Paladin]
 Talk to Krom Stoutarm to turn in [QT1758 Tome of the Cabal] and accept [QA1802 Tome of the Cabal].[A Warlock]
 Go to the inn and make this inn your home.[S]
 Leave Ironforge and talk to Ozzie Togglevolt to turn in [QT2926 Gnogaine]. Skip the last part.
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Ferocious Bite, Ravage, Healing Touch (Rank 6).[A Druid]
 Hearth to Ironforge.[H][A Druid]
 Fly to [F Stormwind].
 Talk to Shoni the Shilent to turn in [QT2928 Gyrodrillmatic Excavationators].

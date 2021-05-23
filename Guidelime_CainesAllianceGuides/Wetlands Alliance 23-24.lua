@@ -28,28 +28,11 @@ While doing the next steps kill Fen Creepers for [QC275 Blisters on the Land][O]
 Kill oozes until Sida's Bag drops for [QC470 Digging Through the Ooze].[G44.3,25.3,Wetlands]
 Finish up [QC484 Young Crocolisk Skins].
 Grind if necessary to level [XP24].
-#Put a point in Furor.[A Druid]
-#Put a point in Unleashed Fury.[A Hunter]
-#Put a point in Improved Shadow Word: Pain.[A Priest]
-#Put a point in Piercing Ice.[A Mage]
-#Put a point in Conviction.[A Paladin]
-#Put a point in Improved Sprint.[A Rogue]
-#Put a point in Amplify Curse.[A Warlock]
-#Put a point in Deep Wounds.[A Warrior]
 Talk to James Halloran to turn in [QT484 Young Crocolisk Skins] and accept [QA471 Apprentice's Duties].
 Talk to Karl Boran to turn in [QT286 Return the Statuette].
 Talk to Sida to turn in [QT470 Digging Through the Ooze].
 Finish killing Fen Creepers for [QC275 Blisters on the Land].
 Talk to Rethiel the Greenwarden to turn in [QT275 Blisters on the Land].
-#Teleport to Moonglade.[A Druid]
-#Talk to your trainer and train Thorns (Rank 3), Tiger's Fury, Remove Curse. Swipe (Rank 2) if tanking. Regrowth (Rank 3) if healing.[A Druid]
 Hearth to Stormwind.
-#Talk to your trainer and train Power Word: Fortitude (Rank 3), Power Word: Shield (Rank 4).[A Priest]
-#Talk to your trainer and train Counterspell.[A Mage]
-#Talk to your trainer and train Blessing of Wisdom (Rank 2).[A Paladin]
-#Talk to your trainer and train Eviscerate (Rank 4). Get the Elegant Letter from the trainer but don't accept the quest yet.[A Rogue] 
-#Talk to your trainer and train Corruption (Rank 3), Drain Soul (Rank 2).[A Warlock]
-#Talk to the demon trainer and buy a Grimoire of Firebolt (Rank 4) and learn it.[A Warlock]
-#Talk to your trainer and train Demoralizing Shout (Rank 2), Revenge (Rank 2), Heroic Strike (Rank 4), Execute.[A Warrior]
 Fly to [F Lakeshire].
 ]], 'Caines Alliance Guides')
