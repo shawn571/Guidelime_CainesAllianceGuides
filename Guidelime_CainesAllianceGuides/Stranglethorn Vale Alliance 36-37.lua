@@ -35,7 +35,7 @@ Finish up [QC605 Singing Blue Shards].
 Click Fall of Gurubashi for [QC207,3 Kurzen's Mystery].[G22.6,14.8,2Stranglethorn Vale][G22.9,12.0,2Stranglethorn Vale]
 Click The Emperor's Tomb for [QC207,4 Kurzen's Mystery].
 Talk to Brother Nimetz to turn in [QT207 Kurzen's Mystery] and accept [QA205 Troll Witchery].
-Go to Duskwood and then to Darkshire and fly to [F Booty Bay].[G40.7,3.8,3Stranglethorn Vale][G44.6,88.0,3Duskwood][G77.5,44.3,3Duskwood]
+Fly to [F Booty Bay].
 Talk to Drizzlik to turn in [QT577 Some Assembly Required] and accept [QA628 Excelsior].
 Talk to Crank Fizzlebub to turn in [QT605 Singing Blue Shards].
 Talk to Kebox to turn in [QT189 Bloodscalp Ears] and [QT213 Hostile Takeover].
