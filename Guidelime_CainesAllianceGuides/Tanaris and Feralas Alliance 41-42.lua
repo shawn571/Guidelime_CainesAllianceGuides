@@ -27,13 +27,12 @@ Kill Hatescale naga for [QC2869 Against the Hatecrest].
 Reach level [XP42].
 Talk to Latronicus Moonspear to turn in [QT2869 Against the Hatecrest].
 Talk to Ginro Hearthkindle to turn in [QT4124 The Missing Courier].
-Hearth to Booty Bay.
+Hearth to Booty Bay[H].
 Talk to Crank Fizzlebub to turn in [QT1118 Back to Booty Bay].
 Fly to [F Sentinel Hill].
 Talk to Grimbooze Thunderbrew to accept [QA48 Sweet Amber].
 Fly to [F Stormwind].
 Go to the auction house and buy a Frost Oil, a Gyrochronatom, and a Patterned Bronze Bracers for a future quest in Badlands.
-Talk to Angus Stern to accept and turn in [QA1271 Feast at the Blue Recluse][QT1271 Feast at the Blue Recluse].
 Talk to Brohann Caskbelly to turn in [QT1448 In Search of the Temple] and accept [QA1449 To the Hinterlands].
 Fly to [F Ironforge].
 Talk to Prospector Stormpike and accept [QA707 Ironband Wants You!].
