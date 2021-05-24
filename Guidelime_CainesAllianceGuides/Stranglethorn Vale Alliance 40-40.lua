@@ -27,6 +27,7 @@ Kill Bhag'thera for [QC193 Panther Mastery].
 Talk to Sir S. J. Erlgadin to turn in [QT193 Panther Mastery].
 Talk to Brother Nimetz to turn in [QT205 Troll Witchery].
 Talk to Corporal Kaleb to turn in [QT622 Return to Corporal Kaleb].
-[G44.6,88.0Duskwood][G75.8,46.2,2Duskwood]Go to Duskwood and talk to Watchmaster Sorigal to turn in [QT1477 Vital Supplies] and accept [QA1395 Supplies for Nethergarde].
+Fly to [F Darkshire]
+Talk to Watchmaster Sorigal to turn in [QT1477 Vital Supplies] and accept [QA1395 Supplies for Nethergarde].
 [G87.8,40.8Duskwood][G4.6,61.0Swamp of Sorrows]Go to Deadwind Pass and then on to Swamp of Sorrows.
 ]], 'Caines Alliance Guides')
