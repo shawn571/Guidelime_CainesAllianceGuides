@@ -39,7 +39,7 @@ Click Stone of Inner Binding to turn in [QT651 Stones of Binding] and accept [QA
 Kill Marez Cowl for [QC684 Wanted!  Marez Cowl].
 Kill Otto and Falconcrest for [QC685 Wanted!  Otto and Falconcrest].
 Kill Boulderfist Shaman for [QC694 Trelane's Defenses].
-Talk to Captain Nials to turn in [QT684 Wanted!  Marez Cowl] and [QC685 Wanted!  Otto and Falconcrest].
+Talk to Captain Nials to turn in [QT684 Wanted!  Marez Cowl] and [QT685 Wanted!  Otto and Falconcrest].
 Talk to Apprentice Kryten to turn in [QT694 Trelane's Defenses] and accept [QA695 An Apprentice's Enchantment].
 Talk to Skuerto to turn in [QT695 An Apprentice's Enchantment] and accept [QA696 Attack on the Tower].
 Click Trelane's Footlocker for [QC696,1 Attack on the Tower].
@@ -63,7 +63,6 @@ Talk to Doctor Draxlegauge to turn in [QT665 Sunken Treasure] and accept [QA666 
 Kill Daggerspine Raiders and Sorceresses for [QC664 Drowned Sorrows][O] while doing the next steps.
 Go to the middle level of the ship and click Maiden's Folly Log for [QC662,2 Deep Sea Salvage].
 Go to the middle level of the ship and click Maiden's Folly Charts for [QC662,1 Deep Sea Salvage].
-Look for Prince Nazjak and kill him to loot Tidal Charm.
 Go to the middle level of the ship and click Spirit of Silverpine Charts for [QC662,3 Deep Sea Salvage].
 Go to the bottom level of the ship and click Spirit of Silverpine Log for [QC662,4 Deep Sea Salvage].
 Equip the Goggles of Gem Hunting and click Calcified Elven Gems for [QC666 Sunken Treasure].
@@ -72,7 +71,7 @@ Talk to First Mate Nilzlix to turn in [QT662 Deep Sea Salvage].
 Talk to Captain Steelgut to turn in [QT664 Drowned Sorrows].
 Talk to Doctor Draxlegauge to turn in [QT666 Sunken Treasure] and accept [QA668 Sunken Treasure].
 Talk to Shakes O'Breen to turn in [QT668 Sunken Treasure] and accept [QA669 Sunken Treasure].
-Hearth to Southshore.
+Hearth to Southshore[H].
 Talk to Phin Odelic to turn in [QT661 Hints of a New Plague?].
 Fly to [F Chillwind Camp].
 [G30.1,70.4Western Plaguelands][G29.9,66.1Western Plaguelands][G27.5,57.9Western Plaguelands][G81.5,71Tirisfal Glades][G81.5,57.6Tirisfal Glades][G82,38.7Tirisfal Glades]Go to Scarlet Monastary.
