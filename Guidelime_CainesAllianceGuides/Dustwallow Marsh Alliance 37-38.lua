@@ -18,7 +18,7 @@ Talk to Renn McGill to turn in [QT11139 Secondhand Diving Gear] and accept [QA11
 Open the Renn's Supplies in your bag and equip the Repaired Diving Gear. Use the Salvage Kit on the Shipwreck Debris underwater for [QC11140 Recover the Cargo]. Head south to find more.
 Talk to Renn McGill to turn in [QT11140 Recover the Cargo] and accept [QA11141 Jaina Must Know]
 Finish up [QC1204 Mudrock Soup and Bugs].
-[G65,41,2Dustwallow Marsh][G62,22,2Dustwallow Marsh][G57.8,18.8,2Dustwallow Marsh][G55.4,26.3Dustwallow Marsh]Talk to "Swamp Eye" Jarl and accept [QA1206 Jarl Needs Eyes].
+Talk to "Swamp Eye" Jarl and accept [QA1206 Jarl Needs Eyes].
 Talk to Sergeant Lukas and accept [QA11146 Raptor Captor]
 Attack raptors around here until they are at low health and use Sturdy Rope on them for [QC11146 Raptor Captor]
 Talk to "Stinky" Ignatz to accept [QA1222 Stinky's Escape].
