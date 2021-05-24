@@ -12,11 +12,12 @@ While doing the next steps work on [QC1204 Mudrock Soup and Bugs][O].
 Kill Garn Mathers and loot him for [QC11137 Defias in Dustwallow?]
 Talk to Captain Wymor to turn in [QT11137 Defias in Dustwallow?] and accept [QA11138 Renn McGill]
 Talk to Renn McGill to turn in [QT11138 Renn McGill] and accept [QA11139 Secondhand Diving Gear]
-Get the Tool Kit for [QC11139,2 Secondhand Diving Gear]
-Get the Diving Gear for [QC11139,1 Secondhand Diving Gear]
+Get the Tool Kit on this island for [QC11139,2 Secondhand Diving Gear][G62.14,18.46,3Dustwallow Marsh]
+Get the Diving Gear on the same island for [QC11139,1 Secondhand Diving Gear]
 Talk to Renn McGill to turn in [QT11139 Secondhand Diving Gear] and accept [QA11140 Recover the Cargo]
-Open the Renn's Supplies in your bag and equip the Repaired Diving Gear. Use the Salvage Kit on the boxes underwater for [QC11140 Recover the Cargo]
+Open the Renn's Supplies in your bag and equip the Repaired Diving Gear. Use the Salvage Kit on the Shipwreck Debris underwater for [QC11140 Recover the Cargo]. Head south to find more.
 Talk to Renn McGill to turn in [QT11140 Recover the Cargo] and accept [QA11141 Jaina Must Know]
+Finish up [QC1204 Mudrock Soup and Bugs].
 [G65,41,2Dustwallow Marsh][G62,22,2Dustwallow Marsh][G57.8,18.8,2Dustwallow Marsh][G55.4,26.3Dustwallow Marsh]Talk to "Swamp Eye" Jarl and accept [QA1206 Jarl Needs Eyes].
 Talk to Sergeant Lukas and accept [QA11146 Raptor Captor]
 Attack raptors around here until they are at low health and use Sturdy Rope on them for [QC11146 Raptor Captor]
@@ -41,7 +42,7 @@ Talk to Drazzit Dripvalve to turn in [QT11184 WANTED: Goreclaw the Ravenous]
 Talk to Brogg to turn in [QT11158 Bloodfen Feathers]. Accept [QA11160 Banner of the Stonemaul] and [QA11161 The Essence of Enmity].
 Kill ogres and use Brogg's Totem on their corpses for [QC11161 The Essence of Enmity][O] while doing the next step.
 Get the Stonemaul Banner for [QC11160 Banner of the Stonemaul]
-Finish {QC11161 The Essence of Enmity].
+Finish [QC11161 The Essence of Enmity].
 Talk to Brogg to turn in [QT11160 Banner of the Stonemaul] and [QT11161 The Essence of Enmity]. Accept [QA11159 Spirits of Stonemaul Hold].
 Click the skeletons around here and kill the ghosts that appear for [QC11159 Spirits of Stonemaul Hold]
 Talk to Brogg to turn in [QT11159 Spirits of Stonemaul Hold] and accept [QA11162 Challenge to the Black Flight]
@@ -90,9 +91,6 @@ Fly to [F Theramore].
 Talk to Captain Garran Vimes to turn in [QT11151 Justice for the Hyals] and accept [QA11152 Peace at Last].
 Go north to the graveyard outside Theramore and use the wreath at the Hyal Monument for [QC11152 Peace at Last]
 Talk to Captain Garran Vimes to turn in [QT11152 Peace at Last]
-[G62,22,3Dustwallow Marsh][G65,41,3Dustwallow Marsh]Finish up [QC1204 Mudrock Soup and Bugs].
-Talk to Morgan Stern to turn in [QT1204 Mudrock Soup and Bugs] and accept [QA1258 ... and Bugs]. Also turn in [QT1222 Stinky's Escape].
-Talk to Captain Garran Vimes to turn in [QT1287 The Deserters].
 Fly to [F Gadgetzan].
 Go to Thousand Needles and talk to Pozzik to turn in [QT1183 Goblin Sponsorship] and accept [QA1186 The Eighteenth Pilot].[G51.3,20.8,3Tanaris][G80.2,75.9,2Thousand Needles]
 Talk to Razzeric to turn in [QT1186 The Eighteenth Pilot] and accept [QA1187 Razzeric's Tweaking].
