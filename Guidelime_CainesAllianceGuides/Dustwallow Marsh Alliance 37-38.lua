@@ -20,7 +20,7 @@ Talk to Renn McGill to turn in [QT11140 Recover the Cargo] and accept [QA11141 J
 Finish up [QC1204 Mudrock Soup and Bugs].
 Talk to "Swamp Eye" Jarl and accept [QA1206 Jarl Needs Eyes].
 Talk to Sergeant Lukas and accept [QA11146 Raptor Captor]
-Attack raptors around here until they are at low health and use Sturdy Rope on them for [QC11146 Raptor Captor]
+Attack raptors around here until they are at low health and use Sturdy Rope on them for [QC11146 Raptor Captor][G47.04,19.38,4Dustwallow Marsh]
 Talk to "Stinky" Ignatz to accept [QA1222 Stinky's Escape].
 Escort "Stinky" to complete [QC1222 Stinky's Escape].
 Talk to Sergeant Lukas to turn in [QT11146 Raptor Captor]. Accept [QA11145 Prisoners of the Grimtotems] and [QA11147 Unleash the Raptors]
@@ -44,7 +44,7 @@ Kill ogres and use Brogg's Totem on their corpses for [QC11161 The Essence of En
 Get the Stonemaul Banner for [QC11160 Banner of the Stonemaul]
 Finish [QC11161 The Essence of Enmity].
 Talk to Brogg to turn in [QT11160 Banner of the Stonemaul] and [QT11161 The Essence of Enmity]. Accept [QA11159 Spirits of Stonemaul Hold].
-Click the skeletons around here and kill the ghosts that appear for [QC11159 Spirits of Stonemaul Hold]
+Click the skeletons around here and kill the ghosts that appear for [QC11159 Spirits of Stonemaul Hold][G42.18,67.36,3 Dustwallow Marsh]
 Talk to Brogg to turn in [QT11159 Spirits of Stonemaul Hold] and accept [QA11162 Challenge to the Black Flight]
 Finish up [QC11217 Catch a Dragon by the Tail].
 [G52,75,3Dustwallow Marsh] Plant the banner and kill Smolderwing for [QC11162 Challenge to the Black Flight]
@@ -72,14 +72,13 @@ Talk to Major Mills to turn in [QT11198 Take Down Tethyr!]
 Talk to Captain Garran Vimes to turn in [QT1287 The Deserters] and accept [QA11143 A Grim Connection]
 Talk to Morgan Stern to turn in [QT1204 Mudrock Soup and Bugs] and accept [QA1258 ... and Bugs]. Also turn in [QT1222 Stinky's Escape]
 Talk to Lady Jaina Proudmoore to turn in [QT11141 Jaina Must Know] and accept [QA11142 Survey Alcaz Island]
-Talk to Cassa Crimsonwing for [QC11142 Survey Alcaz Island]
+Talk to Cassa Crimsonwing for [QC11142 Survey Alcaz Island][G67.32,51.14,2Dustwallow Marsh]
 Talk to Lady Jaina Proudmoore to turn in [QT11142 Survey Alcaz Island] and accept [QA11222 Warn Bolvar!]
 Talk to "Swamp Eye" Jarl to turn in [QT1206 Jarl Needs Eyes] and accept [QA1203 Jarl Needs a Blade].
-#If you bought a Moonsteel Broadsword, accept and turn in [QA1203 Jarl Needs a Blade][QT1203 Jarl Needs a Blade], otherwise skip it.
 Kill Razorspine for [QC1203 Jarl Needs a Blade]
 Talk to "Swamp Eye" Jarl to turn in [QT1203 Jarl Needs a Blade]
 Talk to Captain Darill to turn in [QT11143 A Grim Connection]. Accept [QA11144 Confirming the Suspicion] and [QA11148 Arms of the Grimtotems].
-Kill Grimtotem Elders for four Grimtotem Notes and then combine them for [QC11144 Comfirming the Suspicion].
+Kill Grimtotem Elders for four Grimtotem Notes and then combine them for [QC11144 Comfirming the Suspicion].[G42.31,13.29,3Dustwallow Marsh]
 Pick up Blackhoof Armaments for [QC11148 Arms of the Grimtotems]
 Talk to Captain Darill to turn in [QT11144 Confirming the Suspicion] and [QT11148 Arms of the Grimtotems]. Accept [QA11149 Tabetha's Assistance].
 Talk to Tabetha to turn in [QT11149 Tabetha's Assistance] and accept [QA11150 Raze Direhorn Post!]
@@ -89,7 +88,7 @@ Use Tabetha's Torch to burn the North Tent for [QC11150,1 Raze Direhorn Post!]
 Talk to Tabetha to turn in [QT11150 Raze Direhorn Post!] and accept [QA11151 Justice for the Hyals].
 Fly to [F Theramore].
 Talk to Captain Garran Vimes to turn in [QT11151 Justice for the Hyals] and accept [QA11152 Peace at Last].
-Go north to the graveyard outside Theramore and use the wreath at the Hyal Monument for [QC11152 Peace at Last]
+Go north to the graveyard outside Theramore and use the wreath at the Hyal Monument for [QC11152 Peace at Last][G63.70,42.87,1Dustwallow Marsh]
 Talk to Captain Garran Vimes to turn in [QT11152 Peace at Last]
 Fly to [F Gadgetzan].
 Go to Thousand Needles and talk to Pozzik to turn in [QT1183 Goblin Sponsorship] and accept [QA1186 The Eighteenth Pilot].[G51.3,20.8,3Tanaris][G80.2,75.9,2Thousand Needles]
@@ -99,7 +98,7 @@ Talk to Kravel Koalbeard to turn in [QT1112 Parts for Kravel] and accept [QA1114
 Talk to Fizzle Brassbolts to turn in [QT1114 Delivery to the Gnomes].
 Talk to Kravel Koalbeard to accept [QA1115 The Rumormonger].
 Teleport to Moonglade.[A Druid]#Talk to your trainer and train Claw (Rank 3), Healing Touch (Rank 7).[A Druid]
-Hearth to Ironforge.
+Hearth to Ironforge[H].
 Buy a Jade from the Auction House.[A Mage]
 Fly to [F Southshore].
 ]], 'Caines Alliance Guides')
