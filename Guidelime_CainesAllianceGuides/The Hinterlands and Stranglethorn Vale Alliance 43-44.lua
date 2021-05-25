@@ -64,7 +64,7 @@ Talk to Fleet Master Seahorn to turn in [QT608 The Bloodsail Buccaneers].
 Talk to Privateer Bloads to turn in [QT617 Akiris by the Bundle] and accept [QA623 Akiris by the Bundle].
 Fly to [F Rebel Camp]
 Talk to Hemet Nesingwary to turn in [QT197 Raptor Mastery] and accept [QA208 Big Game Hunter].
-Kill Mosh'Ogg ogres for [QC613 Cracking Maury's Foot], or skip and drop the quest if you can't find a group.
+Kill Mosh'Ogg ogres for [QC613 Cracking Maury's Foot]
 Kill King Bangalash for [QC208 Big Game Hunter].
 Talk to Hemet Nesingwary to turn in [QT208 Big Game Hunter].
 Fly to [F Sentinel Hill].
@@ -88,7 +88,8 @@ Talk to Crank Fizzlebub to accept [QA1119 Zanzil's Mixture and a Fool's Stout].
 Take the boat to Ratchet.[G25.95,73.18,3Stranglethorn Vale]
 Fly to [F Theramore].
 Talk to Privateer Groy to turn in [QT623 Akiris by the Bundle].
-[G57.1,51.1,4Dustwallow Marsh][G54.9,50.5,2Dustwallow Marsh][G54.1,55.9,2Dustwallow Marsh]Click Damaged Crate for [QC4450,3 Ledger from Tanaris]
+Fly to [F Mudsprocket]
+Click Damaged Crate for [QC4450,3 Ledger from Tanaris]
 Talk to Tabetha to turn in [QT2861 Tabetha's task].[A Mage]
 OPTIONAL ZUL'FARRAK QUEST - Talk to Tabetha to accept [QA2846 Tiara of the Deep].
 Click Musty Scroll to turn in [QT625 Cortello's Riddle] and accept [QA626 Cortello's Riddle].
