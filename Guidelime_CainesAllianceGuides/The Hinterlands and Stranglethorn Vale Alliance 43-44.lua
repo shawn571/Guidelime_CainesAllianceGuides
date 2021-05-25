@@ -6,14 +6,14 @@ Talk to Gryphon Master Talonaxe to turn in [QT1450 Gryphon Master Talonaxe]. Acc
 Talk to Ambassador Rualeth to accept [QA9469 Featherbeard's Endorsement], [QA9470 A Gesture of Goodwill], and [QA9471 Preying on the Predators].
 Talk to Fraggar Thundermantle to accept [QA2880 Troll Necklace Bounty].
 Click Featherbeard's Journal to turn in [QT9469 Featherbeard's Endorsement] and accept [QA9476 In Pursuit of Featherbeard].
-Kill Mangy Silvermanes for [QC9471,2 Preying on the Predators].
+Kill Mangy Silvermanes for [QC9471,1 Preying on the Predators].
 Talk to Rhapsody Shindigger to turn in [QT1451 Rhapsody Shindigger] and accept [QA1452 Rhapsody's Kalimdor Kocktail].
 While doing the next steps work on [QC2880 Troll Necklace Bounty][O].
 Click First Witherbark Cage for [QC2988,1 Witherbark Cages].
 Click Second Witherbark Cage for [QC2988,2 Witherbark Cages].
 Kill Witch Doctor Mai'jin and Tcha'kaz for [QC9470 A Gesture of Goodwill]
 Click Third Witherbark Cage for [QC2988,3 Witherbark Cages].
-Kill Silvermane Wolves for [QC9471,1 Preying on the Predators].
+Kill Silvermane Wolves for [QC9471,2 Preying on the Predators].
 Click Featherbeard's Remains to turn in [QT9476 In Pursuit of Featherbeard] and accept [QA9475 Reclaiming the Eggs].
 Pick up Gryphon Eggs for [QC9475 Reclaiming the Eggs]
 Finish up [QC2880 Troll Necklace Bounty].[G32.45,57.06The Hinterlands]
@@ -24,7 +24,7 @@ Go to the top of the altar to complete [QC2989 The Altar of Zul] and run away.[G
 Talk to Gryphon Master Talonaxe to turn in [QT2989 The Altar of Zul] and accept [QA2990 Thadius Grimshade].
 Fly to [F Southshore].
 Talk to Archmage Ansirem Runeweaver to turn in [QT602 Magical Analysis] amd accept [QA603 Ansirem's Key].
-Hearth to Booty Bay.
+Hearth to Booty Bay[H].
 Talk to Crank Fizzlebub to accept [QA621 Zanzil's Secret].
 Talk to Whiskey Slim to accept [QA580 Whiskey Slim's Lost Grog].
 Talk to Catelyn the Blade to turn in [QT603 Ansirem's Key] and accept [QA610 "Pretty Boy" Duncan].
@@ -62,13 +62,15 @@ Talk to Crank Fizzlebub to turn in [QT621 Zanzil's Secret].
 Talk to Catelyn the Blade to turn in [QT610 "Pretty Boy" Duncan].
 Talk to Fleet Master Seahorn to turn in [QT608 The Bloodsail Buccaneers].
 Talk to Privateer Bloads to turn in [QT617 Akiris by the Bundle] and accept [QA623 Akiris by the Bundle].
-Fly to [F Sentinel Hill].
-Talk to Grimbooze Thunderbrew to turn in [QT48 Sweet Amber] and accept [QA49 Sweet Amber].
-[G76.6,80Westfall][G35.7,10.8,2Stranglethorn Vale]Talk to Hemet Nesingwary to turn in [QT197 Raptor Mastery] and accept [QA208 Big Game Hunter].
+Fly to [F Rebel Camp]
+Talk to Hemet Nesingwary to turn in [QT197 Raptor Mastery] and accept [QA208 Big Game Hunter].
 Kill Mosh'Ogg ogres for [QC613 Cracking Maury's Foot], or skip and drop the quest if you can't find a group.
 Kill King Bangalash for [QC208 Big Game Hunter].
 Talk to Hemet Nesingwary to turn in [QT208 Big Game Hunter].
-[G44.6,88Duskwood][G87.8,40.8Duskwood][G6.3,60.1,2Swamp of Sorrows][G22.87,48.18,2Swamp of Sorrows]Click A Soggy Scroll to turn in [QT624 Cortello's Riddle] and accept [QA625 Cortello's Riddle].
+Fly to [F Sentinel Hill].
+Talk to Grimbooze Thunderbrew to turn in [QT48 Sweet Amber] and accept [QA49 Sweet Amber].
+Fly to [F Darkshire]
+[G87.8,40.8Duskwood][G6.3,60.1,2Swamp of Sorrows][G22.87,48.18,2Swamp of Sorrows]Click A Soggy Scroll to turn in [QT624 Cortello's Riddle] and accept [QA625 Cortello's Riddle].
 Click Sack of Barley for [QC49,1 Sweet Amber].
 Kill Jarquia for [QC4450,4 Ledger from Tanaris].
 [G52.3,9.3Blasted Lands][G66.9,19.5,2Blasted Lands]Talk to Thadius Grimshade to turn in [QT2990 Thadius Grimshade].
