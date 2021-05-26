@@ -77,7 +77,7 @@ Kill Jarquia for [QC4450,4 Ledger from Tanaris].
 OPTIONAL ZUL'FARRAK QUEST - Accept [QA2991 Nekrum's Medallion].
 Fly to [F Stormwind].
 Talk to Angus Stern to accept [QA212 A Meal Served Cold].
-Hearth to Booty Bay.
+Hearth to Booty Bay[H].
 Talk to "Sea Wolf" MacKinley to turn in [QT613 Cracking Maury's Foot].
 Kill Cold Eye Basilisk for [QC212 A Meal Served Cold].
 Fly to [F Stormwind].

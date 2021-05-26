@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 Talk to Krinkle Goodsteel to turn in [QT4450 Ledger from Tanaris].
 Talk to Chief Engineer Bilgewhizzle to accept [QA1691 More Wastewander Justice].
 Talk to Curgle Cranklehop to accept [QA3022 Handle With Care].
-Click Wanted Poster to accept [QA2781 WANTED: Caliph Scorpidsting].
+[G51.84,27.02,1Tanaris]Click the Wanted Poster to accept [QA2781 WANTED: Caliph Scorpidsting]
 Click Wanted Poster to accept [QA2875 WANTED: Andre Firebeard].
 Talk to Shreev to accept [QA1189 Safety First].
 [G51.3,20.8Tanaris][G77.8,77.3,2Thousand Needles]Talk to Kravel Koalbeard to turn in [QT1119 Zanzil's Mixture and a Fool's Stout] and accept [QA1120 Get the Gnomes Drunk].

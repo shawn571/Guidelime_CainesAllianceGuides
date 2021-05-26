@@ -12,6 +12,7 @@ Talk to Zorbin Fandazzle to accept [QA7721 Fuel for the Zapping] and [QA7003 Zap
 Kill water elementals for [QC7721 Fuel for the Zapping][O] while doing the next steps.
 Use Zorbin's Ultra-Shrinker in your bag on giants and kill them for [QC7003 Zapped Giants].
 Click Wrecked Row Boat to turn in [QT4125 The Missing Courier] and accept [QA4127 Boat Wreckage].
+Finish up [QC7721 Fuel for the Zapping].
 Talk to Zorbin Fandazzle to turn in [QT7003 Zapped Giants] and [QT7721 Fuel for the Zapping].
 Talk to Ginro Hearthkindle to turn in [QT4127 Boat Wreckage] and accept [QA4129 The Knife Revealed].
 Talk to Quintis Jonespyre to turn in [QT4129 The Knife Revealed] and accept [QA4130 Psychometric Reading].
@@ -47,7 +48,7 @@ Talk to Gracina Spiritmight to turn in [QT4267 Rise of the Silithid].
 Talk to Tyrande Whisperwind to turn in [QT2972 Doling Justice].
 Teleport to Stormwind.[A Mage]
 Buy a Truesilver Bar on the Auction House for a later quest.
-Hearth to Gadgetzan.
+Hearth to Gadgetzan[H].
 OPTIONAL ZUL'FARRAK QUEST - Talk to Chief Engineer Bilgewhizzle to accept [QA2768 Divino-Matic Rod].
 Talk to Curgle Cranklehop to turn in [QT2941 The Borrower] and accept [QA2944 The Super Snapper FX].
 Click the Egg-O-Matic to accept and turn in [QA2741 The Super Egg-O-Matic][QT2741 The Super Egg-O-Matic].
@@ -69,12 +70,13 @@ Fly to [F Thalanaar].
 Use the Undelivered Parcel in your bag to accept [QA4281 Thalanaar Delivery].
 Talk to Falfindel Waywarder to turn in [QT4281 Thalanaar Delivery].
 Talk to Kindal Moonweaver to accept [QA3841 An Orphan Looking For a Home].
-Hearth to Gadgetzan.
+Hearth to Gadgetzan[H].
 Talk to Wizzle Brassbolts to turn in [QT2770 Gahz'rilla].
 Talk to Kravel Koalbeard to accept [QA1122 Report Back to Fizzlebub].
 Talk to Quentin to turn in [QT3841 An Orphan Looking For a Home] and accept [QA3842 A Short Incubation]. Turn in [QT3842 A Short Incubation] and accept [QA3843 The Newest Member of the Family].
+Fly to [F Mudsprocket]
+Talk to Tabetha to turn in [QT2846 Tiara of the Deep].
 Fly to [F Theramore].
-[G57.1,51.1Dustwallow Marsh][G54.9,50.5Dustwallow Marsh][G46.1,57.1,2Dustwallow Marsh]Talk to Tabetha to turn in [QT2846 Tiara of the Deep].
 Take the boat to Menethil Harbor.[G71.5,56.4Dustwallow Marsh]
 Fly to [F Aerie Peak].
 ]], 'Caines Alliance Guides')
