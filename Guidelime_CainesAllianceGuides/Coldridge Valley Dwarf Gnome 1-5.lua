@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[GA Dwarf,Gnome][N1-5Coldridge Valley][NX5-12Dun Morogh to Loch Modan]
+[GA Alliance][N1-5Coldridge Valley][NX5-12Dun Morogh to Loch Modan]
 Talk to Sten Stoutarm and accept [QA179 Dwarven Outfitters]
 Kill wolves for [QC179 Dwarven Outfitters]
 Reach level [XP2].

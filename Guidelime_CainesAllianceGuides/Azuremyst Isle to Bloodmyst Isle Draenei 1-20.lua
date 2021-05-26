@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[GA Alliance,Draenei][N1-20Azuremyst Isle to Bloodmyst Isle][NX19-21Redridge Mountains]
+[GA Alliance][N1-20Azuremyst Isle to Bloodmyst Isle][NX19-21Redridge Mountains]
 Accept [QA9279 You Survived!] from Megelon
 Turn in [QT9279 You Survived!] to Proenitus and accept [QA9280 Replenishing the Healing Crystals].
 Talk to Botanist Taerix and accept [QA10302 Volatile Mutations]

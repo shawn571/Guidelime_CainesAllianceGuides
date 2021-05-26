@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[GA NightElf][N1-6Shadowglen][NX6-12Teldrassil]
+[GA Alliance][N1-6Shadowglen][NX6-12Teldrassil]
 Talk to Conservator Ilthalaine to accept [QA456 The Balance of Nature].
 Kill Young Nightsabers and Young Thistle Boars for [QC456 The Balance of Nature].
 Reach level [XP2].

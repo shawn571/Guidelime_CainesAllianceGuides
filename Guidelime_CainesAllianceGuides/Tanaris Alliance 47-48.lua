@@ -6,7 +6,7 @@ Kill Centipaar enemies for [QC82 Noxious Lair Investigation].[G36,41Tanaris]
 Talk to Alchemist Pestlezugg to turn in [QT82 Noxious Lair Investigation].
 Talk to Senior Surveyor Fizzledowser to accept [QA10 The Scrimshank Redemption].
 Talk to Marvon Rivetseeker to turn in [QT3445 The Sunken Temple]. Accept [QA3444 The Stone Circle] and [QA3161 Gahz'ridian].
-Pick up Gahz'ridian for [QC3161 Gahz'ridian][OC] and kill ogres for [QC5863,1 The Dunemaul Compound][OC], [QC5863,2 The Dunemaul Compound][OC] while doing the next step.
+Pick up Gahz'ridian for [QC3161 Gahz'ridian][O] and kill ogres for [QC5863,1 The Dunemaul Compound][O], [QC5863,2 The Dunemaul Compound][O] while doing the next step.
 Kill Gor'marok the Ravager [QC5863,3 The Dunemaul Compound] and finish up [QC3161 Gahz'ridian].
 Finish up [QC5863 The Dunemaul Compound].
 [G55.8,68.9Tanaris][G56,71.2,2Tanaris]Click Scrimshank's Surveying Gear for [QC10 The Scrimshank Redemption].

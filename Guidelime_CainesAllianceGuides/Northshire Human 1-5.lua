@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[GA Alliance,Human][N1-5Northshire][NX5-12Elwynn Forest to Loch Modan]
+[GA Alliance][N1-5Northshire][NX5-12Elwynn Forest to Loch Modan]
 Talk to Deputy Willem to accept [QA783 A Threat Within].
 Talk to Marshal McBride to turn in [QT783 A Threat Within] and accept [QA7 Kobold Camp Cleanup].
 Talk to Deputy Willem to accept [QA5261 Eagan Peltskinner].

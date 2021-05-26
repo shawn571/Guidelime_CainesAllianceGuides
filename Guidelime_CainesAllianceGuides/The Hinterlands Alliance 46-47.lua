@@ -19,5 +19,5 @@ Finish up [QC4297 Food for Baby].
 Finish up [QC3661 Favored of Elune?].
 Talk to Fraggar Thundermantle to turn in [QT2877 Skulk Rock Clean-up].
 Talk to Agnar Beastamer to turn in [QT4297 Food for Baby] and accept [QA4298 Becoming a Parent]. Turn in [QT4298 Becoming a Parent].
-Hearth to Gadgetzan.
+Hearth to Gadgetzan[H].
 ]], 'Caines Alliance Guides')
