@@ -54,6 +54,7 @@ Click Idol of Hakkar to turn in [QT3447 Secret of the Circle].
 Complete [QC8418 forging the Mightstone][A Paladin].
 Complete [QC8425 Voodoo Feathers][A Warrior].
 Complete [QC8422 Trolls of a Feather][A Warlock].
+Complete [QC8413 Da Voodoo][A Shaman].
 Kill Morphaz for [QC8253 Destroy Morphaz][A Mage].
 Kill Morphaz for [QC8257 Blood of Morphaz][A Priest].
 Kill Morphaz for [QC8232 The Green Drake][A Hunter].

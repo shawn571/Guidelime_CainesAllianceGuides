@@ -17,15 +17,17 @@ Talk to Fallen Hero of the Horde to turn in [QT2801 A Tale of Sorrow].
 Go inside the entrance to Temple of Atal'hakkar and outside the instance click Atal'ai Tablets to complete [QC1475 Into the Temple of Atal'Hakkar].
 Hearth to Stormwind.
 Talk to Crier Goodman to accept [QA5066 A Call to Arms: The Plaguelands]. He walks around the city so you will need to look for him.
-Talk to Theridran to accept [QA9063 Torwa Pathfinder][A Druid][G21.24,51.67,2Stormwind City]#Talk to your trainer and train Healing Touch (Rank 9), Mark of the Wild (Rank 6), Ravage (Rank 3). If tanking, Maul (Rank 6).[A Druid]
+Talk to Farseer Umbrua to accept [QA8410 Elemental Mastery][A Shaman][G67.5,89.4,2Stormwind City]
+Go to the Auction House and buy an Elemental Air, Elemental Fire, Elemental Earth, and Elemental Water for [QC8410 Elemental Mastery][A Shaman]
+Talk to Theridran to accept [QA9063 Torwa Pathfinder][A Druid][G21.24,51.67,2Stormwind City]
 Talk to Einris Brightspear to accept [QA8151 The Hunter's Charm][A Hunter].[G61.6,15.2,2Stormwind City]
-Talk to Osborne the Night Man to accept [QA8233 A Simple Request][A Rogue][G74.6,52.8,2Stormwind City]#Talk to your trainer and train Crippling Poison (Rank 2), Kidney Shot (Rank 2).[A Rogue]
+Talk to Osborne the Night Man to accept [QA8233 A Simple Request][A Rogue][G74.6,52.8,2Stormwind City]
 Talk to Brother Benjamin to accept [QA8254 Cenarion Aid][A Priest].[G41.2,28.2,2Stormwind City]
-Buy 1 Ichor of Undeath from the Auction House for a priest quest.[A Priest]#Talk to your trainer and train Shadow Word: Pain (Rank 7), Inner Fire (Rank 5), Flash Heal (Rank 6).[A Priest]
-Talk to Elsharin to accept [QA8250 Magecraft][A Mage].[G36.88,81.23,2Stormwind City]#Talk to your trainer and train Ice Armor (Rank 3), Conjure Water (Rank 6), Cone of Cold (Rank 4), Frostbolt (Rank 9).[A Mage]
-Talk to Arthur the Faithful to accept [QA8415 Chillwind Point][A Paladin][G38.7,32.9,2Stormwind City]#Talk to your trainer and train Devotion Aura (Rank 6), Seal of Command (Rank 4).[A Paladin]
-Talk to Ursula Deline to accept [QA8419 An Imp's Request][A Warlock].[G26.1,77.2,2Stormwind City]#Talk to your trainer and train Dark Pact (Rank 2), Demon Armor (Rank 4), Immolate (Rank 6), Create Soulstone (Greater).[A Warlock]#Talk to the demon trainer and buy a Grimoire of Blood Pact (Rank 5) and learn it.[A Warlock]
-Talk to Wu Shen to accept [QA8417 A Troubled Spirit][A Warrior].[G78.68,45.79,2Stormwind City]#Talk to your trainer and train Recklessness.[A Warrior]
+Buy 1 Ichor of Undeath from the Auction House for a priest quest.[A Priest]
+Talk to Elsharin to accept [QA8250 Magecraft][A Mage].[G36.88,81.23,2Stormwind City]
+Talk to Arthur the Faithful to accept [QA8415 Chillwind Point][A Paladin][G38.7,32.9,2Stormwind City]
+Talk to Ursula Deline to accept [QA8419 An Imp's Request][A Warlock].[G26.1,77.2,2Stormwind City]
+Talk to Wu Shen to accept [QA8417 A Troubled Spirit][A Warrior].[G78.68,45.79,2Stormwind City]
 Talk to Brohann Caskbelly to turn in [QT1475 Into The Temple of Atal'Hakkar].
 Fly to [F Thelsamar].
 Use Margol's Horn in your bag to accept [QA3181 The Horn of the Beast].

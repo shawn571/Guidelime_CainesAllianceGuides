@@ -26,7 +26,7 @@ Talk to Torta to turn in [QT1560 Tooga's Quest].
 Talk to Marin Noggenfogger to turn in [QT2605 The Thirsty Goblin] and accept [QA2606 In Good Taste].
 Talk to Tran'rek to turn in [QT3362 Thistleshrub Valley].
 Talk to Sprinkle to turn in [QT2606 In Good Taste] and accept [QA2641 Sprinkle's Secret Ingredient].
-Hearth to Stormwind.
+Hearth to Stormwind[H].
 Fly to [F Sentinel Hill].
 Talk to Grimbooze Thunderbrew to turn in [QT51 Sweet Amber].
 Fly to [F Nethergarde Keep].

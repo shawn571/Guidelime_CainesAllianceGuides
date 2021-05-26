@@ -29,9 +29,10 @@ Buy 1 Mithril Casing from the Auction House.
 Fly to [F Menethil Harbor].
 Talk to Innkeeper Helbrek to make this inn your home.[S][G10.7,60.9,2Wetlands]
 Fly to [F Southshore].[A Rogue] 
-Fly to [F Chillwind Camp].[A Paladin] 
+Fly to [F Chillwind Camp].[A Paladin,Shaman] 
 Talk to Commander Ashlam Valorfist to turn in [QT8418 Forging the Mightstone].[A Paladin]
-Fly to [F Aerie Peak].[A Druid,Hunter,Mage,Paladin,Warlock,Priest,Warrior]
+Talk to Bath'rah the Windwatcher to turn in [QT8413 Da Voodoo].[A Shaman]
+Fly to [F Aerie Peak].[A Druid,Hunter,Mage,Paladin,Warlock,Priest,Warrior,Shaman]
 Talk to Lord Jorach Ravenholdt to turn in [QT8236 The Azure Key].[A Rogue]
 Talk to Atal’ai Exile to turn in [QT1446 Jammal’an the Prophet].
 Hearth to Menethil Harbor.

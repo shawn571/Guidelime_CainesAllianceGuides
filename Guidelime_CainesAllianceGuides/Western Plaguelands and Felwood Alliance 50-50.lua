@@ -3,6 +3,8 @@ Guidelime.registerGuide([[
 Talk to Commander Ashlam Valorfist to turn in [QT5066 A Call to Arms: The Plaguelands] and accept [QA5092 Clear the Way].
 Talk to Commander Ashlam Valorfist to turn in [QT8415 Chillwind Point] and accept [QA8414 Dispelling Evil][A Paladin].
 Talk to Argent Officer Pureheart to accept and turn in [QA5401 Argent Dawn Commission][QT5401 Argent Dawn Commission].
+Talk to Bath'rah the Windwatcher to turn in [QT8410 Elemental Mastery] and accept [QA8412 Spirit Totem][A Shaman]
+While doing the next steps kill bears and spiders for [QC8412 Spirit Totem][O][A Shaman]
 Kill Skeletal Flayers and Slavering Ghouls for [QC5092 Clear the Way].
 Kill more of them for [QC8414 Dispelling Evil][A Paladin].
 Talk to High Priest Thel'danis to turn in [QT8414 Dispelling Evil] and accept [QA8416 Inert Scourgestones][A Paladin].
@@ -12,8 +14,10 @@ Talk to High Priestess MacDonnell to turn in [QT5215 The Scourge Cauldrons] and 
 Kill Cauldron Lord Bilemaw and use his key on the cauldron to complete [QC5216 Target: Felstone Field].[G37,57.17Western Plaguelands]
 Grind until you have 20 Minion's Scourgestones - you will need the Argent Dawn Commission trinket equipped for this.
 Click Scourge Cauldron to turn in [QT5216 Target: Felstone Field] and accept [QA5217 Return to Chillwind Camp].
+Finish up [QC8412 Spirit Totem][A Shaman]
 Talk to Argent Officer Pureheart to accept and turn in [QA5408 Minion's Scourgestones][QT5408 Minion's Scourgestones]. Mark this step complete.
 Talk to High Priestess MacDonnell to turn in [QT5217 Return to Chillwind Camp].
+Talk to Bath'rah the Windwatcher to turn in [QT8412 Spirit Totem] and accept [QA8413 Da Voodoo][A Shaman]
 Fly to [F Aerie Peak].
 Talk to Gryphon Master Talonaxe to turn in [QT2993 Return to the Hinterlands].
 OPTIONAL ELITE - Talk to Gryphon Master Talonaxe to accept [QA2994 Saving Sharpbeak].
