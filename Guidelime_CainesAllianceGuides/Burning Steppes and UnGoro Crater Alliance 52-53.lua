@@ -11,7 +11,10 @@ Click Tablet of the Seven for [QC4296 Tablet of the Seven].[G54.06,40.68,2Burnin
 Finish up killing Firegut Brutes for [QC3823,3 Extinguish the Firegut].
 Use Draco-Incarcinatrix 900 on Black Broodlings around here and then kill them for [QC4726 Broodling Essence].[G84.14,57.52Burning Steppes] Pick up the crystals they leave behind.
 Kill Black dragonflight enemies for [QC4182 Dragonkin Menace].
-Talk to Cyrus Therepentous to accept and turn in [QA4022 A Taste of Flame][QT4022 A Taste of Flame].
+Open Hoard of the Black Dragonflight in your bag if you haven't already to loot Black Dragonflight Molt.
+Talk to Cyrus Therepentous to accept [QA4022 A Taste of Flame]
+Talk to Cyrus Therepentous and say "I present you with proof of my deeds, Cyrus."
+Talk to Cyrus Therepentous to turn in [QT4022 A Taste of Flame].
 Talk to Tinkee Steamboil to turn in [QT4726 Broodling Essence] and accept [QA4808 Felnok Steelspring].
 Talk to Maxwort Uberglint to turn in [QT4296 Tablet of the Seven].
 Finish up [QC3823 Extinguish the Firegut].
@@ -55,6 +58,7 @@ Talk to A-Me 01 to turn in [QT4243 Chasing A-Me 01] and accept [QA4244 Chasing A
 Escort A-Me 01 to safety to complete [QC4245 Chasing A-Me 01].
 Talk to Karna Remtravel to turn in [QT4245 Chasing A-Me 01].
 Click Crate of Foodstuffs for [QC3881,1 Expedition Salavation].
+Opem Torwa's Pouch in your bag if you haven't already.
 Use the Preserved Threshadon Meat and then the Preserved Pheramone Mixture at Un’Goro Flat Rock and kill Lar’korwi to complete [QC4292 The Bait for Lar’korwi].[G79.86,49.88,2Un'Goro Crater]
 Talk to Torwa Pathfinder to turn in [QT4292 The Bait for Lar’korwi] and [QT4301 The Mighty U’cha].
 Talk to Torwa Pathfinder to turn in [QT9053 A Better Ingredient].[A Druid]
@@ -97,7 +101,7 @@ Talk to Alchemist Pestlezugg to turn in [QT4507 Pawn Captures Queen] and accept 
 Talk to Tran'rek to turn in [QT4504 Super Sticky].
 Teleport to Moonglade.[A Druid]
 Teleport to Darnassus.[A Mage]
-Hearth to Menethil Harbor.[A Hunter,Rogue,Paladin,Priest,Warlock,Warrior,Shaman]
+Hearth to Menethil Harbor.[H][A Hunter,Rogue,Paladin,Priest,Warlock,Warrior,Shaman]
 Take the boat to Auberdine.[G4.6,57.1Wetlands][A Hunter,Rogue,Paladin,Priest,Warlock,Warrior,Shaman]
 Fly to [F Rut’theran Village].[A Druid,Hunter,Rogue,Paladin,Priest,Warlock,Warrior,Shaman]
 Talk to Erelas Ambersky to accept [QA978 Moontouched Wildkin].

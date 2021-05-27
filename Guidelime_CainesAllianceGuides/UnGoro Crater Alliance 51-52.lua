@@ -38,7 +38,7 @@ Finish up [QC4141 Muigin and Larion].
 Talk to Muigin to turn in [QT4141 Muigin and Larion] and accept [QA4142 A Visit to Gregan].
 Fly to [F Feathermoon].
 Talk to Gregan to turn in [QT4142 A Visit to Gregan] and accept [QA4143 Haze of Evil].
-Hearth to Stormwind.
+Hearth to Stormwind[H].
 Fly to [F Nethergarde Keep]
 Kill Felguard Sentry for [QC7602,3 Flawless Fel Essence][A Warlock]
 Talk to Fallen Hero of the Horde to turn in [QT8417 A Troubled Spirit] and accept [QA8423 Warrior Kinship][A Warrior].
@@ -64,7 +64,7 @@ Reach level [XP52].
 Kill Jammal'an the Prophet for [QC1446 Jammal'an the Prophet].
 Kill Shade of Eranikus and loot the Essence of Eranikus. Use it to accept [QA3373 The Essence of Eranikus].
 Click Essence Font to turn in [QT3373 The Essence of Eranikus].
-Hearth to Stormwind.
+Hearth to Stormwind[H].
 Fly to [F Lakeshire].
 Go to Burning Steppes.[G46.8,13.7Redridge Mountains]
 ]], 'Caines Alliance Guides')
