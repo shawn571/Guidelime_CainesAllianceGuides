@@ -18,7 +18,7 @@ Finish up [QC8412 Spirit Totem][A Shaman]
 Talk to Argent Officer Pureheart to accept and turn in [QA5408 Minion's Scourgestones][QT5408 Minion's Scourgestones]. Mark this step complete.
 Talk to High Priestess MacDonnell to turn in [QT5217 Return to Chillwind Camp].
 Talk to Bath'rah the Windwatcher to turn in [QT8412 Spirit Totem] and accept [QA8413 Da Voodoo][A Shaman]
-Fly to [F Aerie Peak].
+[G42.92,85.06,2Western Plaguelands]Fly to [F Aerie Peak].
 Talk to Gryphon Master Talonaxe to turn in [QT2993 Return to the Hinterlands].
 OPTIONAL ELITE - Talk to Gryphon Master Talonaxe to accept [QA2994 Saving Sharpbeak].
 OPTIONAL SUNKEN TEMPLE QUEST - Talk to Atal'ai Exile to accept [QA1446 Jammal'an the Prophet].
@@ -29,9 +29,9 @@ Click Sharpbeak's Cage for [QC2994 Saving Sharpbeak].
 Talk to Gryphon Master Talonaxe to turn in [QT2994 Saving Sharpbeak].
 [G6.5,61.2The Hinterlands][G75.5,22.1Hillsbrad Foothills][G86,78.9Hillsbrad Foothills]Talk to Lord Jorach Ravenholdt to turn in [QT8233 A Simple Request] and accept [QA8234 Sealed Azure Bag][A Rogue].
 Teleport to Darnassus.[A Mage]
-Fly to [F Menethil Harbor].[A Hunter,Priest,Druid,Rogue,Warlock,Warrior]
-Take the boat to Auberdine.[G4.6,57.1Wetlands][A Hunter,Priest,Druid,Rogue,Warlock,Warrior]
-Fly to [F Rut'theran Village].[A Hunter,Priest,Druid,Rogue,Warlock,Warrior]
+Fly to [F Menethil Harbor].[A Hunter,Priest,Druid,Rogue,Warlock,Warrior,Shaman]
+Take the boat to Auberdine.[G4.6,57.1Wetlands][A Hunter,Priest,Druid,Rogue,Warlock,Warrior,Shaman]
+Fly to [F Rut'theran Village].[A Hunter,Priest,Druid,Rogue,Warlock,Warrior,Shaman]
 Talk to Gracina Spiritmight to accept [QA4493 March of the Silithid].
 Fly to [F Astranaar].
 [G37.7,54.8Ashenvale][G61.0,48.4Ashenvale][G55.7,28.7Ashenvale][G51.2,82.1,2Felwood]Talk to Greta Mosshoof to accept [QA5155 Forces of Jaedenar].

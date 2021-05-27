@@ -15,9 +15,9 @@ Talk to Ambassador Ardalan to accept [QA2783 Petty Squabbles].
 Progress through his dialogue to complete [QC2801 A Tale of Sorrow].
 Talk to Fallen Hero of the Horde to turn in [QT2801 A Tale of Sorrow].
 Go inside the entrance to Temple of Atal'hakkar and outside the instance click Atal'ai Tablets to complete [QC1475 Into the Temple of Atal'Hakkar].
-Hearth to Stormwind.
+Hearth to Stormwind[H].
 Talk to Crier Goodman to accept [QA5066 A Call to Arms: The Plaguelands]. He walks around the city so you will need to look for him.
-Talk to Farseer Umbrua to accept [QA8410 Elemental Mastery][A Shaman][G67.5,89.4,2Stormwind City]
+Talk to Farseer Umbrua to accept [QA8410 Elemental Mastery][A Shaman][G61.89,83.89,2Stormwind City]
 Go to the Auction House and buy an Elemental Air, Elemental Fire, Elemental Earth, and Elemental Water for [QC8410 Elemental Mastery][A Shaman]
 Talk to Theridran to accept [QA9063 Torwa Pathfinder][A Druid][G21.24,51.67,2Stormwind City]
 Talk to Einris Brightspear to accept [QA8151 The Hunter's Charm][A Hunter].[G61.6,15.2,2Stormwind City]
@@ -34,6 +34,7 @@ Use Margol's Horn in your bag to accept [QA3181 The Horn of the Beast].
 Talk to Mountaineer Pebblebitty to turn in [QT3181 The Horn of the Beast] and accept [QA3182 Proof of Deed].
 Fly to [F Ironforge].
 Talk to Curator Thorius to turn in [QT3182 Proof of Deed] and accept [QA3201 At Last!].
+Talk to Curator Thorius to turn in [QT3566 Rise Obsidion!]
 Talk to Historian Karnik to accept [QA3448 Passing the Burden].
 Talk to Tymor to turn in [QT3448 Passing the Burden] and accept [QA3449 Arcane Runes] and [QA3450 An Easy Pickup].
 Talk to Xiggs Fuselighter to turn in [QT3450 An Easy Pickup] and accept and turn in [QA3451 Signal for Pickup][QT3451 Signal for Pickup].
