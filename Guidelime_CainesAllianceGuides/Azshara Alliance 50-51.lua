@@ -32,8 +32,8 @@ Kill Spitelash Sirens for [QC8252 The Siren's Coral][A Mage]
 Talk to Kim'jael to turn in [QT5534 Kim'jael's "Missing" Equipment].
 Kill Wavethrasher enemies for [QC8231 Wavethrashing][A Hunter].
 Kill and pickpocket Forest Ooze for [QC8235 Encoded Fragments][A Rogue].
-Jump off the cliff here.[G49.8,36,2Azshara]
-[G52.3,73.6Azshara][G62.5,82Azshara][G67.2,84.4Azshara][G69.5,86.2Azshara][G72.2,87.4Azshara][G73.5,88.3Azshara][G74.3,87.9Azshara][G75.2,89.9Azshara][G77.9,90.6Azshara]Go up the ramp, across two bridges, to the right to avoid naga by hugging the cliff, along the cliff to the fallen statue, up hills behind face of the statue by walking along the sword, up the peak overlooking the helipad, backpedal down the slope and into the ocean, and go up to helipad island. Use the Standard Issue Flare Gun in your bag and talk to Pilot Xiggs Fuselighter to turn in [QT3449 Arcane Runes] and accept [QA3461 Return to Tymor].
+Jump off the cliff here. If you die you can resurrect at the spirit healer and be closer to your next objective.[G49.8,36,2Azshara]
+[G52.3,73.6Azshara][G62.5,82Azshara][G67.2,84.4Azshara][G69.5,86.2Azshara][G72.2,87.4Azshara][G73.5,88.3Azshara][G74.3,87.9Azshara][G75.2,89.9Azshara][G77.9,90.6Azshara]Follow the waypoint arrows and jump into the ocean, and go up to helipad island. Use the Standard Issue Flare Gun in your bag and talk to Pilot Xiggs Fuselighter to turn in [QT3449 Arcane Runes] and accept [QA3461 Return to Tymor].
 Die and resurrect at the spirit healer.
 Talk to Ogtinc to turn in [QT8231 Wavethrashing] and accept [QA8232 The Green Drake][A Hunter].
 Talk to Archmage Xylem to turn in [QT8235 Encoded Fragments] and accept [QA8236 The Azure Key][A Rogue].
