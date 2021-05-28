@@ -43,9 +43,9 @@ Finish up [QC5082 Threat of the Winterfall] and [QC8464 Winterfall Activity].[G6
 Talk to Donova Snowden to turn in [QT5082 Threat of the Winterfall] and [QT5083 Winterfall Firewater]. Accept [QA5084 Falling to Corruption].
 Talk to Salfa to turn in [QT8464 Winterfall Activity].
 Go to Felwood and click Deadwood Cauldron to turn in [QT5084 Falling to Corruption] and accept [QA5085 Mystery Goo].
-Teleport to Stormwind.[A Mage]#Talk to your trainer and train Arcane Explosion (Rank 6).[A Mage]
+Teleport to Stormwind.[A Mage]
 Teleport to Darnassus.[A Mage]
-Fly to [F Rut’theran Village].[A Druid,Hunter,Rogue,Priest,Paladin,Warlock,Warrior]#Talk to your trainer and train Power Word: Shield (Rank 9).[A Priest]
+Fly to [F Rut’theran Village].[A Druid,Hunter,Rogue,Priest,Paladin,Warlock,Warrior,Shaman]
 Talk to Gracina Spiritmight to turn in [QT4508 Calm Before the Storm] and accept [QA4510 Calm Before the Storm].
 Use Eridan’s Vial in the Temple of the Moon to complete [QC4441 Felbound Ancients].[G39.2,85.4,2Darnassus]
 Talk to Idriana to turn in [QT4510 Calm Before the Storm].
@@ -95,7 +95,7 @@ Fly to [F Ratchet].
 Talk to Liv Rizzlefix to turn in [QT4502 Volcanic Activity].
 Fly to [F Feathermoon].
 Talk to Gregan Brewspewer to turn in [QT4142 A Visit to Gregan].
-Talk to him again to buy Bait. Mark this complete when done.
+Talk to Gregan Brewspewer to buy Bait. Mark this complete when done.[G45.11,25.55,1Feralas]
 Use the Bait on Miblon Snarltooth then loot the Evoroot. Mark this complete when done.[G44.6,10.2Feralas]
 Talk to Gregan Brewspewer to accept and turn in [QA4041 The Videre Elixir][QT4041 The Videre Elixir]. Mark this step complete after you have the elixirs.
 Hearth to Menethil Harbor.[H]
