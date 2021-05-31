@@ -1,9 +1,9 @@
 Guidelime.registerGuide([[
 [GA Alliance][N57-58Azshara and Plaguelands][NX58-60Blackrock Depths and Finish Up]
 Click Sacred Highborne Writings for [QC5246 Fragments of the Past].
-Talk to Loramus Thalipedes to complete [QC2744 The Demon Hunter].
+Talk to Loramus Thalipedes to complete [QC2744 The Demon Hunter][G60.82,66.36,1Azshara].
 Talk to Loramus Thalipedes to turn in [QT2744 The Demon Hunter] and accept [QA3141 Loramus].
-Talk to Loramus Thalipedes to complete [QC3141 Loramus].
+Talk to Loramus Thalipedes to complete [QC3141 Loramus][G60.82,66.36,1Azshara].
 Talk to Loramus Thalipedes to turn in [QT3141 Loramus] and accept [QA3508 Breaking the Ward].
 Talk to Loramus Thalipedes to turn in [QT3508 Breaking the Ward] and accept [QA3509 The Name of the Beast].
 Talk to Lord Arkkoroc to turn in [QT3509 The Name of the Beast]. Skip [QS3510 The Name of the Beast].
@@ -19,9 +19,9 @@ Take the boat to Theramore.[G5,63.5Wetlands].
 Fly to [F Gadgetzan].
 Talk to Krinkle Goldsteel to turn in [QT5538 Mold Rhymes With...] and accept [QA5801 Fire Plume Forged].
 Use Umi's Mechanical Yeti on Sprinkle to complete [QC5163,2 Are We There, Yeti?].
-Drink the Videre Elixir at the Gadgetzan Graveyard for [QC3912 Meet at the Grave].[G54,29Tanaris]
-Talk to Gaeriyan to turn in [QT3912 Meet at the Grave] and accept [QA3913 A Grave Situation].
-Click A Conspicuous Gravestone to turn in [QT3913 A Grave Situation] and accept [QA3914 Linken's Sword].
+Go to the graveyard and mark this step complete.[G54,29Tanaris]
+Note where the guide is pointing you to go, then drink the Videre Elixir to die and head to that spot. Talk to Gaeriyan to turn in [QT3912 Meet at the Grave] and accept [QA3913 A Grave Situation].
+Return to your body and resurrect, then click A Conspicuous Gravestone to turn in [QT3913 A Grave Situation] and accept [QA3914 Linken's Sword].
 Fly to [F Marshal's Refuge].
 Talk to Linken to turn in [QT3914 Linken's Sword] and accept [QA3941 A Gnome's Assistance].
 Talk to J.D. Collie to turn in [QT3941 A Gnome's Assistance] and accept [QA3942 Linken's Memory].
@@ -29,11 +29,12 @@ Use Umi's Mechanical Yeti on Quixxil for [QC5163,3 Are We There, Yeti?].
 Use the Skeleton Key Mold here to complete [QC5801 Fire Plume Forged].[G49,46Un'Goro Crater].
 [G29.4,22.4Un'Goro Crater][G81.9,18.9,2Silithus]Talk to Layo Starstrike to turn in [QT1124 Wasteland] and accept [QA1125 The Spirits of Southwind].
 Free the spirits of Tortured Druids and Tortured Sentinels for [QC1125 The Spirits of Southwind].
+Talk to Cloud Skydancer to get the flight point [P][G50.60,34.46,1Silithus]
 Talk to Layo Starstrike to turn in [QT1125 The Spirits of Southwind] and accept [QA1126 Hive in the Tower].
 Kill Hive'Ashi Ambusher for [QC1126 Hive in the Tower].
 Talk to Layo Starstrike to turn in [QT1126 Hive in the Tower] and accept [QA6844 Umber, Archivist].
 Kill Dust Stormers and Desert Rumblers to complete [QC6805 Stormers and Rumblers].
-Hearth to Menethil Harbor.
+Hearth to Menethil Harbor.[H]
 Fly to [F Chillwind Camp].
 Talk to Flint Shadowmore to turn in [QT6184 Flint Shadowmore].
 Talk to Eridan Bluewind to accept [QA6185 The Eastern Plagues].
@@ -42,12 +43,14 @@ Talk to Commander Ashlam Valorfist to accept [QA211 Alas, Andorhal].
 Fly to [F Light's Hope Chapel].
 Talk to Carlin Redpath to accept [QA5211 Defenders of Darrowshire], [QA5181 Villains of Darrowshire], and [QA5168 Heroes of Darrowshire].
 Get Shattered Sword of Marduk for [QC5181,2 Villains of Darrowshire].
-Kill Diseased Flayers for [QC5211 Defenders of Darrowshire].[G66,36Eastern Plaguelands]
+Kill Gibbering Ghouls and talk to the Darrowshire Spirits that spawn for [QC5211 Defenders of Darrowshire].[G66,36Eastern Plaguelands]
 Use the Aspect of Neptulon on poisoned elementals for [QC6804 Poisoned Water][O] while doing the next steps.
 Click Symbol of Lost Honor for [QC5845 Of Lost Honor].
 Kill Infiltrator Hameya for [QC6024 Hameya's Plea].
 Talk to Aurora Skycaller to turn in [QT5246 Fragments of the Past]. Skip [QS5247 Fragments of the Past].
+Click Horgus' Skull for [QC5181 Villains of Darrowshire] 
 Finish up [QC6804 Poisoned Water].
+Click Mound of Dirt to turn in [QT6024 Hameya's Plea].
 Click Mangled Human Remains for [QC6185,1 The Eastern Plagues].
 Click Mangled Human Remains for [QC6185,3 The Eastern Plagues].
 Click Mangled Human Remains for [QC6185,2 The Eastern Plagues].
@@ -61,7 +64,7 @@ Talk to Commander Ashlan Valorfist to turn in [QT211 Alas, Andorhal]. Accept and
 Talk to Flint Shadowmore to turn in [QT6185 The Eastern Plagues] and accept [QA6186 The Blightcaller Cometh].
 Fly to [F Light's Hope Chapel].
 Talk to Carlin Redpath to turn in [QT5168 Heroes of Darrowshire], [QT5181 Villains of Darrowshire], and [QT5211 Defenders of Darrowshire]. Accept [QA5206 Marauders of Darrowshire].
-Kill Scourge Champions for [QC5206 Marauders of Darrowshire].
+Kill Scourge Champions and use the Mystic Crystal on the Fetid Skulls that drop for [QC5206 Marauders of Darrowshire].
 Talk to Carlin Redpath to turn in [QT5206 Marauders of Darrowshire] and accept [QA5941 Return to Chromie].
 Fly to [F Chillwind Camp].
 Talk to Chromie to turn in [QT5941 Return to Chromie]. Skip [QS5721 The Battle of Darrowshire] unless you can find a raid group for it.

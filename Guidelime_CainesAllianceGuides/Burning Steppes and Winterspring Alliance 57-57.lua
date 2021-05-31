@@ -33,7 +33,7 @@ Click Damaged Crate to turn in [QT4861 Enraged Wildkin] and accept [QA4863 Enrag
 Click Jaron's Wagon to turn in [QT4863 Enraged Wildkin] and accept [QA4864 Enraged Wildkin].
 Click Jaron's Supplies for [QC4864,1 Enraged Wildkin].
 Talk to Ranshalla to turn in [QT979 Find Ranshalla] and accept [QA4901 Guardians of the Altar].
-Protect Ranshalla to complete [QC4901 Guardians of the Altar].
+Protect Ranshalla and click Fire of Elune in the caves when she stops to complete [QC4901 Guardians of the Altar].
 Kill wildkin enemies for [QC4864,2 Enraged Wildkin].
 Go here to complete [QC4842 Strange Sources].[G60,73Winterspring]
 Click Frostmaul Shards for [QC969 Luck Be With You].

@@ -72,7 +72,7 @@ Talk to Mulgris Deepriver to turn in [QT4985 The Wildlife Suffers Too] and accep
 Talk to Nathaniel Dumah to turn in [QT6389 A Plague Upon Thee].
 Talk to High Priestess MacDonnell to turn in [QT5226 Return to Chillwind Point].
 Talk to Anchorite Truuen to turn in [QT9474 The Mark of the Lightbringer].
-Talk to Commander Ashlam Valorfist to accept and turn in [QA5238 Mission Accomplished!] [QT5238 Mission Accomplished!].
+Talk to Commander Ashlam Valorfist to accept and turn in [QA5237 Mission Accomplished!] [QT5237 Mission Accomplished!].
 Talk to Alchemist Arbington to turn in [QT5537 Skeletal Fragments] and accept [QA5538 Mold Rhymes With...].
 Talk to Anchorite Truuen to accept [QA9446 Tomb of the Lightbringer]
 Escort Anchorite Truuen for [QC9446 Tomb of the Lightbringer]
