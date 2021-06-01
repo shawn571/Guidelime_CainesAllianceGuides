@@ -46,7 +46,7 @@ Talk to Jalinda Sprig to turn in [QT4263 Incendius!].
 Talk to Maxwort Uberglint to turn in [QT4123 The Heart of the Mountain].
 Talk to Yuka Screwspigot to turn in [QT4136 Ribbly Screwspigot].
 Fly to [F Stormwind].
-Talk to Squire Rowe to complete [QC6402 Stormwind Rendezvous].
+Talk to Squire Rowe and say "Let Marshal Windsor know that I am ready".[G70.40,85.14,1Stormwind City]
 Talk to Reginald Windsor to turn in [QT6402 Stormwind Rendezvous] and accept [QA6403 The Great Masquerade].
 Protect Reginald Windsor to complete [QC6403 The Great Masquerade].
 Talk to Highlord Bolvar Fordragon to turn in [QT6186 The Blightcaller Cometh] and accept [QA6187 Order Must Be Restored]. Turn in [QT6403 The Great Masquerade] and accept [QA6501 The Dragon's Eye].
