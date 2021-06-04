@@ -75,7 +75,7 @@ Talk to Cerellean Whiteclaw to turn in [QT963 For Love Eternal].
 Talk to Gwennyth Bly'Leggonde to turn in [QT4722 Beached Sea Turtle] and [QT4728 Beached Sea Creature].
 Fly to [F Rut'theran Village].[A NightElf]
 Take the boat to Rut'theran Village.[A Dwarf,Human,Gnome][G33.17,40.16,1Darkshore]
-Talk to Nessa to turn in [QT6343 Return to Nessa].[A NightElf]#Talk to your trainer and train Thorns (Rank 2), Bash, Healing Touch (Rank 3).[A Druid]
+Talk to Nessa to turn in [QT6343 Return to Nessa].[A NightElf]
 Talk to Mathrengyl Bearwalker to accept [QA6121 Lessons Anew][A Druid].
 Teleport to Moonglade.[A Druid]
 Talk to Dendrite Starblaze to turn in [QT6121 Lessons Anew] and accept [QA6122 The Principal Source][A Druid]
