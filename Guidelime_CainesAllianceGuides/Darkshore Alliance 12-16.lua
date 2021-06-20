@@ -110,18 +110,12 @@ Talk to Alanndaraian Nightsong to turn in [QT6123 Gathering the Cure] and accept
 Use the Curative Animal Salve in your bag on Sickly Deer that are all around Darkshore to complete [QC6124 Curing the Sick][A Druid].
 Teleport to Moonglade.[A Druid]
 Talk to Alanndarian Nightsong to turn in [QT6124 Curing the Sick] and accept [QA6125 Power over Poison][A Druid].
-Take the boat to Menethil Harbor.[A Warlock,Paladin].
-Fly to [F Ironforge].[A Warlock,Paladin]
-Fly to [F Menethil Harbor].[A Warlock,Paladin].
-Take the boat to Auberdine.[A Warlock,Paladin]
-Fly to [F Rut'theran Village].[A Warrior,Rogue,Priest,Druid]
 Talk to Mathrengyl Bearwalker to turn in [QT6125 Power over Poison] and accept [QA26 A Lesson to Learn][A NightElf,Druid].]
 Teleport to Moonglade.[A Druid]
 Talk to Dendrite Starblaze to turn in [QT26 A Lesson to Learn] and accept [QA29 Trial of the Lake][A NightElf,Druid].
 Go underwater and click Bauble Container for [QC29 Trial of the Lake][A NightElf,Druid].[G54.1,50.1Moonglade]
 Talk to Tajarri to turn in [QT29 Trial of the Lake] and accept [QA272 Trial of the Sea Lion][A NightElf,Druid].
 Fly to Teldrassil.[A Druid]
-Fly to [F Auberdine].[A Warrior,Rogue,Priest,Druid]
 Go underwater here and open the Strange Lockbox to get the Half Pendant of Aquatic Agility.[G48.9,11.3,2Darkshore][A Druid]
 Talk to Onu to turn in [QT948 Onu] and accept [QA944 The Master's Glaive].
 Talk to Onu to turn in [QT952 Grove of the Ancients].[A NightElf]
