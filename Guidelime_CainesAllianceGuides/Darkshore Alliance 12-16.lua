@@ -20,7 +20,7 @@ Click Beached Sea Creature to complete [QC3524 Washed Ashore]
 Use Tharnariun's Hope in your bag on a Rabid Thistle Bear for [QC2118 Plagued Lands].[G39,55Darkshore]
 Go here to complete [QC984 How Big a Threat?].[G38.9,53.8Darkshore]
 Finish killing Pygmy Tide Crawlers for [QC983 Buzzbox 827].[G36,49Darkshore]
-Click Buzzbox 827 to turn in [QT983 Buzzbox 827] an accept [QA1001 Buzzbox 411].
+Click Buzzbox 827 to turn in [QT983 Buzzbox 827] and accept [QA1001 Buzzbox 411].
 Talk to Gwennyth Bly'Leggonde to turn in [QT3524 Washed Ashore] and pick up [QA4681 Washed Ashore].
 Talk to Thrarnariun Treetender to turn in [QT2118 Plagued Lands] and accept [QA2138 Cleansing of the Infected].
 Talk to Terenthis to turn in [QT984 How Big a Threat?]. Accept [QA985 How Big a Threat?] and [QA4761 Thundris Windweaver].
@@ -83,10 +83,6 @@ Fly to Teldrassil.[A Druid]
 Talk to Vesprystys to get the flight point.[P][G58.38,94,1Teldrassil][A Dwarf,Human,Gnome]
 Buy 5 Earthroot from the Auction House.[A Druid]
 Fly to [F Auberdine].
-Take the boat to Menethil Harbor.[A Mage,Warlock,Paladin]
-Fly to [F Ironforge].[A Mage,Warlock,Paladin]
-Fly to [F Menethil Harbor].[A Mage,Warlock,Paladin].
-Take the boat to Auberdine.[A Mage,Warlock,Paladin]
 Talk to Asterion to turn in [QT957 Bashal'Aran].
 Reach level [XP15].
 Click Beached Sea Turtle to accept [QA4725 Beached Sea Turtle].
