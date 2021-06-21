@@ -103,6 +103,7 @@ Click Old Jug to turn in [QT139 Captain Sander's Hidden Treasure (Part 3)] and a
 Click Locked Chest to turn in [QT140 Captain Sander's Hidden Treasure (Part 4)].
 Kill Murloc Coastrunners for [QC152,1 The Coast Isn't Clear].
 Finish [QC9 The Killing Fields].[G46.92,35.16Westfall]
+Finish [QC102 Patrolling Westfall].[G46.30,13.19,2Westfall]
 Talk to Farmer Saldean to turn in [QT9 The Killing Fields].
 Reach level [XP19].
 Talk to Gryan Stoutmantle to turn in [QT14 The People's Militia].
@@ -120,6 +121,6 @@ Talk to Roberto Pupellyverbos and buy a Cask of Merlot for [QC116,2 Dry Times].[
 Go to Goldshire and talk to Barkeep Dobbins to buy a Skin of Sweet Rum for [QC116,4 Dry Times][G43.99,65.68,2Elwynn Forest]
 Fly to [F Darkshire].
 Talk to Bartender Hann to buy a Bottle of Moonshine for [QC116,3 Dry Times].[A Dwarf,Human,Gnome][G73.65,44.04,2Duskwood]
-Talk to Chef Grual to accept [QA90 Seasoned Wolf Kabobs].
-Fly to [F Lakeshire].[A Dwarf,Human,Gnome]
+Talk to Chef Grual to accept [QA90 Seasoned Wolf Kabobs]. If you didn't level cooking you will need to skip this quest.
+Fly to [F Lakeshire].[A Dwarf,Human,Gnome,NightElf]
 ]], 'Caines Alliance Guides')
