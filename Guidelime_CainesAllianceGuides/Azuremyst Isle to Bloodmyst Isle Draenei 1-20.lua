@@ -325,7 +325,7 @@ Head south to Ashenvale.[G42.83,93.11Darkshore]
 Talk to Daelyshia to get the flight point.[P][G34.4,47.99,1Ashenvale]
 Talk to Raene Wolfrunner to turn in [QT10752 Onward to Ashenvale].
 Go here to head to the Barrens and up the mountain.[G69.1,86.9,2Ashenvale][G49,5.3,2The Barrens][G49.3,12.3,2The Barrens][G52.3,6.7The Barrens].
-Destroy the Hearthstone in your bag, then go to Help -> Character Stuck -> Teleport to Graveyard, then resurrect at the spirit healer.
+Destroy the Hearthstone in your bag, then go to Support from the in-game menu. Scroll down and choose Stuck Character Service from  the Self-Service Options section, then click Continue. Make sure it says the character will be moved to Westfall, then click Move Character. NOTE - The following steps assume you will get moved to Westfall, however in latest testing the character gets moved outside Stormwind. If you get moved to Stormwind, switch the order of the following two steps.
 Talk to Thor to get the flight point.[P][G56.54,52.64,1Westfall]
 Talk to Dungar Longdrink to get the flight point.[G66.2,62.4,2Stormwind City][P]
 Talk to Innkeeper Allison to make this inn your home.[S][G52.73,65.62Stormwind City]
