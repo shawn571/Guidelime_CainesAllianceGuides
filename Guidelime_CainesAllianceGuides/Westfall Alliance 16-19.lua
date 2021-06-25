@@ -44,7 +44,7 @@ Go to Elwynn Forest and drown yourself here, then resurrect at the spirit healer
 Talk to Smith Argus to turn in [QT118 The Price of Shoes] and accept [QA119 Return to Verner].
 Talk to Keryn Sylvius and accept [QA2300 SI: 7][A Rogue].
 Talk to General Marcus Jonathan to turn in [QT120 Messenger to Stormwind] and accept [QA121 Messenger to Stormwind].
-Talk to Duthorian Rall and accept and turn in [QA1641 The Tome of Divinity][QT1641 The Tome of Divinity.[A Human,Paladin]
+Talk to Duthorian Rall and accept and turn in [QA1641 The Tome of Divinity][QT1641 The Tome of Divinity].[A Human,Paladin]
 Use the Tome of Divinity in your bag to accept [QA1642 The Tome of Divinity].[A Human,Paladin]
 Talk to Duthorian Rall to turn in [QT1642 The Tome of Divinity] and accept [QA1643 The Tome of Divinity].[A Human,Paladin]
 Talk to Stephanie Turner to turn in [QT1643 The Tome of Divinity] and accept [QA1644 The Tome of Divinity].[A Human,Paladin]
