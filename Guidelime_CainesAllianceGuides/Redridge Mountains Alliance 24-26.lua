@@ -7,7 +7,7 @@ Talk to Bailiff Conacher to accept [QA91 Solomon's Law].
 Kill Shadowhide enemies for [QC91 Solomon's Law].
 Kill Lieutenant Fangore for [QC180 Wanted: Lieutenant Fangore].
 OPTIONAL ELITE - Kill Tharil'zun for [QC19 Tharil'zun].
-OPTIONAL ELITE - Kill Blackrock Shadowcasters for [QC115 Shadow Magic].
+Kill Blackrock Shadowcasters for [QC115 Shadow Magic].
 OPTIONAL ELITE - Kill Gath'llzogg for [QC169 Wanted: Gath'llzogg].
 Kill Blackrock Champions for [QC128 Blackrock Bounty].
 Talk to Corporal Keeshan to accept [QA219 Missing in Action].
@@ -21,7 +21,7 @@ Talk to Guard Howe to turn in [QT128 Blackrock Bounty].
 Go to Elwynn Forest and talk to Marshal Haggard to turn in [QT74 The Legend of Stalvan] and accept [QA75 The Legend of Stalvan].
 Click Marshal Haggard's Chest upstairs to complete [QC75 The Legend of Stalvan].
 Talk to Marshal Haggard to turn in [QT75 The Legend of Stalvan] and accept [QA78 The Legend of Stalvan].
-Hearth to Stormwind.
+Hearth to Stormwind.[H]
 OPTIONAL STOCKADES QUEST - Talk to Nikova Raskol to accept [QA388 The Color of Blood].
 OPTIONAL STOCKADES QUESTS - Talk to Watcher Thelwater to accept [QA391 The Stockade Riots] and [QA387 Quell the Uprising].
 OPTIONAL - Do Stockades and complete [QC388 The Color of Blood], [QC387 Quell the Uprising], [QC386 What Comes Around...], [QC377 Crime and Punishment], and [QC391 The Stockade Riots].

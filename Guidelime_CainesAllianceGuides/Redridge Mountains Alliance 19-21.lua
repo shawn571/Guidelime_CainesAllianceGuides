@@ -42,7 +42,7 @@ Talk to Madame Eva to accept [QA101 The Totem of Infliction].
 Talk to Commander Althea Ebonlocke to accept [QA56 The Night Watch].
 Talk to Watcher Dodds to accept [QA245 Eight-Legged Menaces].
 Teleport to Moonglade.[A Druid]
-Hearth to Stormwind.
+Hearth to Stormwind.[H]
 Talk to the portal trainer and train the portal for Stormwind.[A Mage]
 Talk to Gakin the Darkbinder to accept [QA1716 Devourer of Souls][A Warlock].
 Talk to Brother Kristoff to accept [QA343 Speaking of Fortitude].
@@ -52,7 +52,7 @@ Talk to Duthorian Rall to accept and turn in [QA1793 The Tome of Valor][QT1793 T
 Click the Tome of Valor in your bag to accept [QA1649 The Tome of Valor][A Paladin].
 Talk to Duthorian Rall to turn in [QT1649 The Tome of Valor][A Paladin]. Skip the rest of the chain.
 Talk to Milton Sheaf to turn in [QT343 Speaking of Fortitude] and accept [QA344 Brother Paxton].
-Talk to Felicia Gump to buy Stormwind Seasoning Herbs for a later quest.[G64.2,60.6Stormwind City]
+Talk to Felicia Gump to buy Stormwind Seasoning Herbs for a later quest. Skip this if you didn't level cooking.[G64.2,60.6Stormwind City]
 Fly to [F Sentinel Hill]
 Talk to Gryan Stoutmantle to turn in [QT143 Messenger to Westfall] and accept [QA144 Messenger to Westfall].
 OPTIONAL DEADMINES QUEST - Talk to Scout Riell to accept [QA214 Red Silk Bandanas].
@@ -62,7 +62,7 @@ If you're doing Deadmines, outside the instance also kill Foreman Thistlenettle 
 If you're doing Deadmines, inside the instance loot Sneed's Shredder after you kill it for [QC2040 Underground Assault].
 If you're doing Deadmines, inside the instance kill Edwin VanCleef and loot his head for [QC166 The Defias Brotherhood].
 If you completed Deadmines, also loot An Unsent Letter from VanCleef and use it in your bag to accept [QA373 The Unsent Letter].
-Hearth to Sentinel Hill.
+Hearth to Sentinel Hill.[H]
 Talk to Gryan Stoutmantle to turn in [QT166 The Defias Brotherhood].
 Talk to Scout Riell to turn in [QT214 Red Silk Bandanas].
 Reach level [XP21].

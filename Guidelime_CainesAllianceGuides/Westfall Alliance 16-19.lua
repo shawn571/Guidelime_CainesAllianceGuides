@@ -35,7 +35,7 @@ Click Sunken Chest for [QC125 The Lost Tools].
 Kill Redridge Poachers and Redridge Mongrels for [QC246 Assessing the Threat].
 Talk to Guard Parker to turn in [QT129 A Free Lunch] and accept [QA130 Visit the Herbalist]
 Reach level [XP17].
-Go south to Duskwood.[A Dwarf,Human,Gnome]
+Go south to Duskwood.[A Dwarf,Human,Gnome][G6.46,91.40,3Redridge Mountains]
 Talk to Felicia Maline to get the flight point.[G77.48,44.3,1Duskwood][P][A Dwarf,Human,Gnome].
 Hearth to Sentinel Hill.[H]
 Talk to Gryan Stoutmantle to turn in [QT132 The Defias Brotherhood] and accept [QA135 The Defias Brotherhood].

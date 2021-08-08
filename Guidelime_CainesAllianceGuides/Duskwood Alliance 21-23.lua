@@ -2,7 +2,7 @@ Guidelime.registerGuide([[
 [GA Alliance][N21-23Duskwood][NX23-24Wetlands]
 Talk to Sven Yorgen to turn in [QT164 Deliveries to Sven] and accept [QA95 Sven's Revenge].
 Talk to Lars and accept [QA226 Wolves at our Heels].
-While doing the next steps kill dire wolves for [QC226 Wolves at Our Heels][O] and [QC90 Seasoned Wolf Kabobs][O], spiders for [QC101,2 The Totem of Infliction][O] and [QC245 Eight-Legged Menaces][O]. Hold onto any Gooey Spider Legs that drop.
+While doing the next steps kill dire wolves for [QC226 Wolves at Our Heels][O] and [QC90 Seasoned Wolf Kabobs][O], spiders for [QC101,2 The Totem of Infliction][O] and [QC245 Eight-Legged Menaces][O]. Hold onto any Gooey Spider Legs that drop. If you don't finish this step by the time you fly to Wetlands, mark it complete. It will be finished at a later time.
 Talk to Abercrombie to turn in [QT165 The Hermit] and accept [QA148 Supplies from Darkshire].
 Finish up [QC226 Wolves at Our Heels] and [QC90 Seasoned Wolf Kabobs].
 Talk to Lars to turn in [QT226 Wolves at Our Heels].
@@ -20,7 +20,7 @@ Talk to Shoni the Shilent to turn in [QT2040 Underground Assault].
 Talk to Baros Alexston to turn in [QT373 The Unsent Letter] and accept [QA389 Bazil Thredd].
 Talk to Watcher Thelwater to turn in [QT389 Bazil Thredd].
 Reach level [XP22].
-Go to Elwynn Forest and talk to Innkeeper Farley and make this inn your home.[G43.8,65.8,2Elwynn Forest]
+Go to Elwynn Forest and talk to Innkeeper Farley and make this inn your home.[G43.8,65.8,2Elwynn Forest][S]
 Talk to Brother Paxton to turn in [QT344 Brother Paxton] and accept [QA345 Ink Supplies].
 Go back to Stormwind and fly to [F Lakeshire].
 Talk to Foreman Oslow to turn in [QT345 Ink Supplies] and accept [QA347 Rethban Ore].
@@ -35,7 +35,7 @@ Talk to Clerk Daltry to turn in [QT66 The Legend of Stalvan] and accept [QA67 Th
 OPTIONAL STOCKADES QUEST - Talk to Councilman Millstipe to accept [QA377 Crime and Punishment].
 Talk to Lord Ello Ebonlocke to turn in [QT145 Messenger to Darkshire] and accept [QA146 Messenger to Darkshire].
 Talk to Blind Mary to turn in [QT149 Ghost Hair Thread] and accept [QA154 Return the Comb]. Also turn in [QT175 Look to the Stars] and accept [QA177 Look to the Stars].
-While doing the next steps kill skeletons for [QC101,3 The Totem of Infliction][O].
+While doing the next steps kill skeletons for [QC101,3 The Totem of Infliction][O]. If this quest isn't completed by the time you leave Darkshire, mark it complete. You will finish it when you return.
 Kill Insane Ghoul and loot for [QC177 Look to the Stars].
 Kill Skeletal Warriors and Mages for [QC56 The Night Watch].
 Kill undead until you are [XP23-11430 11430 XP to level 23].

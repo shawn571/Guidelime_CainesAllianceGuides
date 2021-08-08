@@ -33,13 +33,13 @@ Dive down and click the Waterlogged Letter to get the Waterlogged Envelope.[G50.
 Hearth to Stormwind.[H]
 OPTIONAL GNOMEREGAN QUEST - Talk to Brother Sarno to accept [QA2923 Tinkmaster Overspark].
 Talk to Thomas to accept [QA1274 The Missing Diplomat].
-Talk to Archbishop Benedictus to turn in [QT293 Cleansing the Eye].#Talk to your trainer and train Mind Blast (Rank 4), Heal (Rank 3), Mind Flay (Rank 2).[A Priest]
+Talk to Archbishop Benedictus to turn in [QT293 Cleansing the Eye].
 Talk to Grimand Elmore to turn in [QT322 Blessed Arm] and accept [QA325 Armed and Ready].
 OPTIONAL GNOMEREGAN QUEST - Talk to Shoni the Shilent to accept [QA2928 Gyrodrillmatic Excavationators].#Talk to your trainer and train Aimed Shot (Rank 2), Aspect of the Hawk (Rank 3), Mend Pet (Rank 3).[A Hunter]
 Talk to Bishop DeLavey to turn in [QT1274 The Missing Diplomat] and accept [QA1241 The Missing Diplomat].
 Talk to Jorgen to turn in [QT1241 The Missing Diplomat] and accept [QA1242 The Missing Diplomat].
 Talk to Elling Trias to turn in [QT1242 The Missing Diplomat] and accept [QA1243 The Missing Diplomat].
-Fly to [F Lakeshire].
+If you did Stockades or are a mage, fly to [F Lakeshire]. Otherwise skip this step.
 Talk to Guard Berton to turn in [QT386 What Comes Around...]
 Get the book at the top of the tower for [QC1938 Ur's Treatise on Shadow Magic].[A Mage]
 Fly to [F Darkshire].

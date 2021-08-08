@@ -33,6 +33,6 @@ Talk to Karl Boran to turn in [QT286 Return the Statuette].
 Talk to Sida to turn in [QT470 Digging Through the Ooze].
 Finish killing Fen Creepers for [QC275 Blisters on the Land].
 Talk to Rethiel the Greenwarden to turn in [QT275 Blisters on the Land].
-Hearth to Stormwind.
+Hearth to Stormwind.[H]
 Fly to [F Lakeshire].
 ]], 'Caines Alliance Guides')
