@@ -65,7 +65,7 @@ Talk to Farseer Nobundo to turn in [QT9551 Call of Air] and accept [QA9552 Call 
 Leave The Exodar and head this way and up the path to Wildwind Peak.[G32.69,27.06,3Azuremyst Isle][G26.93,26.91,3Azuremyst Isle][A Shaman]
 Talk to Velaada to turn in [QT9552 Call of Air] and accept [QA9553 Call of Air][A Shaman]
 Talk to Susurrus to turn in [QT9553 Call of Air] and accept [QA9554 Call of Air][A Shaman]
-Talk to Susurrus again and tell him you're ready to be flown down to The Exodar. Mark this complete once you land.
+Talk to Susurrus again and tell him you're ready to be flown down to The Exodar. Mark this complete once you land.[A Shaman]
 Talk to Farseer Nobundo to turn in [QT9554 Call of Air][A Shaman]
 [G20.41,54.17,1 Azuremyst Isle] Take the boat to Auberdine[A Shaman]
 Fly to [F Rut'theran Village].
