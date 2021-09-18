@@ -37,7 +37,6 @@ Talk to Elling Trias to turn in [QT1247 The Missing Diplomat] and accept [QA1248
 Fly to [F Ironforge].
 Talk to High Priest Rohan to accept [QA5675 Elune's Grace][G27.0,7.3,2Ironforge][A NightElf,Priest]
 Talk to High Priest Rohan to accept and turn in [QA5641 A Lack of Fear][QT5641 A Lack of Fear].[G27.0,7.3,2Ironforge][A Dwarf,Priest]
-Click the Waterlogged Envelope that you picked up a while ago in your bag to accept [QA637 Sully Balloo's Letter].
 Talk to Sara Balloo to turn in [QT637 Sully Balloo's Letter] and accept [QA683 Sara Balloo's Plea].
 Reach level [XP29].
 Talk to Tinkmaster Overspark to turn in [QT2923 Tinkmaster Overspark].

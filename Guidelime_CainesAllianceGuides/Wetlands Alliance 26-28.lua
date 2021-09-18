@@ -29,7 +29,8 @@ Kill Nek'rosh for [QC474 Defeat Nek'rosh].
 Grind on orcs until you are [XP28-1000 1000 XP from level 28].
 Talk to Longbraid the Grim to turn in [QT472 Fall of Dun Modr].
 Reach level [XP28].
-Dive down and click the Waterlogged Letter to get the Waterlogged Envelope.[G50.6,8.6,2Wetlands]
+Jump off the bridge and into the water here.[G50.6,8.6,2Wetlands]
+Dive down and click the Waterlogged Letter to get the Waterlogged Envelope. Use it in your bag to accept [QA637 Sully Balloo's Letter]
 Hearth to Stormwind.[H]
 OPTIONAL GNOMEREGAN QUEST - Talk to Brother Sarno to accept [QA2923 Tinkmaster Overspark].
 Talk to Thomas to accept [QA1274 The Missing Diplomat].

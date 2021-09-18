@@ -5,7 +5,7 @@ Talk to Magistrate Henry Maleb to accept [QA505 Syndicate Assassins].
 Talk to Phin Odelic to accept [QA659 Hints of a New Plague?].
 Talk to Raleigh the Devout to turn in [QT1052 Down the Scarlet Path].
 OPTIONAL SCARLET MONASTARY QUEST - Talk to Raleigh the Devout to accept [QA1053 In the Name of the Light].
-OPTIONAL ELITE - Talk to Loremaster Dibbs to accept [QA540 Preserving Knowledge].
+Talk to Loremaster Dibbs to accept [QA540 Preserving Knowledge].
 Talk to Darren Malvew to accept [QA564 Costly Menace].
 Kill Mountain Lions and Hulking Mountain Lions for [QC564 Costly Menace].
 Kill Syndicate Footpads and Thieves for [QC505 Syndicate Assassins].
@@ -24,7 +24,6 @@ Talk to Prospector Stormpike to turn in [QT514 Letter to Stormpike] and accept [
 OPTIONAL SCARLET MONASTARY QUEST - Talk to Librarian Mae Paledust to accept [QA1050 Mythology of the Titans].
 Fly to [F Stormwind].
 Talk to Milton Sheaf to turn in [QT542 Return to Milton].
-Buy a Moonsteel Broadsword from the auction house, or you can skip if you want.
 Talk to Angus Stern to accept [QA1260 Morgan Stern].
 Fly to [F Rebel Camp]
 ]], 'Caines Alliance Guides')

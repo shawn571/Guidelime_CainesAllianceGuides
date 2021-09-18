@@ -58,5 +58,5 @@ Kill Mekgineer Thermaplugg to complete [QC2929 The Grand Betrayal].
 Go back to the Clean Zone and click the Sparklematic 5200 to turn in [QT2945 Grime-Encrusted Ring] and accept [QA2947 Return of the Ring].
 Hearth to Ironforge.[A Mage]
 Fly to [F Menethil Harbor].[A Mage]
-Hearth to Menethil Harbor.[A Druid,Hunter,Priest,Paladin,Rogue,Warlock,Warrior,Shaman]
+Hearth to Menethil Harbor.[A Druid,Hunter,Priest,Paladin,Rogue,Warlock,Warrior,Shaman][H]
 ]], 'Caines Alliance Guides')

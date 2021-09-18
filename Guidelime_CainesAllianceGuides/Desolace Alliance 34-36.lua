@@ -13,16 +13,16 @@ Talk to Lord Ello Ebonlocke to turn in [QT253 Bride of the Embalmer].
 Talk to Watcher Ladimore to turn in [QT229 The Daughter Who Lived] and accept [QA231 A Daughter's Love].
 Fly to [F Sentinel Hill].
 Go back into Duskwood and click A Weathered Grave to turn in [QT231 A Daughter's Love].
-Hearth to Ironforge.
+Hearth to Ironforge.[H]
 Fly to [F Southshore].[A Warlock]
 Click Tome of the Cabal for [QC1802,1 Tome of the Cabal].[A Warlock]
 Fly to [F Ironforge].[A Warlock]
-Talk to Krom Stoutarm to turn in [QT1802 Tome of the Cabal] and accept [QA1804 Tome of the Cabal].[A Warlock]#Talk to your trainer and train Sunder Armor (Rank 3).[A Warrior]
+Talk to Krom Stoutarm to turn in [QT1802 Tome of the Cabal] and accept [QA1804 Tome of the Cabal].[A Warlock]
 Talk to Roetten Stonehammer to accept [QA1453 Reclaimers' Business in Desolace].
 Buy an Advanced Target Dummy at the auction house. If there isn't one or you don't want to do this, you can just skip the quest this is for later.
 Teleport to Darnassus.[A Mage]
 Fly to [F Menethil Harbor].[A Hunter,Druid,Rogue,Paladin,Warlock,Warrior,Priest,Shaman]
-Kill Dragonmaw Bonewarders and Shadowwarders for [QC1804,2 Tome of the Cabal].[A Warlock]
+Kill Dragonmaw Bonewarders and Shadowwarders for [QC1804 Tome of the Cabal].[A Warlock]
 Take the boat to Auberdine[G4.6,57.1Wetlands].[A Hunter,Druid,Rogue,Paladin,Warlock,Warrior,Priest,Shaman]
 Fly to [F Rut'theran Village].[A Hunter,Druid,Rogue,Paladin,Warlock,Warrior,Priest,Shaman]
 Talk to Thyn'tel Bladeweaver to turn in [QT1044 Answered Questions].
@@ -86,7 +86,7 @@ Kill Undead Ravagers for [QC261 Down the Scarlet Path].
 Finish up [QC1466 Reagents for Reclaimers Inc.].
 Talk to Kreldig Ungor to turn in [QT1466 Reagents for Reclaimers Inc.] and accept [QA1467 Reagents for Reclaimers Inc.].
 Talk to Brother Anton to turn in [QT261 Down the Scarlet Path] and accept [QA1052 Down the Scarlet Path].
-Hearth to Ironforge.
+Hearth to Ironforge.[H]
 Talk to Roetten Stonehammer to turn in [QT1467 Reagents for Reclaimers Inc.] and [QT1457 The Karnitol Shipwreck].
 Fly to [F Southshore].
 ]], 'Caines Alliance Guides')

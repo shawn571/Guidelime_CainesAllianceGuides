@@ -29,8 +29,7 @@ Use the Raptor Bait at the windmill for [QC11147 Unleash the Raptors]
 Talk to Sergeant Lukas to turn in [QT11145 Prisoners of the Grimtotems] and [QT11147 Unleash the Raptors]
 Kill Darkmist enemies for [QC1206 Jarl Needs Eyes].
 Talk to Balos Jacken for [QC1286 The Deserters][G36.1,54.3,2Dustwallow Marsh]
-Talk to Balos Jacken to turn in [QT1286 The Deserters] and accept [QA1287 The Deserters].
-Talk to Tabetha to accept [QA1948 Items of Power][A Mage].
+Attack Balos Jacken and then talk to him to turn in [QT1286 The Deserters] and accept [QA1287 The Deserters].
 Reach level [XP38].
 [G42.8,72.4,1Dustwallow Marsh]Talk to Dyslix Silvergrub to get the flight point.[P]
 Click Wanted Poster to accept [QA11184 WANTED: Goreclaw the Ravenous]
@@ -40,7 +39,8 @@ Pick up Wyrmtail for [QC11217 Catch a Dragon by the Tail][O] while doing the nex
 Kill Goreclaw the Ravenous for [QC11184 WANTED: Goreclaw the Ravenous] and raptors for [QC11158 Bloodfen Feathers]
 Talk to Drazzit Dripvalve to turn in [QT11184 WANTED: Goreclaw the Ravenous]
 Talk to Brogg to turn in [QT11158 Bloodfen Feathers]. Accept [QA11160 Banner of the Stonemaul] and [QA11161 The Essence of Enmity].
-Kill ogres and use Brogg's Totem on their corpses for [QC11161 The Essence of Enmity][O] while doing the next step.
+Kill Fireman Ash Tails and use Brogg's Totem on their corpses for [QC11161 The Essence of Enmity][O] while doing the next step.
+Go here to enter the cave.[G39.86,67.05,2Dustwallow Marsh][G38.61,65.86,2Dustwallow Marsh]
 Get the Stonemaul Banner for [QC11160 Banner of the Stonemaul]
 Finish [QC11161 The Essence of Enmity].
 Talk to Brogg to turn in [QT11160 Banner of the Stonemaul] and [QT11161 The Essence of Enmity]. Accept [QA11159 Spirits of Stonemaul Hold].
@@ -52,12 +52,15 @@ Talk to Gizzix Grimegurgle to turn in [QT11217 Catch a Dragon by the Tail].
 Talk to Brogg to turn in [QT11162 Challenge to the Black Flight].
 Talk to Apprentice Morlann to accept [QA11156 Direhorn Raiders] and [QA11172 The Zeppelin Crash].
 Talk to Tabetha to turn in [QT11212 Tabetha's Farm]
+Talk to Tabetha to accept [QA1948 Items of Power][A Mage].
 Talk to Apprentice Garion to accept [QA11169 The Grimtotem Weapon] and [QA11173 The Reagent Thief].
 Use the Captured Totem in your bag and kill crocolisks near it for [QC11169 The Grimtotem Weapon]. Also kill Darkfang Creepers and Noxious Shredders for  [QC11173 The Reagent Thief].
 Kill Direhorn Grimtotems for [QC11156 Direhorn Raiders]
+Kill Apothecary Cylla and loot Sealed Letter. Click it in your bag to accept [QA11185 The Apothecary's Letter].
 Talk to Apprentice Garion to turn in [QT11173 The Reagent Thief] and [QT11169 The Grimtotem Weapon]
 Talk to Tabetha to accept [QA11211 Help for Mudsprocket]
 Talk to Apprentice Morlann to turn in [QT11156 Direhorn Raiders]
+Talk to Andello Porter to turn in [QT11185 The Apothecary's Letter].
 Talk to Moxie Steelgrille to turn in [QT11172 The Zeppelin Crash]. Accept [QA11174 Corrosion Prevention] and [QA11207 Secure the Cargo!]
 Stand near lightning generators and use the Ooze Buster on oozes around here for [QC11174 Corrosion Prevention]. Also pick up Zeppelin Cargo around here for  [QC11207 Secure the Cargo!]
 Talk to Moxie Steelgrille to turn in [QT11174 Corrosion Prevention] and [QT11207 Secure the Cargo!] Accept [QA11208 Delivery for Drazzit].

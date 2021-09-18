@@ -17,7 +17,7 @@ Kill Lashtail Raptors for [QC195 Raptor Mastery] and Elder Stranglethorn Tigers 
 Talk to Hemet Nesingwary to turn in [QT195 Raptor Mastery] and accept [QA196 Raptor Mastery].
 Talk to Ajeck Rouack to turn in [QT187 Tiger Mastery] and accept [QA188 Tiger Mastery].
 Kill Sin'dall for [QC188 Tiger Mastery].
-While doing the next steps kill Crystal Spine Basilisks for [QC605 Singing Blue Shards].[G26.7,18.55Stranglethorn Vale]
+While doing the next steps kill Crystal Spine Basilisks for [QC605 Singing Blue Shards][O].[G26.7,18.55Stranglethorn Vale]
 Go here to complete [QC578 The Stone of the Tides].[G19.96,21.93,1Stranglethorn Vale]
 Finish up [QC189 Bloodscalp Ears].
 Talk to Ajeck Rouack to turn in [QT188 Tiger Mastery].

@@ -35,6 +35,7 @@ Head inside the cave here.[G76,75Ashenvale]
 Kill Taneel Darkwood for [QC1012,1 Insane Druids]
 Kill Mavoris Cloudsbreak for [QC1012,3 Insane Druids]
 Kill Uthil Mooncall for [QC1012,2 Insane Druids]
+Go here to enter Demon Fall Canyon. [G84.20,72.29,2Ashenvale]
 Kill Diathorus the Seeker for [QC9522,2 Never Again!]
 Kill Gorgannon for [QC9522,1 Never Again!]
 Talk to Kayneth Stillwind to turn in [QT1012 Insane Druids]
@@ -80,7 +81,7 @@ Fly to [F Menethil Harbor].[A Mage]
 Hearth to Menethil Harbor.[H][A Druid,Hunter,Rogue,Priest,Warlock,Warrior,Paladin,Shaman]
 Take the boat to Theramore.[G5.0,63.5,3Wetlands].
 Talk to Baldruc to get the flight point.[P][G67.5,51.3,2Dustwallow Marsh].
-Go to the Barrens to die and resurrect at the spirit healer.[G64.0,39.4,3Dustwallow Marsh][G59.4,13.0,3Dustwallow Marsh][G54.2,12.3,3Dustwallow Marsh][G54.8,8.0,3Dustwallow Marsh][G64.2,57.1,3The Barrens]
+Go to the Barrens. You will need to swim to avoid high level mobs.[G64.0,39.4,3Dustwallow Marsh][G59.4,13.0,3Dustwallow Marsh][G54.2,12.3,3Dustwallow Marsh][G54.8,8.0,3Dustwallow Marsh][G64.2,57.1,3The Barrens]
 Talk to Bragok to get the flight point.[P][G63.1,37.2,2The Barrens]
 Talk to Wharfmaster Dizzywig to turn in [QT1039 The Barrens Port] and accept [QA1040 Passage to Booty Bay].
 Talk to Takar the Seer to turn in [QT1716 Devourer of Souls] and accept [QA1738 Heartswood].[A Warlock]

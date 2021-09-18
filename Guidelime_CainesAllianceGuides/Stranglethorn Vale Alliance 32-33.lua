@@ -1,12 +1,12 @@
 Guidelime.registerGuide([[
 [GA Alliance][N32-33Stranglethorn Vale][NX33-34Dustwallow Marsh and Thousand Needles]
-OPTIONAL ELITE - Talk to Sven Yorgen to accept [QA55 Morbent Fel].
+Talk to Sven Yorgen to accept [QA55 Morbent Fel].
 Kill Morbent Fel for [QC55 Morbent Fel].
 Click Eliza's Grave Dirt to accept and turn in [QA254 Digging Through the Dirt][QT254 Digging Through the Dirt].
 Kill Eliza for [QC253 Bride of the Embalmer].
 Kill Mor'Ladim for [QC228 Mor'Ladim].
 Talk to Sven Yorgen to turn in [QT55 Morbent Fel].
-[G44.5,87.7,3Duskwood][G38.0,5.0,3Stranglethorn Vale]Head to Stranglethorn Vale and talk to Private Thorsen to accept [QA215 Jungle Secrets].
+[G44.5,87.7,3Duskwood][G38.0,5.0,3Stranglethorn Vale]Head to Stranglethorn Vale and talk to Private Thorsen to accept [QA215 Jungle Secrets]. Check to see if he's south of Rebel Camp first. If not, go to Rebel Camp and wait for him to go on patrol, save him and pick up the quest.
 [G38.2,4.0,1Stranglethorn Vale]Talk to Nizzle to get the flight point.[P]
 Talk to Sergeant Yohwa to accept [QA203 The Second Rebellion] and [QA204 Bad Medicine].
 Talk to Lieutenant Doren to turn in [QT215 Jungle Secrets] and accept [QA200 Bookie Herod].
@@ -33,13 +33,12 @@ Talk to Sir S. J. Elgadin to turn in [QT191 Panther Mastery].
 Talk to Ajeck Rouack to turn in [QT186 Tiger Mastery].
 Talk to Hemet Nesingwary to turn in [QT194 Raptor Mastery].
 Reach level [XP33].
-Hearth to Ironforge.
+Hearth to Ironforge.[H]
 Fly to [F Menethil Harbor].
 Talk to Mikhail to accept [QA1249 The Missing Diplomat].
 Beat Tapoke "Slim" Jahn for [QC1249 The Missing Diplomat].
 Talk to Mikhail to turn in [QT1249 The Missing Diplomat].
 Talk to Tapoke "Slim" Jahn to accept [QA1250 The Missing Diplomat].
 Talk to Mikhail to turn in [QT1250 The Missing Diplomat] and accept [QA1264 The Missing Diplomat].
-Talk to Kersok Prond and buy 3 Soothing Spices for a later quest.[G10.4,60.6,2Wetlands]
 Take the boat to Theramore.[G5.0,63.5,2Wetlands]
 ]], 'Caines Alliance Guides')
