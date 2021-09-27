@@ -4,7 +4,7 @@ Talk to Magistrate Henry Maleb to turn in [QT525 Further Mysteries]. Accept [QA5
 Talk to Marshal Redpath to accept [QA504 Crushridge Warmongers].
 Kill Crushridge Warmongers for [QC504 Crushridge Warmongers].
 Go to Alterac Mountains and work on [QC512 Noble Deaths][O] while doing the next steps.[G62,43Alterac Mountains].
-Kill Nagaz for [QC537,2 Dark Council].[G55,11.3Hillsbrad Foothills][G62,43Alterac Mountains][G74.09,86.46,1Tirisfal Glades]
+Kill Nagaz for [QC537,2 Dark Council].
 Click the Worn Wooden Chest to loot the Ensorcelled Parchment. Click it to accept [QA551 The Ensorcelled Parchment].
 Finish up [QC512 Noble Deaths] and [QC537 Dark Council].[G59.78,43.78Alterac Mountains]
 Got to Chillwind Camp and talk to Bibilfaz Featherwind to get the flight point.[G73.5,46.4Alterac Mountains][G79,30.6,2Alterac Mountains][P]
