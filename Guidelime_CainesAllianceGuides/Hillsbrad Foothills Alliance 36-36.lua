@@ -14,7 +14,6 @@ Click Syndicate Documents to accept [QA511 Encrypted Letter].
 Talk to Bath'rah the Windwatcher to turn in [QT1791 The Windwatcher]. Continue with this line if you want the Whirlwind Axe.[A Warrior]
 Kill Crushridge enemies for [QC500 Crushridge Bounty] and [QC540,1 Preserving Knowledge].
 Click the Weathered Bookcase for [QC540,2 Preserving Knowledge].
-Either die here and resurrect at the spirit healer or run back to Southshore.
 Talk to Darren Malvew to turn in [QT564 Costly Menace].
 Talk to Loremaster Dibbs to turn in [QT511 Encrypted Letter] and [QT540 Preserving Knowledge]. Accept [QA514 Letter to Stormpike] and [QA542 Return to Milton].
 Talk to Marshal Redpath to turn in [QT500 Crushridge Bounty].
@@ -22,7 +21,7 @@ Talk to Magistrate Henry Maleb to turn in [QT505 Syndicate Assassins] and [QT510
 Hearth or fly to [F Ironforge].
 Talk to Prospector Stormpike to turn in [QT514 Letter to Stormpike] and accept [QA525 Further Mysteries].
 OPTIONAL SCARLET MONASTARY QUEST - Talk to Librarian Mae Paledust to accept [QA1050 Mythology of the Titans].
-Fly to [F Stormwind].
+Fly or take the tram to [F Stormwind].
 Talk to Milton Sheaf to turn in [QT542 Return to Milton].
 Talk to Angus Stern to accept [QA1260 Morgan Stern].
 Fly to [F Rebel Camp]

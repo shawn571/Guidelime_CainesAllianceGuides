@@ -26,11 +26,11 @@ Kill Foreman Cozzle to get his key at the top of this tower.[G42.6,18.4,2 Strang
 Once you have the key, click Cozzle's Footlocker for [QC1182 Goblin Sponsorship].[G43.3,20.3,2 Stranglethorn Vale]
 Kill Venture Co. Geologists for [QC213 Hostile Takeover].[G44,18Stranglethorn Vale]
 Finish killing Snapjaw Crocolisks for [QC577 Some Assembly Required].
-Kill Colonel Kurzen for [QC202 Colonel Kurzen].[G45.9,8.1,3Stranglethorn Vale][G49.9,4.0,2Stranglethorn Vale]
+Kill Colonel Kurzen, Kurzen Elites and Kurzen Subchiefs for [QC202 Colonel Kurzen].[G45.9,8.1,3Stranglethorn Vale][G49.9,4.0,2Stranglethorn Vale]
 Talk to Lieutenant Doren to turn in [QT202 Colonel Kurzen].
 Talk to Brother Nimetz to accept [QA207 Kurzen's Mystery].
 Click Moon over the Vale  for [QC207,1 Kurzen's Mystery].
-Click Gri'lek the Wandered for [QC207,2 Kurzen's Mystery].
+Click Gri'lek the Wanderer for [QC207,2 Kurzen's Mystery].
 Finish up [QC605 Singing Blue Shards].
 Click Fall of Gurubashi for [QC207,3 Kurzen's Mystery].[G22.6,14.8,2Stranglethorn Vale][G22.9,12.0,2Stranglethorn Vale]
 Click The Emperor's Tomb for [QC207,4 Kurzen's Mystery].

@@ -39,12 +39,12 @@ Pick up Wyrmtail for [QC11217 Catch a Dragon by the Tail][O] while doing the nex
 Kill Goreclaw the Ravenous for [QC11184 WANTED: Goreclaw the Ravenous] and raptors for [QC11158 Bloodfen Feathers]
 Talk to Drazzit Dripvalve to turn in [QT11184 WANTED: Goreclaw the Ravenous]
 Talk to Brogg to turn in [QT11158 Bloodfen Feathers]. Accept [QA11160 Banner of the Stonemaul] and [QA11161 The Essence of Enmity].
-Kill Fireman Ash Tails and use Brogg's Totem on their corpses for [QC11161 The Essence of Enmity][O] while doing the next step.
+Kill Firemane Ash Tails and use Brogg's Totem on their corpses for [QC11161 The Essence of Enmity][O] while doing the next step.
 Go here to enter the cave.[G39.86,67.05,2Dustwallow Marsh][G38.61,65.86,2Dustwallow Marsh]
 Get the Stonemaul Banner for [QC11160 Banner of the Stonemaul]
 Finish [QC11161 The Essence of Enmity].
 Talk to Brogg to turn in [QT11160 Banner of the Stonemaul] and [QT11161 The Essence of Enmity]. Accept [QA11159 Spirits of Stonemaul Hold].
-Click the skeletons around here and kill the ghosts that appear for [QC11159 Spirits of Stonemaul Hold][G42.18,67.36,3 Dustwallow Marsh]
+Click the Ogre Remains around here and kill the ghosts that appear for [QC11159 Spirits of Stonemaul Hold][G42.18,67.36,3 Dustwallow Marsh]
 Talk to Brogg to turn in [QT11159 Spirits of Stonemaul Hold] and accept [QA11162 Challenge to the Black Flight]
 Finish up [QC11217 Catch a Dragon by the Tail].
 [G52,75,3Dustwallow Marsh] Plant the banner and kill Smolderwing for [QC11162 Challenge to the Black Flight]
@@ -86,7 +86,7 @@ Pick up Blackhoof Armaments for [QC11148 Arms of the Grimtotems]
 Talk to Captain Darill to turn in [QT11144 Confirming the Suspicion] and [QT11148 Arms of the Grimtotems]. Accept [QA11149 Tabetha's Assistance].
 Talk to Tabetha to turn in [QT11149 Tabetha's Assistance] and accept [QA11150 Raze Direhorn Post!]
 Use Tabetha's Torch to burn the East Tent for [QC11150,3 Raze Direhorn Post!]
-Use Tabetha's Torch to burn the Northeast Tent for [QC1150,2 Raze Direhorn Post!]
+Use Tabetha's Torch to burn the Northeast Tent for [QC11150,2 Raze Direhorn Post!]
 Use Tabetha's Torch to burn the North Tent for [QC11150,1 Raze Direhorn Post!]
 Talk to Tabetha to turn in [QT11150 Raze Direhorn Post!] and accept [QA11151 Justice for the Hyals].
 Fly to [F Theramore].

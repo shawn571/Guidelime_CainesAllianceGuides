@@ -2,7 +2,7 @@ Guidelime.registerGuide([[
 [GA Alliance][N40-41 Swamp of Sorrows][NX41-42 Tanaris and Feralas]
 Talk to Watcher Biggs to accept [QA1396 Encroaching Wildlife].
 [G33.3,67.9Swamp of Sorrows][G52.3,9.3Blasted Lands][G66.5,21.4,2Blasted Lands]Go to Blasted Lands and talk to Quartermaster Lungertz to turn in [QT1395 Supplies for Nethergarde].
-Talk to Alexandra Constantine to get the flight point.[G65.6,24.4,2Blasted Lands][F]
+Talk to Alexandra Constantine to get the flight point.[G65.6,24.4,2Blasted Lands][P]
 Kill Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars for [QC1396 Encroaching Wildlife][O] while doing the next steps.
 Kill whelps for [QC1116 Dream Dust in the Swamp].[G14,64Swamp of Sorrows]
 Kill Noboru the Cudgel and loot Noboru's Cudgel. Click it in your bag to accept [QA1392 Noboru the Cudgel].[G47.1,38.9,3Swamp of Sorrows]

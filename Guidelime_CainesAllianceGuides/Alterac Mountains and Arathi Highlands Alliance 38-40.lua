@@ -31,8 +31,8 @@ Talk to Skuerto to accept [QA693 Wand Over Fist].
 While doing the next step look for the Forsaken Courier for [QC658 Hints of a New Plague?][O]
 Kill Kor'gresh Coldrage for [QC693 Wand over Fist].
 Talk to Skuerto to turn in [QT693 Wand over Fist].
-OPTIONAL ELITE - Talk to Skuerto to accept [QA694 Trelane's Defenses].
-OPTIONAL ELITE - Click the Wanted Board to accept [QA684 Wanted! Marez Cowl] and [QA685 Wanted! Otto and Falconcrest]
+Talk to Skuerto to accept [QA694 Trelane's Defenses].
+Click the Wanted Board to accept [QA684 Wanted! Marez Cowl] and [QA685 Wanted! Otto and Falconcrest]
 Click Stone of West Binding for [QC651,1 Stones of Binding].
 Reach level [XP39].
 Click Stone of Inner Binding to turn in [QT651 Stones of Binding] and accept [QA652 Breaking the Keystone].
