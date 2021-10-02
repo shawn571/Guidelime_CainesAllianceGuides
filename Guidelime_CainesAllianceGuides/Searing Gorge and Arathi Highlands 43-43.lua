@@ -19,6 +19,7 @@ Use Margol's Horn in your bag to accept [QA3181 The Horn of the Beast].
 Talk to Mountaineer Pebblebitty to turn in [QT3181 The Horn of the Beast] and accept [QA3182 Proof of Deed].
 Fly to [F Ironforge].
 Talk to Curator Thorius to turn in [QT3182 Proof of Deed] and accept [QA3201 At Last!].
+Talk to Curator Thorius to turn in [QT3368 Suntara Stones],
 Fly to [F Thelsamar].
 Talk to Mountaineer Pebblebitty to turn in [QT3201 At Last!].
 Fly to [F Refuge Pointe].

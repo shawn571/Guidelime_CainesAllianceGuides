@@ -36,6 +36,6 @@ Reach level [XP48].
 Talk to Innkeeper Allison to accept [QA3789 Assisting Arch Druid Staghelm].
 Talk to her again to make this inn your home.[S]
 Fly to [F Ironforge].
-Talk to Curator Thorius to turn in [QT3368 Suntara Stones] and accept [QA3371 Dwarven Justice].
+Talk to Curator Thorius to accept [QA3371 Dwarven Justice].
 Fly to [F Thorium Point].
 ]], 'Caines Alliance Guides')
