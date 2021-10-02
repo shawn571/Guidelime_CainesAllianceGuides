@@ -10,7 +10,7 @@ Talk to Prospector Ryedol to turn in [QT719 A Dwarf and His Tools] and [QT720 A 
 Talk to Sigrun Ironhew to turn in [QT718 Mirages] and accept [QA733 Scrounging].
 Talk to Martek the Exiled to turn in [QT1106 Martek the Exiled] and accept [QA1108 Indurium].
 Talk to Rigglefuzz to accept [QA703 Barbecued Buzzard Wings].
-Talk to Lotwil Veriatus to accept [QA710 Study of the Elements: Rock]. Also accept and turn in [QA713 Coolant Heads Prevail][QT713 Coolant Heads Prevail] if you bought the Frost Oil.
+Talk to Lotwil Veriatus to accept [QA710 Study of the Elements: Rock]. Also accept and turn in [QA713 Coolant Heads Prevail]. Turn in [QT713 Coolant Heads Prevail] if you bought the Frost Oil.
 Talk to Lotwil Veriatus to accept and turn in [QA714 Gyro... What?][QT714 Gyro... What?] if you bought the gyrochronatom.
 Kill Lesser Rock Elementals for [QC710 Study of the Elements: Rock].
 Talk to Lotwil Veriatus to turn in [QT710 Study of the Elements: Rock] and accept [QA711 Study of the Elements: Rock].

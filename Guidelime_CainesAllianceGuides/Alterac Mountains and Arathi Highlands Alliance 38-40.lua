@@ -73,20 +73,20 @@ Talk to Doctor Draxlegauge to turn in [QT666 Sunken Treasure] and accept [QA668 
 Talk to Shakes O'Breen to turn in [QT668 Sunken Treasure] and accept [QA669 Sunken Treasure].
 Hearth to Southshore[H].
 Talk to Phin Odelic to turn in [QT661 Hints of a New Plague?].
-Fly to [F Chillwind Camp].
-[G30.1,70.4Western Plaguelands][G29.9,66.1Western Plaguelands][G27.5,57.9Western Plaguelands][G81.5,71Tirisfal Glades][G81.5,57.6Tirisfal Glades][G82,38.7Tirisfal Glades]Go to Scarlet Monastary.
-Run Scarlet Monastery - Library.
-Kill Houndmaster Loksey for [QC1053,4 In the Name of the Light].
-Click the book Mythology of the Titans to complete [QC1050 Mythology of the Titans]. It can appear in several different places so check every room for it once you get past Houndmaster Loksey.
-Click the book Rituals of Power to complete [QC1951 Rituals of Power]. It can appear in several different places so check every room for it once you get past Houndmaster Loksey.[A Mage]
-After finishing the instance, click Doan's Strongbox to look The Scarlet Key.
-Run Scarlet Monastery - Armory.
-Kill Herod for [QC1053,3 In the Name of the Light].
-Run Scarlet Monastery - Cathedral.
-Kill High Inquisitor Whitemane and Scarlet Commander Mograine for [QC1053 In the Name of the Light].
+SKIP IF NOT RUNNING SCARLET MONASTERY - Fly to [F Chillwind Camp].
+SKIP IF NOT RUNNING SCARLET MONASTERY - [G30.1,70.4Western Plaguelands][G29.9,66.1Western Plaguelands][G27.5,57.9Western Plaguelands][G81.5,71Tirisfal Glades][G81.5,57.6Tirisfal Glades][G82,38.7Tirisfal Glades]Go to Scarlet Monastary.
+SKIP IF NOT RUNNING SCARLET MONASTERY - Run Scarlet Monastery - Library.
+SKIP IF NOT RUNNING SCARLET MONASTERY - Kill Houndmaster Loksey for [QC1053,4 In the Name of the Light].
+SKIP IF NOT RUNNING SCARLET MONASTERY - Click the book Mythology of the Titans to complete [QC1050 Mythology of the Titans]. It can appear in several different places so check every room for it once you get past Houndmaster Loksey.
+SKIP IF NOT RUNNING SCARLET MONASTERY - Click the book Rituals of Power to complete [QC1951 Rituals of Power]. It can appear in several different places so check every room for it once you get past Houndmaster Loksey.[A Mage]
+SKIP IF NOT RUNNING SCARLET MONASTERY - After finishing the instance, click Doan's Strongbox to look The Scarlet Key.
+SKIP IF NOT RUNNING SCARLET MONASTERY - Run Scarlet Monastery - Armory.
+SKIP IF NOT RUNNING SCARLET MONASTERY - Kill Herod for [QC1053,3 In the Name of the Light].
+SKIP IF NOT RUNNING SCARLET MONASTERY - Run Scarlet Monastery - Cathedral.
+SKIP IF NOT RUNNING SCARLET MONASTERY - Kill High Inquisitor Whitemane and Scarlet Commander Mograine for [QC1053 In the Name of the Light].
 Reach level [XP40].
-Hearth to Southshore.
-Talk to Raleigh the Devout to turn in [QT1053 In the Name of the Light].
+SKIP IF NOT RUNNING SCARLET MONASTERY - Hearth to Southshore.[H]
+SKIP IF NOT RUNNING SCARLET MONASTERY - Talk to Raleigh the Devout to turn in [QT1053 In the Name of the Light].
 Fly to [F Menethil Harbor].[A Mage]
 Take the boat to Theramore.[G5.0,63.5Wetlands][A Mage]
 [G57.1,51.1,3Dustwallow Marsh][G54.9,50.5,3Dustwallow Marsh][G54.1,56.5,2Dustwallow Marsh]Click Gizmorium Shipping Crate for [QC1187 Razzeric's Tweaking].[A Mage]

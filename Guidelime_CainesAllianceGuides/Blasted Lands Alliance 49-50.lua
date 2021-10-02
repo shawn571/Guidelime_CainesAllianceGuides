@@ -29,16 +29,10 @@ Talk to Arthur the Faithful to accept [QA8415 Chillwind Point][A Paladin][G38.7,
 Talk to Ursula Deline to accept [QA8419 An Imp's Request][A Warlock].[G26.1,77.2,2Stormwind City]
 Talk to Wu Shen to accept [QA8417 A Troubled Spirit][A Warrior].[G78.68,45.79,2Stormwind City]
 Talk to Brohann Caskbelly to turn in [QT1475 Into The Temple of Atal'Hakkar].
-Fly to [F Thelsamar].
-Use Margol's Horn in your bag to accept [QA3181 The Horn of the Beast].
-Talk to Mountaineer Pebblebitty to turn in [QT3181 The Horn of the Beast] and accept [QA3182 Proof of Deed].
 Fly to [F Ironforge].
-Talk to Curator Thorius to turn in [QT3182 Proof of Deed] and accept [QA3201 At Last!].
 Talk to Curator Thorius to turn in [QT3566 Rise Obsidion!]
 Talk to Historian Karnik to accept [QA3448 Passing the Burden].
 Talk to Tymor to turn in [QT3448 Passing the Burden] and accept [QA3449 Arcane Runes] and [QA3450 An Easy Pickup].
 Talk to Xiggs Fuselighter to turn in [QT3450 An Easy Pickup] and accept and turn in [QA3451 Signal for Pickup][QT3451 Signal for Pickup].
-Fly to [F Thelsamar].
-Talk to Mountaineer Pebblebitty to turn in [QT3201 At Last!].
 Fly to [F Chillwind Camp].
 ]], 'Caines Alliance Guides')
