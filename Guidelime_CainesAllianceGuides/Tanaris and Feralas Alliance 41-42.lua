@@ -3,10 +3,10 @@ Guidelime.registerGuide([[
 Talk to Chief Engineer Bilgewhizzle to pick up [QA1690 Wastewander Justice].
 Talk to Spigot Operator Luglunket to accept [QA1707 Water Pouch Bounty].
 Talk to Tran'rek to turn in [QT2864 Tran'rek].
-[G51.3,20.8,3Tanaris][G77.8,77.3,2Thousand Needles]Talk to Kravel Koalbeard to turn in [QT1117 Rumors for Kravel] and pick up [QA1118 Back to Booty Bay].
+[G51.3,20.8,3Tanaris][G77.8,77.3,3Thousand Needles]Talk to Kravel Koalbeard to turn in [QT1117 Rumors for Kravel] and pick up [QA1118 Back to Booty Bay].
 Talk to Fizzle Brassbolts to accept [QA1106 Martek the Exiled].
 Talk to Razzeric to turn in [QT1187 Razzeric's Tweaking] and accept [QA1188 Safety First].
-[G75.5,96.9,3Thousand Needles][G60,24Tanaris][G67.1,24.0,2Tanaris]Talk to Stoley to turn in [QT2872 Stoley's Debt].
+[G75.5,96.9,3Thousand Needles][G60,24,3Tanaris][G67.1,24.0,3Tanaris]Talk to Stoley to turn in [QT2872 Stoley's Debt].
 Talk to Yeh'kinya to accept [QA3520 Screecher Spirits].
 Kill Wastewander enemies for [QC1690 Wastewander Justice] and [QC1707 Water Pouch Bounty].[G64,30Tanaris][L60,24Tanaris]
 Talk to Shreev to turn in [QT1188 Safety First].

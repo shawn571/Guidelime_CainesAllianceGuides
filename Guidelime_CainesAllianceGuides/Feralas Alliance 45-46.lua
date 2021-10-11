@@ -20,7 +20,7 @@ Talk to Ginro Hearthkindle to turn in [QT4130 Psychometric Reading] and accept [
 Fly to [F Thalanaar].
 Click Large Leather Backpacks to turn in [QT4131 The Woodpaw Gnolls] and accept [QA4135 The Writhing Deep].
 [G73.6,64.4Feralas][G72.1,63.7,2Feralas]Go into the Writhing Deep and make a right to go to the lower region of the cave, then click Zukk'ash Pod to turn in [QT4135 The Writhing Deep] and accept [QA4265 Freed from the Hive].
-Escort Raschal the Courier to safety for [QC4265 Freed from the Hive].
+Wait for Raschal the Courier to finish speaking for [QC4265 Freed from the Hive].
 [G65.6,46.7Feralas][G65.9,45.7,2Feralas]Go up the hidden path and talk to Kindal Moonweaver to accept [QA2969 Freedom for All Creatures].
 [G67,46Feralas]Unlock the cage using the Bamboo Cage Key for [QC2969 Freedom for All Creatures].
 Talk to Kindal Moonweaver to turn in [QT2969 Freedom for All Creatures].
@@ -70,11 +70,11 @@ Fly to [F Thalanaar].
 Use the Undelivered Parcel in your bag to accept [QA4281 Thalanaar Delivery].
 Talk to Falfindel Waywarder to turn in [QT4281 Thalanaar Delivery].
 Talk to Kindal Moonweaver to accept [QA3841 An Orphan Looking For a Home].
-Hearth to Gadgetzan[H].
+Fly to Gadgetzan[F].
 Talk to Wizzle Brassbolts to turn in [QT2770 Gahz'rilla].
 Talk to Kravel Koalbeard to accept [QA1122 Report Back to Fizzlebub].
 Talk to Quentin to turn in [QT3841 An Orphan Looking For a Home] and accept [QA3842 A Short Incubation]. Turn in [QT3842 A Short Incubation] and accept [QA3843 The Newest Member of the Family].
-Fly to [F Mudsprocket]
+Fly to [F Mudsprocket]. If you skipped Zul'Farrak skip this step.
 Talk to Tabetha to turn in [QT2846 Tiara of the Deep].
 Fly to [F Theramore].
 Take the boat to Menethil Harbor.[G71.5,56.4Dustwallow Marsh]

@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 Talk to Magistrate Henry Maleb to turn in [QT525 Further Mysteries]. Accept [QA537 Dark Council] and [QA512 Noble Deaths].
 Talk to Marshal Redpath to accept [QA504 Crushridge Warmongers].
 Kill Crushridge Warmongers for [QC504 Crushridge Warmongers].
-Go to Alterac Mountains and work on [QC512 Noble Deaths][O] while doing the next steps.[G62,43Alterac Mountains].
+Go to Alterac Mountains and work on [QC512 Noble Deaths][O] while doing the next steps.
 Kill Nagaz for [QC537,2 Dark Council].
 Click the Worn Wooden Chest to loot the Ensorcelled Parchment. Click it to accept [QA551 The Ensorcelled Parchment].
 Finish up [QC512 Noble Deaths] and [QC537 Dark Council].[G59.78,43.78Alterac Mountains]
@@ -102,7 +102,6 @@ Go to the auction house and buy 4 Lesser Bloodstone Ore for a later quest in Boo
 Fly to [F Stormwind].
 Talk to Highlord Bolvar Fordragon to turn in [QT11222 Warn Bolvar!] and accept [QA11223 Return to Jaina].
 Talk to Brohann Caskbelly to accept [QA1448 In Search of the Temple].
-Talk to Duthorian Rall to accept and turn in [QA1661 The Tome of Nobility][QT1661 The Tome of Nobility].
 Talk to Archmage Malin to turn in [QT697 Malin's Request].
 Talk to High Sorcerer Andromath to accept [QA1477 Vital Supplies].
 Talk to Jennea Cannon to accept [QA2861 Tabetha's Task].[G38.5,79.3,2Stormwind City]

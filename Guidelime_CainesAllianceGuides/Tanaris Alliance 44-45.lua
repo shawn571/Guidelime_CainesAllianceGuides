@@ -24,10 +24,10 @@ Talk to Stoley to accept [QA2873 Stoley's Shipment].
 Kill Caliph Scorpidsting for [QC2781 WANTED: Caliph Scorpidsting].
 Click Sack of Corn for [QC49,2 Sweet Amber].
 Kill Wastewander enemies for [QC1691 More Wastewander Justice].
-[G67.98,41.18Tanaris][G75,46Tanaris]Kill Southsea enemies for [QC8366 Southsea Shakedown][O] and [QC8365 Pirate Hats Ahoy!][O] while doing the next steps.
+[G67.98,41.18Tanaris]Kill Southsea enemies for [QC8366 Southsea Shakedown][O] and [QC8365 Pirate Hats Ahoy!][O] while doing the next steps.
 Kill Andre Firebeard for [QC2875 WANTED: Andre Firebeard].
 Click Stolen Cargo for [QC2873 Stoley's Shipment].
-Click Pirate's Footlocker to get Ship Schedule and use it in your bag to accept [QA2876 Ship Schedules][G75,46Tanaris]
+Click Pirate's Footlocker to get Ship Schedule and use it in your bag to accept [QA2876 Ship Schedules]. If it doesn't drop before now just skip this step.[G75,46Tanaris]
 Finish up [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy!].
 Reach level [XP45].
 Talk to Security Chief Bilgewhizzle to turn in [QT2875 WANTED: Andre Firebeard], [QT2876 Ship Schedules], and [QT8366 Southsea Shakedown].
