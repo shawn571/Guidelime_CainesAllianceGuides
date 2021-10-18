@@ -15,6 +15,7 @@ Talk to Razzeric to turn in [QT1189 Safety First].
 Talk to Zamek to accept and turn in [QA1191 Zamek's Distraction][QT1191 Zamek's Distraction]. Mark this step complete.
 Click Rizzle's Unguarded Plans when he leaves to turn in [QT1190 Keeping Pace] and accept [QA1194 Rizzle's Schematics].
 Talk to Pozzik to turn in [QT1194 Rizzle's Schematics].
+Go back to Tanaris.[G74.06,92.51Thousand Needles][G50.76,24,48Tanaris]
 Kill Roc's for [QC1452,1 Rhapsody's Kalimdor Kocktail][O] while doing the next steps.
 Talk to Yeh'kinya to turn in [QT3520 Screecher Spirits].
 OPTIONAL ZUL'FARRAK QUEST - Accept [QA3527 The Prophecy of Mosh'aru].
