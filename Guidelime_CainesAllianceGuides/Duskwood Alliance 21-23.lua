@@ -7,7 +7,7 @@ Talk to Abercrombie to turn in [QT165 The Hermit] and accept [QA148 Supplies fro
 Finish up [QC226 Wolves at Our Heels] and [QC90 Seasoned Wolf Kabobs].
 Talk to Lars to turn in [QT226 Wolves at Our Heels].
 Finish up [QC245 Eight-Legged Menaces].
-Grind on spiders until you have 6 Gooey Spider Legs.
+Grind on spiders until you have 6 Gooey Spider Legs[CI2251,6].
 Talk to Jitters to turn in [QT163 Raven Hill] and pick up [QA5 Jitters' Growling Gut].
 Talk to Watcher Dodds to turn in [QT245 Eight-Legged Menaces].
 Go here and die on purpose and resurrect at the spirit healer.[G46,69,2Duskwood]

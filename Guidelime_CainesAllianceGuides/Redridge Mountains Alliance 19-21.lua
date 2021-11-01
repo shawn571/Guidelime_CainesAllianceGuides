@@ -12,11 +12,6 @@ Talk to Chef Breanna to accept [QA92 Redridge Goulash].
 Talk to Darcy to turn in [QT131 Delivering Daffodils].
 Talk to Barkeep Daniels to turn in [QT116 Dry Times].
 Talk to Hilary to turn in [QT3741 Hilary's Necklace].
-Go to Elwynn Forest.[A Human,Paladin]
-Use the Symbol of Life in your bag on Henze Faulk[G72.6,51.4,2Elwynn Forest].[A Human,Paladin]
-Talk to Henze Faulk to turn in [QT1786 The Tome of Divinity] and accept [QA1787 The Tome of Divinity].[A Human,Paladin]
-Kill Defias Rogue Wizards and loot them to complete [QC1787 The Tome of Divinity][A Human,Paladin].
-Go back to Redridge Mountains.[A Human,Paladin]
 While doing the next steps kill Black Dragon Whelps for [QC122 Underbelly Scales][O], Dire Condors and Great Goretusks for [QC92 Redridge Goulash][O], and Blackrock enemies for [QC20 Blackrock Menace][O].
 Kill murlocs for [QC127 Selling Fish]. Keep any Murloc Fins you find, you will need 8 for a later quest.
 Finish killing Black Dragon Whelps for [QC122 Underbelly Scales].[G33,66Redridge Mountains]

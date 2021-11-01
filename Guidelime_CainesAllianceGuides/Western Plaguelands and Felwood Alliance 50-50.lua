@@ -23,7 +23,7 @@ Talk to Gryphon Master Talonaxe to turn in [QT2993 Return to the Hinterlands].
 OPTIONAL ELITE - Talk to Gryphon Master Talonaxe to accept [QA2994 Saving Sharpbeak].
 OPTIONAL SUNKEN TEMPLE QUEST - Talk to Atal'ai Exile to accept [QA1446 Jammal'an the Prophet].
 Click Violet Tragan to complete [QC2641 Sprinkle's Secret Ingredient].
-Kill Vile Priestess Hexx to loot Hexx's Key.[G59.5,78.3,2The Hinterlands]
+Kill Vile Priestess Hexx to loot Hexx's Key (Only if you completed Zul'Farrak quests and now have Saving Sharpbeak, otherwise skip).[G59.5,78.3,2The Hinterlands]
 Click Ancient Egg for [QC4787 The Ancient Egg],
 Click Sharpbeak's Cage for [QC2994 Saving Sharpbeak].
 Talk to Gryphon Master Talonaxe to turn in [QT2994 Saving Sharpbeak].
@@ -41,8 +41,6 @@ Talk to Taronn Redfeather to accept [QA5156 Verifying the Corruption].
 Talk to Grazle to accept [QA8460 Timbermaw Ally].
 Kill Deadwood enemies to complete [QC8460 Timbermaw Ally].
 Talk to Grazle to turn in [QT8460 Timbermaw Ally] and skip [QS8462 Speak to Nafien] for now.
-Kill more Deadwood enemies for 5 Deadwood Feathers.[G48.32,93.19Felwood]
-Talk to Grazle accept and turn in [QA8466 Feathers for Grazle][QT8466 Feathers for Grazle].Mark this step complete.
 Kill Jaedenar enemies for [QC5155 Forces of Jaedenar].
 Talk to Greta Mosshoof to turn in [QT5155 Forces of Jaedenar] and accept [QA5157 Collection of the Corrupt Water].
 Use the Empty Canteen here to complete [QC5157 Collection of the Corrupt Water].[G35.2,59.8,3Felwood]

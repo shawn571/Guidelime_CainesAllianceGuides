@@ -9,7 +9,7 @@ Talk to Rockbiter to accept [QA2844 The Giant Guardian].
 Use the Flame of Byltan, Flame of Lahassa, Flame of Imbal, Flame of Samha at these locations.[G38.5,15.8,2Feralas][G37.7,12.2,2Feralas][G39.9,9.4,2Feralas][G40.5,12.7,2Feralas].
 Use Troya's Stave in your bag here. Then click the Equinex Monolith to turn in [QT2879 The Stave of Equinex] and accept [QA2942 The Morrow Stone]. [G38.88,13.14,2Feralas]
 Talk to Shay Leafrunner to turn in [QT2844 The Giant Guardian] and accept [QA2845 Wandering Shay].
-Click Shay's Chest to get Shay's Bell and escort her to safety. Use the bell whenever she get's distracted. Mark this step complete once you have the bell.
+Click Shay's Chest to get Shay's Bell and escort her to safety. Use the bell whenever she get's distracted. Mark this step complete once you have the bell [CI9189,1].
 Talk to Rockbiter to turn in [QT2845 Wandering Shay].
 Talk to Pratt McGrubben to turn in [QT7733 Improved Quality] and [QT7735 Pristine Yeti Hide].
 Talk to Troyas Moonbreeze to turn in [QT2942 The Morrow Stone]

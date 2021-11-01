@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 Talk to Master Smith Burninate to accept [QA7722 What the Flux?].
 Talk to Hansel Heavyhands to accept [QA7723 Curse These Fat Fingers], [QA7724 Fiery Menace!], and [QA7727 Incendosaurs? Whateverosaur is More Like It].
 Click Wanted/Missing/Lost & Found to accept [QA7728 STOLEN: Smithing Tuyere and Lookout's Spyglass] and [QA7729 JOB OPPORTUNITY: Culling the Competition].
-OPTIONAL ELITE - Click Wanted/Missing/Lost & Found to accept [QA7701 WANTED: Overseer Maltorius].
+Click Wanted/Missing/Lost & Found to accept [QA7701 WANTED: Overseer Maltorius].
 Talk to Kalaran Windblade to accept [QA3442 The Flawless Flame].
 Kill fire elementals for [QC3442 The Flawless Flame][O], Dark Iron enemies for [QC7729 JOB OPPORTUNITY: Culling the Competition][O], and Heavy War Golems for [QC7723 Curse These Fat Fingers][O] while doing the next steps.
 Kill Dark Iron Steamsmiths for [QC7728,1 STOLEN: Smithing Tuyere and Lookout's Spyglass].
@@ -15,13 +15,13 @@ Talk to Kalaran Windblade to turn in [QT3442 The Flawless Flame] and accept [QA3
 Talk to Hansel Heavyhands to turn in [QT7723 Curse These Fat Fingers] and [QT7724 Fiery Menace!].
 Talk to Taskmaster Scrange to turn in [QT7728 STOLEN: Smithing Tuyere and Lookout's Spyglass].
 [G35.2,42.6Searing Gorge][G41.1,25.6,2Searing Gorge]Talk to Dying Archaeologist to turn in [QT3371 Dwarven Justice].
-OPTIONAL ELITE - Talk to Dying Archaeologist to accept [QA3372 Release Them].
+Talk to Dying Archaeologist to accept [QA3372 Release Them].
 Kill Dark Iron enemies for [QC7729 JOB OPPORTUNITY: Culling the Competition] and [QC3443 Forging the Shaft].
 Kill Overseer Maltorius for [QC7701 WANTED: Overseer Maltorius].
 Click Secret Plans: Fiery Flux for [QC7722 What the Flux?].
 [G47.5,42.8Searing Gorge][G51,36Searing Gorge]Kill Incendosaurs for [QC7727 Incendosaurs? Whateverosaur is More Like It].
 Talk to Kalaran Windblade to turn in [QT3443 Forging the Shaft].
-OPTIONAL ELITE - Talk to Kalaran Windblade to accept [QA3452 The Flame's Casing].
+Talk to Kalaran Windblade to accept [QA3452 The Flame's Casing].
 Talk to Lookout Captain Lolo Longstriker to turn in [QT7701 WANTED: Overseer Maltorius].
 Talk to Hansel Heavyhands to turn in [QT7727 Incendosaurs? Whateverosaur is More Like It].
 Talk to Taskmaster Scrange to turn in [QT7729 JOB OPPORTUNITY: Culling the Competition].
@@ -43,11 +43,10 @@ Use Torch of Retribution on the Sentry Brazier for [QC3463,2 Set Them Ablaze!].
 Use Torch of Retribution on the Sentry Brazier for [QC3463,3 Set Them Ablaze!].
 If it dropped use the Grimesilt Outhouse Key in your bag to accept [QA4451 The Key to Freedom].
 Click Wooden Outhouse to turn in [QT4451 The Key to Freedom].
-Kill Margol the Rager and loot his horn.[G73,74Searing Gorge]
 Talk to Squire Maltrake to turn in [QT3463 Set Them Ablaze!].
 Click Hoard of the Black Dragonflight to accept and turn in [QA3481 Trinkets...][QT3481 Trinkets...].
 [G35.2,42.6Searing Gorge][G41.3,25.4,2Searing Gorge]Click Altar of Suntara to turn in [QT3372 Release Them].
-OPTIONAL ELITE - Talk to Dying Archaeologist to accept [QA3566 Rise, Obsidion!].
+Talk to Dying Archaeologist to accept [QA3566 Rise, Obsidion!].
 Kill Lathoric the Black and Obsidion for [QC3566 Rise, Obsidion!].
 Grind until level [XP49].
 Fly to [F Menethil Harbor].

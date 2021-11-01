@@ -158,7 +158,7 @@ Die on purpose and resurrect at the spirit healer.
 Talk to Mountaineer Kadrell to turn in [QT416 Rat Catching].
 Hearth to Ironforge.[H]
 Take the Deeprun Tram back to Stormwind.[A Paladin]
-Enter Stormwind and talk to Duthorian Rall to accept and turn in [QA1641 The Tome of Divinity][QT1641 The Tome of Divinity].[A Paladin]
+Enter Stormwind and talk to Duthorian Rall to accept and turn in [QA1641 The Tome of Divinity][QT1641 The Tome of Divinity]. Mark this step complete AFTER performing the next step which will be greyed out.[A Paladin] 
 Use the Tome of Divinity in your bag to accept [QA1642 The Tome of Divinity].[A Paladin]
 Talk to Duthorian Rall to turn in [QT1642 The Tome of Divinity] and accept [QA1643 The Tome of Divinity].[A Paladin]
 Talk to Stephanie Turner to turn in [QT1643 The Tome of Divinity] and accept [QA1644 The Tome of Divinity].[A Paladin]

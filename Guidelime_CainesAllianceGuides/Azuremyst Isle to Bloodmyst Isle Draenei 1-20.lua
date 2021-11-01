@@ -292,7 +292,8 @@ Talk to Vindicator Corin to turn in [QT10066 Oh, the Tangled Webs They Weave]
 Talk to Scout Jorli to turn in [QT10065 Cutting a Path]
 Hearth [H]
 Talk to Morae to turn in [QT9579 Galaen's Fate]
-Talk to Vindicator Aesom to turn in [QT9741 Critters of the Void] and accept [QA9753 What We Know...]
+Talk to Vindicator Aesom to turn in [QT9741 Critters of the Void]. 
+Talk to Vindicator Aesom to accept [QA9753 What We Know...]
 Talk to Vindicator Kuros to turn in [QT9703 The Cryo-Core] and [QT9706 Galaen's Journal - The Fate of Vindicator Saruan]. Accept [QA9711 Matis the Cruel].
 Talk to Vindicator Aseom to accept [QA9748 Don't Drink the Water]
 Talk to Exarch Admetius to turn in [QT9753 What We Know...] and accept [QA9756 What We Don't Know...]

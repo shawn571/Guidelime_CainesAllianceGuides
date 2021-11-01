@@ -58,7 +58,7 @@ Talk to A-Me 01 to turn in [QT4243 Chasing A-Me 01] and accept [QA4244 Chasing A
 Escort A-Me 01 to safety to complete [QC4245 Chasing A-Me 01].
 Talk to Karna Remtravel to turn in [QT4245 Chasing A-Me 01].
 Click Crate of Foodstuffs for [QC3881,1 Expedition Salavation].
-Opem Torwa's Pouch in your bag if you haven't already.
+Open Torwa's Pouch in your bag if you haven't already.
 Use the Preserved Threshadon Meat and then the Preserved Pheramone Mixture at Un’Goro Flat Rock and kill Lar’korwi to complete [QC4292 The Bait for Lar’korwi].[G79.86,49.88,2Un'Goro Crater]
 Talk to Torwa Pathfinder to turn in [QT4292 The Bait for Lar’korwi] and [QT4301 The Mighty U’cha].
 Talk to Torwa Pathfinder to turn in [QT9053 A Better Ingredient].[A Druid]
@@ -107,5 +107,7 @@ Fly to [F Rut’theran Village].[A Druid,Hunter,Rogue,Paladin,Priest,Warlock,War
 Talk to Erelas Ambersky to accept [QA978 Moontouched Wildkin].
 Talk to Arch Druid Fandral Staghelm to accept [QA3764 Un'Goro Soil].
 Talk to Jenal to turn in [QT3764 Un'Goro Soil].
+Talk to Gracina Spiritmight to turn in [QT4508 Calm Before the Storm] and accept [QA4510 Calm Before the Storm].
+Talk to Idriana to turn in [QT4510 Calm Before the Storm].
 Fly to [F Talonbranch Glade].
 ]], 'Caines Alliance Guides')
