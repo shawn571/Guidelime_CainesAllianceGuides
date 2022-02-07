@@ -45,7 +45,7 @@ Click Karnitol's Chest to turn in [QT1454 The Karnitol Shipwreck] and accept [QA
 Click Rackmore's Log to accept [QA6161 Claim Rackmore's Treasure!].
 Talk to Vahlarriel Demonslayer to turn in [QT1465 Vahlarriel's Search] and accept [QA1438 Vahlarriel's Search].
 Talk to Kreldig Ungor to turn in [QT1455 The Karnitol Shipwreck] and accept [QA1456 The Karnitol Shipwreck].
-Kill Burning Blade Seers to complete [QC5741 Sceptre of Light].
+Kill Burning Blade Seer to complete [QC5741 Sceptre of Light].
 Talk to Dalinda Malem to turn in [QT1438 Vahlarriel's Search] and accept [QA1439 Search for Tyranis].
 Kill Tyranis Malem for [QC1439 Search for Tyranis].
 Talk to Dalinda Malem to turn in [QT1439 Search for Tyranis] and accept [QA1440 Return to Vahlarriel].

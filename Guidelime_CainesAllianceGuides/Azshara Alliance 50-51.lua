@@ -5,7 +5,7 @@ Kill Highborne enemies for [QC5535 Spiritual Unrest].
 Kill Haldarr enemies for [QC5536 A Land Filled with Hatred].
 Talk to Loh'atu to turn in [QT5535 Spiritual Unrest] and [QT5536 A Land Filled with Hatred].
 Talk to Ogtinc to turn in [QT8151 The Hunt'er's Charm] and accept [QA8153 Courser Antlers][A Hunter].
-Kill Timbermaw Shamans for [QC8234 Sealed Azure Bag][A Rogue]
+Pickpocket Timbermaw Shamans for [QC8234 Sealed Azure Bag][A Rogue]
 Talk to Sanath Lim-yo to turn in [QT8250 Magecraft] and accept [QA8251 Magic Dust][A Mage].
 Talk to Ogtinc to turn in [QT8254 Cenarion Aid] and accept [QA8255 Of Coursers We Know][A Priest].
 Reach level [XP51]

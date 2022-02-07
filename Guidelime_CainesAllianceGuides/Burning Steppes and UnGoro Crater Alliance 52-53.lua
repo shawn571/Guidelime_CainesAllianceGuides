@@ -2,7 +2,7 @@ Guidelime.registerGuide([[
 [GA Alliance][N52-53Burning Steppes and Un’Goro Crater][NX53-55Felwood and Winterspring]
 Talk to Borgus Stoutarm to get the flight point.[P][G84.3,68.3,2Burning Steppes]
 Talk to Oralius to accept [QA3823 Extinguish the Firegut].
-OPTIONAL ELITE – Talk to Helendis Riverhorn to accept [QA4182 Dragonkin Menace].
+Talk to Helendis Riverhorn to accept [QA4182 Dragonkin Menace].
 Kill Firegut enemies for [QC3823 Extinguish the Firegut][O] while doing the next steps.
 Talk to Tinkee Steamboil to accept [QA4726 Broodling Essence].
 Talk to Maxwort Uberglint to accept [QA4296 Tablet of the Seven].

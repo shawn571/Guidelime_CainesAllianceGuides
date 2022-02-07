@@ -8,8 +8,9 @@ Talk to Thor to turn in [QT6181 A Swift Message] and accept [QA6281 Continue to 
 Talk to Thor to get the flight point.[P][G56.54,52.64,1Westfall]
 Talk to Scout Galiaan to accept [QA153 Red Leather Bandanas].
 Talk to Innkeeper Heather to get a Hearthstone and make this inn your home.[S][G52.86,53.69,1Westfall]
-Swim here and go underwater to open the Strange Lockbox for the Half Pendant of Aquatic Endurance. Now that you have both pieces, click it to complete [QC272 Trial of the Sea Lion][A NightElf,Druid]. [G17.9,33Westfall]
+Swim here and go underwater to open the Strange Lockbox for the Half Pendant of Aquatic Endurance.[G17.9,33Westfall]
 Go to Stranglethorn Vale and die and resurrect at the spirit healer.[G76.6,80Westfall][A NightElf]
+Talk to Nizzle to get the flight point.[P][G38.23,4.04Stranglethorn Vale][A NightElf]
 Head to Duskwood.[G40.58,3.17Stranglethorn Vale][A NightElf]
 Go here and die on purpose and resurrect at the spirit healer.[G48,77Duskwood][A NightElf]
 Talk to Bartender Hann to buy a Bottle of Moonshine for a future quest.[G73.81,44.02,2Duskwood][A NightElf]
@@ -37,6 +38,12 @@ Talk to Guard Parker to turn in [QT129 A Free Lunch] and accept [QA130 Visit the
 Reach level [XP17].
 Go south to Duskwood.[A Dwarf,Human,Gnome][G6.46,91.40,3Redridge Mountains]
 Talk to Felicia Maline to get the flight point.[G77.48,44.3,1Duskwood][P][A Dwarf,Human,Gnome].
+Teleport to Moonglade.[A Druid]
+Go to the Shrine of Remulos and click the Half Pendant of Aquatic Agility for [QC272 Trial of the Sea Lion].[G36.42,41.94,3Moonglade]
+Teleport to Moonglade.[A Druid]
+Talk to Dendrite Starblaze to turn in [QT272 Trial of the Sea Lion] and accept [QA5061 Aquatic Form][A NightElf,Druid].
+Talk to Silva Fil'naveth to fly to Rut'theran Village.[G44.14,45.23,1,Moonglade][A Druid]v cb
+Talk to Mathrengyl Bearwalker to turn in [QT5061 Aquatic Form][A NightElf,Druid].
 Hearth to Sentinel Hill.[H]
 Talk to Gryan Stoutmantle to turn in [QT132 The Defias Brotherhood] and accept [QA135 The Defias Brotherhood].
 Talk to Farmer Saldean to accept [QA9 The Killing Fields].
@@ -109,11 +116,6 @@ Reach level [XP19].
 Talk to Gryan Stoutmantle to turn in [QT14 The People's Militia].
 Talk to Captain Danuvin to turn in [QT102 Patrolling Westfall].
 Talk to Captain Grayson to turn in [QT104 The Coastal Menace] and [QT152 The Coast Isn't Clear].
-Teleport to Moonglade.[A Druid]
-Talk to Dendrite Starblaze to turn in [QT272 Trial of the Sea Lion] and accept [QA5061 Aquatic Form][A NightElf,Druid].
-Fly to Rut'theran Village.[A Druid]
-Talk to Mathrengyl Bearwalker to turn in [QT5061 Aquatic Form][A NightElf,Druid].
-Hearth to Sentinel Hill.[A Druid]
 Fly to [F Stormwind]
 Talk to Baros Alexston to turn in [QT399 Humble Beginnings].
 Talk to Innkeeper Allison to make this inn your home.[G52.65,65.68,2Stormwind City][S]

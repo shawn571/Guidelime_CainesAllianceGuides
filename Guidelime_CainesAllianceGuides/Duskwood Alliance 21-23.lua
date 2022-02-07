@@ -67,6 +67,7 @@ Talk to Buliwyf Stonehand to train One-Handed Axes, Two-Handed Axes and Two-Hand
 Talk to Gryth Thurden to get the flight point.[P][A NightElf][G55.5,47.7,2Ironforge][A NightElf,Draenei]
 Go to Dun Morogh and then to Loch Modan and talk to Thorgrum Borrelson to get the flight point.[P][A NightElf,Draenei][G55.5,47.7Ironforge][G19.6,62.7Loch Modan][G33.9,51.0,2]
 Talk to Mountaineer Stormpike to turn in [QT353 Stormpike's Delivery][A NightElf,Draenei].
+Talk to Thorgrum Borrelson to get the flight point.[P][G33.96,50.95,1Dun Morogh][A NightElf,Draenei]
 Fly to [F Ironforge][A NightElf,Draenei]
 Leave Ironforge and climb the mountain to Wetlands.[G30.9,32.6,1Dun Morogh][G32.8.29.1,1Dun Morogh][G32.19,29.06,1Dun Morogh] [G33.5,26.0,1Dun Morogh]. When it says you're in Wetlands, jump off the mountain and die and then resurrect at the spirit healer.[A NightElf,Draenei]
 Talk to Naela Trance to vendor and repair.[V][G11.29,58.29,1Wetlands][A NightElf,Draenei]

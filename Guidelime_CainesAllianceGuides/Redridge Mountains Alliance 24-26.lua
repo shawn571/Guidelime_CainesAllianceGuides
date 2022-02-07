@@ -32,7 +32,7 @@ Talk to Master Mathias Shaw to turn in [QT393 Shadow of the Past] and accept [QA
 Talk to Elling Trias to turn in [QT350 Look to an Old Friend] and accept [QA2745 Infiltrating the Castle].
 Talk to Tyrion to turn in [QT2745 Infiltrating the Castle] and accept [QA2746 Items of Some Consequence].
 Reach level [XP26]
-Talk to Jennea Cannon to accept [QA1939 High Sorcerer Andromath].[A Mage]
+Talk to Jennea Cannon to accept [QA1939 High Sorcerer Andromath].[A Mage][G38.6,79.6,2Stormwind City]
 Talk to High Sorcerer Andromath to turn in [QT1939 High Sorcerer Andromath] and accept [QA1938 Ur's Treatise on Shadow Magic].[A Mage]
 Talk to Master Mathias Shaw to accept [QA2360 Mathias and the Defias].
 Fly to [F Darkshire].

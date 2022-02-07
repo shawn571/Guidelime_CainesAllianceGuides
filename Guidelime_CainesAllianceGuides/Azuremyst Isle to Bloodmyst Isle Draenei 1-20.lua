@@ -239,7 +239,7 @@ Talk to Huntress Kella Nightbow to turn in [QT9632 Newfound Allies] and accept [
 Talk to Prophet Velen to turn in [QT9698 Audience with the Prophet] and accept [QA9699 Truth or Fiction]
 Hearth [H]
 Talk to Vindicator Boros to turn in [QT9699 Truth or Fiction] and accept [QA9700 I Shoot Magic Into the Darkness]
-Kill Royal Blue Flutterers for [QC9647 Culling the Flutterers][O] while doing the next
+Kill Royal Blue Flutterers for [QC9647 Culling the Flutterers][O] while doing the next steps.
 Kill Void Anomalies for [QC9700,1 I Shoot Magic Into the Darkness]
 Visit Sun Portal Site for [QC9700,3 I Shoot Magic Into the Darkness]
 Walk around here for [QC9700,2 I Shoot Magic Into the Darkness] if somehow you didn't complete it already
@@ -249,6 +249,7 @@ Pick up Clopper's Equipment for [QC9548 Pilfered Equipment]
 Kill Deathclaw for [QC9646 WANTED: Deathclaw]
 Talk to Clopper Wizbang to turn in [QT9548 Pilfered Equipment] and [QT9549 Artifacts of the Blacksilt]
 Use the reward Weathered Treasure Map to accept [QA9550 A Map to Where?]
+Finish up [QC9647 Culling the Flutterers].
 Use the Crystal Mining Pick on the Axxarien Crystal for [QC9585 The Final Sample]
 Kill Axxarien Hellcallers and Axxarien Shadowstalers and pick up Corrupted Crystals for [QC9569,2 Containing the Threat][O],[QC9569,3 Containing the Threat][O],[QC9569,4 Containing the Threat][O] while doing the next step
 Kill Zevrak for [QC9569,1 Containing the Threat]

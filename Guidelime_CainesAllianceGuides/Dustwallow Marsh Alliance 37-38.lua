@@ -100,7 +100,6 @@ Talk to Magus Tirth to accept [QA1951 Rituals of Power][A Mage].
 Talk to Kravel Koalbeard to turn in [QT1112 Parts for Kravel] and accept [QA1114 Delivery to the Gnomes].
 Talk to Fizzle Brassbolts to turn in [QT1114 Delivery to the Gnomes].
 Talk to Kravel Koalbeard to accept [QA1115 The Rumormonger].
-Teleport to Moonglade.[A Druid]#Talk to your trainer and train Claw (Rank 3), Healing Touch (Rank 7).[A Druid]
 Hearth to Ironforge[H].
 Buy a Jade from the Auction House.[A Mage]
 Fly to [F Southshore].

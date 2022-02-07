@@ -52,7 +52,7 @@ Talk to Aqueous to turn in [QT9503 Call of Water] and accept [QA9504 Call of Wat
 Fly to [F The Exodar][A Shaman]
 [G20.41,54.17,1 Azuremyst Isle] Take the boat to Auberdine[A Shaman]
 Fly to [F Astranaar].[A Shaman]
-Click the fountain to complete [QC9504 Call of Water][A Shaman]
+Click the Empty Bota Bag in your bag while standing at the foundatin to complete [QC9504 Call of Water][A Shaman]
 Fly to [F Auberdine].[A Shaman]
 [G30.74,41.00Darkshore] Take the boat to Azuremyst Isle [A Shaman]
 Fly to [F Bloodmyst Isle][A Shaman]
