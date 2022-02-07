@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[N5-12Dun Morogh to Loch Modan][NX12-16Darkshore][GA Dwarf,Gnome]
+[N5-12Dun Morogh to Loch Modan][NX12-16Darkshore][GA Alliance]
 Kill enemies around here until level [XP6],[G36.17,61.63Dun Morogh]
 Talk to Senir Whitebeard to turn in [QT420 Senir's Observations].
 Talk to Tannok Frosthammer to turn in [QT2160 Supplies to Tannok].

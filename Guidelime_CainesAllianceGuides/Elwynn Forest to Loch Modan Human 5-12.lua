@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[GA Alliance,Human][N5-12Elwynn Forest to Loch Modan][NX12-16Darkshore]
+[GA Alliance][N5-12Elwynn Forest to Loch Modan][NX12-16Darkshore]
 Talk to Marshal Dughan to turn in [QT54 Report to Goldshire] and accept [QA62 The Fargodeep Mine].
 Talk to Innkeeper Farley to turn in [QT2158 Rest and Relaxation].
 Talk to him again to set your hearth here and vendor unneeded items.[S][V]

@@ -1,5 +1,5 @@
 Guidelime.registerGuide([[
-[GA NightElf][N6-12Teldrassil][NX12-16Darkshore]
+[GA Alliance][N6-12Teldrassil][NX12-16Darkshore]
 Talk to Zenn Foulhoof to accept [QA488 Zenn's Bidding].
 While doing the next steps work on [QC488 Zenn's Bidding][O].
 Talk to Corithas Moonrage to turn in [QT928 Crown of the Earth] and accept [QA929 Crown of the Earth].
