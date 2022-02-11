@@ -42,7 +42,7 @@ Teleport to Moonglade.[A Druid]
 Go to the Shrine of Remulos and click the Half Pendant of Aquatic Agility for [QC272 Trial of the Sea Lion].[G36.42,41.94,3Moonglade]
 Teleport to Moonglade.[A Druid]
 Talk to Dendrite Starblaze to turn in [QT272 Trial of the Sea Lion] and accept [QA5061 Aquatic Form][A NightElf,Druid].
-Talk to Silva Fil'naveth to fly to Rut'theran Village.[G44.14,45.23,1,Moonglade][A Druid]v cb
+Talk to Silva Fil'naveth to fly to Rut'theran Village.[G44.14,45.23,1Moonglade][A Druid]
 Talk to Mathrengyl Bearwalker to turn in [QT5061 Aquatic Form][A NightElf,Druid].
 Hearth to Sentinel Hill.[H]
 Talk to Gryan Stoutmantle to turn in [QT132 The Defias Brotherhood] and accept [QA135 The Defias Brotherhood].
