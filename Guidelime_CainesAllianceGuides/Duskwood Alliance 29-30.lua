@@ -18,7 +18,7 @@ Fly to [F Stormwind].[A Druid,Hunter,Rogue,Priest,Warlock,Warrior,Paladin,Shaman
 Hearth to Darnassus.[A Mage]
 Talk to Elissa Dumas to train Teleport: Darnassus.[G40.6,82.1,2Darnassus][A Mage]
 Teleport to Stormwind.[A Mage]
-Talk to Jennea Cannon to accept [QA1947 Journey to the Marsh].[G38.5,79.3,2Stormwind City][A Mage]#Talk to your trainer and train Ice Armor, Arcane Explosion (Rank 3), Conjure Water (Rank 4).[A Mage]
+Talk to Jennea Cannon to accept [QA1947 Journey to the Marsh].[G38.5,79.3,2Stormwind City][A Mage]
 Talk to Wynne Larson to turn in [QT1940 Pristine Spider Silk].[A Mage]
 Talk to Wynne Larson to accept and turn in [QA1942 Astral Knot Garment][QT1942 Astral Knot Garment].[A Mage]
 If An Old History Book dropped, use it in your bag to accept [QA337 An Old History Book].

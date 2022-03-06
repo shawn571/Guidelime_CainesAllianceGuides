@@ -76,7 +76,7 @@ Talk to Kreldig Ungor to turn in [QT1456 The Karnitol Shipwreck] and accept [QA1
 Talk to Brother Anton to accept [QA261 Down the Scarlet Path].
 Talk to Bibbly F'utzbuckle to turn in [QT5501 Bone Collector].
 While doing the next steps, kill felhounds, succubi, and Doomwarder Captains for [QC1466 Reagents for Reclaimers Inc.][O].
-Attack the Tears of Theradras for [QC1369 Broken Tears] inside the cave.[G38.5,91.1Desolace]
+Click the Tears of Theradras for [QC1369 Broken Tears] inside the cave.[G38.5,91.1Desolace]
 Talk to Rigger Gizelton to accept [QA5943 Gizelton Caravan] if he is there and offering the quest.[G45,76,Desolace]. You may also want to skip this or grind in the meantime because he can take a long time to show up.
 Escort the caravan to safety for [QC5943 Gizelton Caravan].
 Talk to Smeed Scrabblescrew to turn in [QT5943 Gizelton Caravan].

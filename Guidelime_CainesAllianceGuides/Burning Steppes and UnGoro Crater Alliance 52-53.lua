@@ -38,7 +38,7 @@ Talk to Bath'rah the Windwatcher to turn in [QT8413 Da Voodoo].[A Shaman]
 Fly to [F Aerie Peak].[A Druid,Hunter,Mage,Paladin,Warlock,Priest,Warrior,Shaman]
 Talk to Lord Jorach Ravenholdt to turn in [QT8236 The Azure Key].[A Rogue]
 Talk to Atal’ai Exile to turn in [QT1446 Jammal’an the Prophet].
-Hearth to Menethil Harbor.
+Hearth to Menethil Harbor.[H]
 Take the boat to Theramore.[G5.0,63.5Wetlands]
 Fly to [F Gadgetzan].
 Talk to Alchemist Pestlezugg to turn in [QT4496 Bungle in the Jungle] and accept [QA4507 Pawn Captures Queen].
