@@ -81,7 +81,7 @@ Talk to "Swamp Eye" Jarl to turn in [QT1206 Jarl Needs Eyes] and accept [QA1203 
 Kill Razorspine for [QC1203 Jarl Needs a Blade]
 Talk to "Swamp Eye" Jarl to turn in [QT1203 Jarl Needs a Blade]
 Talk to Captain Darill to turn in [QT11143 A Grim Connection]. Accept [QA11144 Confirming the Suspicion] and [QA11148 Arms of the Grimtotems].
-Kill Grimtotem Elders for four Grimtotem Notes and then combine them for [QC11144 Comfirming the Suspicion].[G42.31,13.29,3Dustwallow Marsh]
+Kill Grimtotem Elders for four Grimtotem Notes and then combine them for [QC11144 Confirming the Suspicion].[G42.31,13.29,3Dustwallow Marsh]
 Pick up Blackhoof Armaments for [QC11148 Arms of the Grimtotems]
 Talk to Captain Darill to turn in [QT11144 Confirming the Suspicion] and [QT11148 Arms of the Grimtotems]. Accept [QA11149 Tabetha's Assistance].
 Talk to Tabetha to turn in [QT11149 Tabetha's Assistance] and accept [QA11150 Raze Direhorn Post!]

@@ -24,7 +24,7 @@ Talk to Einris Brightspear to accept [QA8151 The Hunter's Charm][A Hunter].[G61.
 Talk to Osborne the Night Man to accept [QA8233 A Simple Request][A Rogue][G74.6,52.8,2Stormwind City]
 Talk to Brother Joshua to accept [QA8254 Cenarion Aid][A Priest].[G41.2,28.2,2Stormwind City]
 Buy 1 Ichor of Undeath from the Auction House for a priest quest.[A Priest]
-Talk to Elsharin to accept [QA8250 Magecraft][A Mage].[G36.88,81.23,2Stormwind City]
+Talk to Maginor Dumas to accept [QA8250 Magecraft][A Mage].
 Talk to Arthur the Faithful to accept [QA8415 Chillwind Point][A Paladin][G38.7,32.9,2Stormwind City]
 Talk to Demisette Cloyce to accept [QA8419 An Imp's Request][A Warlock].[G26.1,77.2,2Stormwind City]
 Talk to Wu Shen to accept [QA8417 A Troubled Spirit][A Warrior].[G78.68,45.79,2Stormwind City]

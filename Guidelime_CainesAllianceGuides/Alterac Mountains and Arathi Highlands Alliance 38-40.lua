@@ -25,7 +25,7 @@ Click Stone of East Binding for [QC651,2 Stones of Binding].
 Get 10 Witherbark Totem Sticks of these enemies too.[A Mage]
 Talk to Quae to turn in [QT659 Hints of a New Plague?] and accept [QA658 Hints of a New Plague?].
 Click Stone of Outer Binding for [QC651,3 Stones of Binding].
-Click Stone of Outer Binding for [QC1948,2 Items of Power][A Mage].
+Click Witherbark Totem Sticks in your bag and then get the Bolt Charged Bramble that appears on top of the stone for [QC1948,2 Items of Power][A Mage].
 Talk to Apprentice Kryten to turn in [QT691 Worth Its Weight in Gold].
 Talk to Skuerto to accept [QA693 Wand Over Fist].
 While doing the next step look for the Forsaken Courier for [QC658 Hints of a New Plague?][O]
@@ -89,7 +89,8 @@ SKIP IF NOT RUNNING SCARLET MONASTERY - Hearth to Southshore.[H]
 SKIP IF NOT RUNNING SCARLET MONASTERY - Talk to Raleigh the Devout to turn in [QT1053 In the Name of the Light].
 Fly to [F Menethil Harbor].[A Mage]
 Take the boat to Theramore.[G5.0,63.5Wetlands][A Mage]
-[G57.1,51.1,3Dustwallow Marsh][G54.9,50.5,3Dustwallow Marsh][G54.1,56.5,2Dustwallow Marsh]Click Gizmorium Shipping Crate for [QC1187 Razzeric's Tweaking].[A Mage]
+Fly to [F Mudsprocket].[A Mage]
+Click Gizmorium Shipping Crate for [QC1187 Razzeric's Tweaking].[A Mage]
 Talk to Tabetha to turn in [QT1951 Rituals of Power] and [QT1948 Items of Power]. Accept and turn in [QA1952 Mage's Wand][QT1952 Mage's Wand].[A Mage]
 Teleport to Ironforge.[A Mage]
 Fly to [F Ironforge].[A Druid,Hunter,Paladin,Rogue,Warlock,Warrior,Priest,Shaman]
